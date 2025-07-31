@@ -9,3 +9,6 @@
 
 > "Sharpen your mind like your code: clean, tested, and refactored daily."
 -- Gen Z Socrates vibes, ngl
+
+> “Every day won’t feel legendary—but showing up makes it one step closer.”
+-- Unknown
