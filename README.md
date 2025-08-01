@@ -12,3 +12,6 @@
 
 > “Every day won’t feel legendary—but showing up makes it one step closer.”
 -- Unknown
+
+> “The ultimate aim of martial arts is not having to use them.”
+— Miyamoto Musashi
