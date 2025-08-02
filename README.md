@@ -15,3 +15,6 @@
 
 > “The ultimate aim of martial arts is not having to use them.”
 — Miyamoto Musashi
+
+> “Discipline is choosing between what you want now and what you want most.”
+— Abraham Lincoln (probably not, but it hits)
