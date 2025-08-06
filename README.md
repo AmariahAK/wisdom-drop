@@ -30,3 +30,11 @@
 # Discipline Wisdom of the day(August 4 2025)
 > “A river cuts through rock not because of its power, but because of its persistence.”
 — James N. Watkins
+
+# Life Wisdom of the day(August 5 2025)
+> "If you're always trying to be normal, you will never know how amazing you can be."
+— Maya Angelou
+
+# Life Wisdom of the day(August 6 2025)
+> "Your time is limited, so don’t waste it living someone else’s life."
+— Steve Jobs
