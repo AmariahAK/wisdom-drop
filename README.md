@@ -38,3 +38,7 @@
 # Life Wisdom of the day(August 6 2025)
 > "Your time is limited, so don’t waste it living someone else’s life."
 — Steve Jobs
+
+# Motivation Wisdom of the day(August 7 2025)
+> “Sometimes, when you’re in a dark place, you think you’ve been buried. But you’ve actually been planted.” 
+— Christine Caine
