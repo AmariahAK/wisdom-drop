@@ -42,3 +42,7 @@
 # Motivation Wisdom of the day(August 7 2025)
 > “Sometimes, when you’re in a dark place, you think you’ve been buried. But you’ve actually been planted.” 
 — Christine Caine
+
+# Life Wisdom of the day(August 8 2025)
+> "You don’t have to move fast and break things. Move thoughtfully and build things worth keeping."
+-- Unknown
