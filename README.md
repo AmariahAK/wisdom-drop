@@ -46,3 +46,7 @@
 # Life Wisdom of the day(August 8 2025)
 > "You don’t have to move fast and break things. Move thoughtfully and build things worth keeping."
 -- Unknown
+
+# Motivation Wisdom of the day(August 9 2025)
+> “Rejection is just redirection to a better version of your idea.”
+-- Unknown
