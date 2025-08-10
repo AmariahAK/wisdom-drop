@@ -50,3 +50,7 @@
 # Motivation Wisdom of the day(August 9 2025)
 > “Rejection is just redirection to a better version of your idea.”
 -- Unknown
+
+# Life Wisdom of the day(August 10 2025)
+> “Faith is taking the first step even when you don’t see the whole staircase.”
+— Martin Luther King Jr.
