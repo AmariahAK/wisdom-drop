@@ -54,3 +54,7 @@
 # Life Wisdom of the day(August 10 2025)
 > “Faith is taking the first step even when you don’t see the whole staircase.”
 — Martin Luther King Jr.
+
+# Motivation Wisdom of the day (August 11 2025)
+> "Do not wait for leaders; do it alone, person to person."
+– Mother Teresa
