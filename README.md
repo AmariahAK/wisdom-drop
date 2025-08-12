@@ -58,3 +58,7 @@
 # Motivation Wisdom of the day (August 11 2025)
 > "Do not wait for leaders; do it alone, person to person."
 – Mother Teresa
+
+# Motivation Wisdom of the day (August 12 2025)
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+— Aristotle
