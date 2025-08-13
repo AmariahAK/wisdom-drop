@@ -62,3 +62,7 @@
 # Motivation Wisdom of the day (August 12 2025)
 > "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
 — Aristotle
+
+# Motivation Wisdom of the day (August 13 2025)
+> "It always seems impossible until it’s done."
+— Nelson Mandela
