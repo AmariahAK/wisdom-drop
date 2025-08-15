@@ -67,6 +67,10 @@
 > "It always seems impossible until it’s done."
 — Nelson Mandela
 
-# Life Motivation of the day (August 14 2025)
+# Life Wisdom of the day (August 14 2025)
 > "“Opportunities don’t happen. You create them.”
 — Chris Grosser
+
+# Motivation Wisdom of the day (August 15 2025)
+> "It never gets easier, you just get stronger."
+— Greg LeMond
