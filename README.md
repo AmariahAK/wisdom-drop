@@ -75,7 +75,7 @@
 > "It never gets easier, you just get stronger."
 — Greg LeMond
 
-# Life Wisdom of the day (AUGUST 16 2025)
+# Life Wisdom of the day (August 16 2025)
 > “Success is not final, failure is not fatal: it is the courage to continue that counts.”
 — Winston Churchill
 
