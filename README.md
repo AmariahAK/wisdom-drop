@@ -79,11 +79,11 @@
 > “Success is not final, failure is not fatal: it is the courage to continue that counts.”
 — Winston Churchill
 
-# Yesterday’s (Aug 17, 2025):
+# Life Wisdom of the day (August 17, 2025):
 > "Success is not final, failure is not fatal: it is the courage to continue that counts." 
 — Winston Churchill
 
-# Today’s (Aug 18, 2025):
+# Motivation Wisdom of the day (August 18, 2025):
 > "Do not wait to strike till the iron is hot, but make it hot by striking." 
 — William Butler Yeats
 
