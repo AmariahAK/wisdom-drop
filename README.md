@@ -87,4 +87,10 @@
 > "Do not wait to strike till the iron is hot, but make it hot by striking." 
 — William Butler Yeats
 
+# Life Wisdom of the day (August 19 2025) 
+> “Do what you can, with what you have, where you are.”
+— Theodore Roosevelt
+
+
+
 
