@@ -98,3 +98,7 @@
 # Life Wisdom of the day (August 21 2025)
 >“The future belongs to those who believe in the beauty of their dreams.” 
 – Eleanor Roosevelt
+
+# Life Wisdom of the day (August 22 2025)
+>"The future belongs to those who believe in the beauty of their dreams." 
+— Eleanor Roosevelt 🌍✨
