@@ -101,4 +101,8 @@
 
 # Life Wisdom of the day (August 22 2025)
 >"The future belongs to those who believe in the beauty of their dreams." 
-— Eleanor Roosevelt 🌍✨
+— Eleanor Roosevelt 
+
+# Character Wisdom of the day (August 23 2025)
+>“Kindness is a language which the deaf can hear and the blind can see.” 
+— Mark Twain
