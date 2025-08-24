@@ -106,3 +106,7 @@
 # Character Wisdom of the day (August 23 2025)
 >“Kindness is a language which the deaf can hear and the blind can see.” 
 — Mark Twain
+
+# Perspective Wisdom of the day
+> “Do not wait to strike till the iron is hot, but make it hot by striking.”
+— William Butler Yeats
