@@ -110,3 +110,7 @@
 # Perspective Wisdom of the day
 > “Do not wait to strike till the iron is hot, but make it hot by striking.”
 — William Butler Yeats
+
+# Life Wisdom of the day
+> “Success is stumbling from failure to failure with no loss of enthusiasm.”
+— Winston Churchill
