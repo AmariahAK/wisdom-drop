@@ -107,10 +107,10 @@
 >“Kindness is a language which the deaf can hear and the blind can see.” 
 — Mark Twain
 
-# Perspective Wisdom of the day
+# Perspective Wisdom of the day(August 24 2025)
 > “Do not wait to strike till the iron is hot, but make it hot by striking.”
 — William Butler Yeats
 
-# Life Wisdom of the day
+# Life Wisdom of the day(August 25 2025)
 > “Success is stumbling from failure to failure with no loss of enthusiasm.”
 — Winston Churchill
