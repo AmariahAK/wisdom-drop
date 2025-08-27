@@ -144,3 +144,8 @@
 
 > “Happiness is not something ready made. It comes from your own actions.”
 > — Dalai Lama
+
+# Life Wisdom of the Day (August 27 2025)
+
+> “Don’t count the days, make the days count.”
+> — Muhammad Ali
