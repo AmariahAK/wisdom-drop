@@ -150,6 +150,6 @@
 > “Don’t count the days, make the days count.”
 > — Muhammad Ali
 
-# Perspective Wisdom of the day
+# Perspective Wisdom of the day (August 28 2025)
 >"He who has a why to live can bear almost any how." 
 >— Friedrich Nietzsche
