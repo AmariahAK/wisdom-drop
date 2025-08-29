@@ -153,3 +153,7 @@
 # Perspective Wisdom of the day (August 28 2025)
 >"He who has a why to live can bear almost any how." 
 >— Friedrich Nietzsche
+
+# Stoic Wisdom of the day (August 29 2025)
+>"We suffer more often in imagination than in reality." 
+>— Seneca
