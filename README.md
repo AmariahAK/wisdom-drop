@@ -151,9 +151,13 @@
 > — Muhammad Ali
 
 # Perspective Wisdom of the day (August 28 2025)
->"He who has a why to live can bear almost any how." 
->— Friedrich Nietzsche
+> "He who has a why to live can bear almost any how." 
+> — Friedrich Nietzsche
 
 # Stoic Wisdom of the day (August 29 2025)
->"We suffer more often in imagination than in reality." 
->— Seneca
+> "We suffer more often in imagination than in reality." 
+> — Seneca
+
+# Motivational Wisdom of the day (August 30 2025)
+> "The only way to do great work is to love what you do."
+> --Steve Jobs
