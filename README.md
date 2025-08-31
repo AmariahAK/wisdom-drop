@@ -163,5 +163,5 @@
 > --Steve Jobs
 
 # Self-Determination Wisdom of the day (August 31 2025)
->"Opportunities don’t happen. You create them." 
+> "Opportunities don’t happen. You create them." 
 > – Chris Grosser
