@@ -161,3 +161,7 @@
 # Motivational Wisdom of the day (August 30 2025)
 > "The only way to do great work is to love what you do."
 > --Steve Jobs
+
+# Self-Determination Wisdom of the day (August 31 2025)
+>"Opportunities don’t happen. You create them." 
+> – Chris Grosser
