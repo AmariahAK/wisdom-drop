@@ -169,3 +169,7 @@
 # Faith & Inspiration Wisdom of the day (September 1 2025)
 > “Faith is taking the first step even when you don’t see the whole staircase.”
 > — Martin Luther King Jr.
+
+# Samurai Wisdom of the day (September 2 2025)
+> “Perceive that which cannot be seen with the eye.”
+> --Miyamoto Musashi
