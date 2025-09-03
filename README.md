@@ -173,3 +173,7 @@
 # Samurai Wisdom of the day (September 2 2025)
 > “Perceive that which cannot be seen with the eye.”
 > --Miyamoto Musashi
+
+# Movie Quote / Identity of the day (September 3 2025)
+> "It’s not who I am underneath, but what I do that defines me"
+> --Bruce Wayne / Batman (Batman Begins (2005))
