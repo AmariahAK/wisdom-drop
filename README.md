@@ -174,6 +174,10 @@
 > “Perceive that which cannot be seen with the eye.”
 > --Miyamoto Musashi
 
-# Movie Quote / Identity of the day (September 3 2025)
+# Movie Quote / Identity Wisdom of the day (September 3 2025)
 > "It’s not who I am underneath, but what I do that defines me"
 > --Bruce Wayne / Batman (Batman Begins (2005))
+
+# Inspiration / Mindfulness Wisdom of the day (September 4 2025)
+> “Yesterday is history, tomorrow is a mystery, but today is a gift. That’s why it’s called the present.”
+> --Master Oogway (Kung Fu Panda) 🐢
