@@ -181,3 +181,7 @@
 # Inspiration / Mindfulness Wisdom of the day (September 4 2025)
 > “Yesterday is history, tomorrow is a mystery, but today is a gift. That’s why it’s called the present.”
 > --Master Oogway (Kung Fu Panda) 🐢
+
+# Video Game Wisdom of thw day (September 5 2025)
+> “War is where the young and stupid are tricked by the old and bitter into killing each other.”
+> Vladimir “Vlad” Glebov (GTA IV)
