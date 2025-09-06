@@ -185,3 +185,7 @@
 # Video Game Wisdom of thw day (September 5 2025)
 > “War is where the young and stupid are tricked by the old and bitter into killing each other.”
 > Vladimir “Vlad” Glebov (GTA IV)
+
+# Motivational / Comedy-Drama Wisdom of the day (September 6 2025)
+> "You know what the happiest animal on Earth is? It’s a goldfish. You know why? It’s got a 10-second memory. Be a goldfish.”
+> Ted Lasso (Ted Lasso, Season 1)
