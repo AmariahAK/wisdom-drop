@@ -193,3 +193,7 @@
 # Inspirational / Life Wisdom of the day (September 7 2025)
 > “Do not go where the path may lead, go instead where there is no path and leave a trail.”
 > — Ralph Waldo Emerson
+
+# Chivalry / Honor Wisdom of the day (September 8 2025)
+> "A knight is sworn to valor. His heart knows only virtue. His sword defends the helpless, his might upholds the weak, his word speaks only truth."
+> --Traditional Code of Chivalry (Medieval knighthood ideal, often cited in Arthurian and medieval texts).
