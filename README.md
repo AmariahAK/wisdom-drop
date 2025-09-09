@@ -197,3 +197,7 @@
 # Chivalry / Honor Wisdom of the day (September 8 2025)
 > "A knight is sworn to valor. His heart knows only virtue. His sword defends the helpless, his might upholds the weak, his word speaks only truth."
 > --Traditional Code of Chivalry (Medieval knighthood ideal, often cited in Arthurian and medieval texts).
+
+# Motivation / Philosophy Wisdom of the day (September 9 2025)
+> “He who has a why to live can bear almost any how.”
+> Friedrich Nietzsche
