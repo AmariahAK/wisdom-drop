@@ -201,3 +201,7 @@
 # Motivation / Philosophy Wisdom of the day (September 9 2025)
 > “He who has a why to live can bear almost any how.”
 > Friedrich Nietzsche
+
+# Cowboy / Courage Wisdom of the day (September 10 2025)
+> “Courage is being scared to death… and saddling up anyway.”
+> John Wayne 
