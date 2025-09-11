@@ -205,3 +205,7 @@
 # Cowboy / Courage Wisdom of the day (September 10 2025)
 > “Courage is being scared to death… and saddling up anyway.”
 > John Wayne 
+
+# Faith / Encouragement Wisdom of the day (September 11 2025)
+> “For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.”
+> — Jeremiah 29:11
