@@ -209,3 +209,7 @@
 # Faith / Encouragement Wisdom of the day (September 11 2025)
 > “For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.”
 > — Jeremiah 29:11
+
+# Guidance & Faith Wisdom of the day (September 12 2025)
+> "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+> — Proverbs 3:5–6 (Bible)
