@@ -213,3 +213,7 @@
 # Guidance & Faith Wisdom of the day (September 12 2025)
 > "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
 > — Proverbs 3:5–6 (Bible)
+
+# Monk / Mindfulness Wisdom of the day (September 13 2025)
+> “Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.”
+> — Gautama Buddha
