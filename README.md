@@ -217,3 +217,7 @@
 # Monk / Mindfulness Wisdom of the day (September 13 2025)
 > “Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.”
 > — Gautama Buddha
+
+# Islamic / Service to Humanity Wisdom of the day (September 14 2025)
+> “The best among you are those who bring greatest benefits to many others.”
+> — Prophet Muhammad
