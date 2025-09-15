@@ -221,3 +221,7 @@
 # Islamic / Service to Humanity Wisdom of the day (September 14 2025)
 > “The best among you are those who bring greatest benefits to many others.”
 > — Prophet Muhammad
+
+# Animal Rights / Compassion Wisdom of the day (September 15 2025)
+> “The greatness of a nation and its moral progress can be judged by the way its animals are treated.”
+> Mahatma Gandhi
