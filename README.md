@@ -225,3 +225,7 @@
 # Animal Rights / Compassion Wisdom of the day (September 15 2025)
 > “The greatness of a nation and its moral progress can be judged by the way its animals are treated.”
 > Mahatma Gandhi
+
+# Inspirational / Optimism Wisdom of the day (September 16 2025)
+> “In the middle of every difficulty lies opportunity.”
+> — Albert Einstein
