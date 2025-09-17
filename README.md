@@ -229,3 +229,7 @@
 # Inspirational / Optimism Wisdom of the day (September 16 2025)
 > “In the middle of every difficulty lies opportunity.”
 > — Albert Einstein
+
+# Wisdom / Philosophy Wisdom of the day (September 17 2025)
+> “Knowing yourself is the beginning of all wisdom.”
+> — Aristotle
