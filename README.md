@@ -233,3 +233,7 @@
 # Wisdom / Philosophy Wisdom of the day (September 17 2025)
 > “Knowing yourself is the beginning of all wisdom.”
 > — Aristotle
+
+# Wisdom / Patience Wisdom of the day (September 18 2025)
+> “The man who moves a mountain begins by carrying away small stones.”
+> --Confucius
