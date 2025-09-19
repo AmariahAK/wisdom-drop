@@ -237,3 +237,7 @@
 # Wisdom / Patience Wisdom of the day (September 18 2025)
 > “The man who moves a mountain begins by carrying away small stones.”
 > --Confucius
+
+# Wisdom / Growth Wisdom of the day (September 19 2025)
+> "The future belongs to those who learn more skills and combine them in creative ways."
+> — Robert Greene
