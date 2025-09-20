@@ -241,3 +241,7 @@
 # Wisdom / Growth Wisdom of the day (September 19 2025)
 > "The future belongs to those who learn more skills and combine them in creative ways."
 > — Robert Greene
+
+# Motivation / Action Wisdom of the day (September 20 2025)
+> “Start where you are. Use what you have. Do what you can.”
+> Arthur Ashe
