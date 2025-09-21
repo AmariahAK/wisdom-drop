@@ -245,3 +245,7 @@
 # Motivation / Action Wisdom of the day (September 20 2025)
 > “Start where you are. Use what you have. Do what you can.”
 > Arthur Ashe
+
+# Cartoon Wisdom / Motivation Wisdom of the day (September 21 2025)
+> "Life doesn’t give us purpose. We give life purpose."
+> — The Flash (Justice League Unlimited, Cartoon Network)
