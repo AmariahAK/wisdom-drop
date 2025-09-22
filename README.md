@@ -249,3 +249,7 @@
 # Cartoon Wisdom / Motivation Wisdom of the day (September 21 2025)
 > "Life doesn’t give us purpose. We give life purpose."
 > — The Flash (Justice League Unlimited, Cartoon Network)
+
+# Faith / Comfort Wisdom of the day (September 22 2025)
+> “The Lord is my shepherd; I shall not want.”
+> — Psalm 23:1
