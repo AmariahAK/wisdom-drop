@@ -253,3 +253,7 @@
 # Faith / Comfort Wisdom of the day (September 22 2025)
 > “The Lord is my shepherd; I shall not want.”
 > — Psalm 23:1
+
+# Encouragement/Persistence Wisdom of the day (September 23 2025)
+> "I can do all things through Christ who strengthens me."
+> — Philippians 4:13 (Apostle Paul)
