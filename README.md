@@ -257,3 +257,7 @@
 # Encouragement/Persistence Wisdom of the day (September 23 2025)
 > "I can do all things through Christ who strengthens me."
 > — Philippians 4:13 (Apostle Paul)
+
+# Faith & Trust Wisdom of the day (September 24 2025)
+> “The Lord will fight for you; you need only to be still.”
+> — Exodus 14:14
