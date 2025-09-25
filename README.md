@@ -261,3 +261,7 @@
 # Faith & Trust Wisdom of the day (September 24 2025)
 > “The Lord will fight for you; you need only to be still.”
 > — Exodus 14:14
+
+# Bible / Encouragement / Peace Wisdom of the day (September 25 2025)
+> “Be still, and know that I am God.”
+> — Psalm 46:10 (Bible)
