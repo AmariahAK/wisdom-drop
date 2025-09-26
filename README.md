@@ -265,3 +265,7 @@
 # Bible / Encouragement / Peace Wisdom of the day (September 25 2025)
 > “Be still, and know that I am God.”
 > — Psalm 46:10 (Bible)
+
+# Inspirational / Motivational Wisdom of the day (September 26 2025)
+> “The future belongs to those who believe in the beauty of their dreams.” 
+> — Eleanor Roosevelt
