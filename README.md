@@ -269,3 +269,7 @@
 # Inspirational / Motivational Wisdom of the day (September 26 2025)
 > “The future belongs to those who believe in the beauty of their dreams.” 
 > — Eleanor Roosevelt
+
+# Motivation / Personal Growth Wisdom of the day (September 27 2025)
+> “The only limit to our realization of tomorrow is our doubts of today.”
+> — Franklin D. Roosevelt
