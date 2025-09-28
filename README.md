@@ -273,3 +273,7 @@
 # Motivation / Personal Growth Wisdom of the day (September 27 2025)
 > “The only limit to our realization of tomorrow is our doubts of today.”
 > — Franklin D. Roosevelt
+
+# Personal Growth / Accountability Wisdom of the day (September 28 2025)
+> “Mistakes are always forgivable if one has the courage to admit them.”
+> — Bruce Lee
