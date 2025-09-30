@@ -251,3 +251,7 @@
 # Motivation / Self-Belief Wisdom of the day (September 29 2025)
 > “Believe you can and you're halfway there.”
 > — Theodore Roosevelt
+
+# Faith / Courage Wisdom of the day (September 30 2025)
+> “For God has not given us a spirit of fear, but of power and of love and of a sound mind.”
+> — 2 Timothy 1:7
