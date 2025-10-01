@@ -255,3 +255,7 @@
 # Faith / Courage Wisdom of the day (September 30 2025)
 > “For God has not given us a spirit of fear, but of power and of love and of a sound mind.”
 > — 2 Timothy 1:7
+
+# Personal Growth / Inspiration Wisdom of the day (October 1 2025)
+> “What you get by achieving your goals is not as important as what you become by achieving your goals.”
+> — Zig Ziglar
