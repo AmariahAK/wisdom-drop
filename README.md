@@ -258,4 +258,8 @@
 
 # Personal Growth / Inspiration Wisdom of the day (October 1 2025)
 > “What you get by achieving your goals is not as important as what you become by achieving your goals.”
-> — Zig Ziglar
+> — Zig 
+
+# Motivational / Inspirational Wisdom of the day (October 2 2025)
+> “The only way to achieve the impossible is to believe it is possible.”
+> — Charles Kingsleigh (from Alice in Wonderland)
