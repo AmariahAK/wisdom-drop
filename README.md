@@ -263,3 +263,7 @@
 # Motivational / Inspirational Wisdom of the day (October 2 2025)
 > “The only way to achieve the impossible is to believe it is possible.”
 > — Charles Kingsleigh (from Alice in Wonderland)
+
+# Inspiration / Productivity Wisdom of the day (October 3 2025)
+> “Start where you are. Use what you have. Do what you can.”
+> — Arthur Ashe
