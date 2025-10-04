@@ -267,3 +267,7 @@
 # Inspiration / Productivity Wisdom of the day (October 3 2025)
 > “Start where you are. Use what you have. Do what you can.”
 > — Arthur Ashe
+
+# Mindset / Belief Wisdom of the day (October 4 2025)
+> "The man who says he can, and the man who says he cannot… are both right."
+> — Confucius
