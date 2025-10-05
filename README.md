@@ -271,3 +271,7 @@
 # Mindset / Belief Wisdom of the day (October 4 2025)
 > "The man who says he can, and the man who says he cannot… are both right."
 > — Confucius
+
+# Motivation / Future Readiness Wisdom of the day (October 5 2025)
+> “The future belongs to those who prepare for it today.”
+> — Malcolm X
