@@ -6,11 +6,11 @@
 
 # Developer Wisdom of the day (July 30 2025)
 > "Sharpen your mind like your code: clean, tested, and refactored daily."
-> -- Gen Z Socrates vibes, ngl
+> - Gen Z Socrates vibes, ngl
 
 # Life Wisdom of the day (July 31 2025)
 > “Every day won’t feel legendary—but showing up makes it one step closer.”
-> -- Unknown
+> - Unknown
 
 # Samurai Wisdom of the day (August 1 2025)
 > “The ultimate aim of martial arts is not having to use them.”
@@ -22,7 +22,7 @@
 
 # Life Wisdom of the day (August 3 2025)
 > “You may be delayed, but you are not denied. Great things take time — and courage.”
-> -- Unknown
+> - Unknown
 
 # Discipline Wisdom of the day (August 4 2025)
 > “A river cuts through rock not because of its power, but because of its persistence.”
@@ -42,11 +42,11 @@
 
 # Life Wisdom of the day (August 8 2025)
 > "You don’t have to move fast and break things. Move thoughtfully and build things worth keeping."
-> -- Unknown
+> - Unknown
 
 # Motivation Wisdom of the day (August 9 2025)
 > “Rejection is just redirection to a better version of your idea.”
-> -- Unknown
+> - Unknown
 
 # Life Wisdom of the day (August 10 2025)
 > “Faith is taking the first step even when you don’t see the whole staircase.”
@@ -130,7 +130,7 @@
 
 # Motivational Wisdom of the day (August 30 2025)
 > "The only way to do great work is to love what you do."
-> --Steve Jobs
+> - Steve Jobs
 
 # Self-Determination Wisdom of the day (August 31 2025)
 > "Opportunities don’t happen. You create them." 
@@ -142,23 +142,23 @@
 
 # Samurai Wisdom of the day (September 2 2025)
 > “Perceive that which cannot be seen with the eye.”
-> --Miyamoto Musashi
+> - Miyamoto Musashi
 
 # Movie Quote / Identity Wisdom of the day (September 3 2025)
 > "It’s not who I am underneath, but what I do that defines me"
-> --Bruce Wayne / Batman (Batman Begins (2005))
+> - Bruce Wayne / Batman (Batman Begins (2005))
 
 # Inspiration / Mindfulness Wisdom of the day (September 4 2025)
 > “Yesterday is history, tomorrow is a mystery, but today is a gift. That’s why it’s called the present.”
-> --Master Oogway (Kung Fu Panda) 🐢
+> - Master Oogway (Kung Fu Panda) 🐢
 
 # Video Game Wisdom of thw day (September 5 2025)
 > “War is where the young and stupid are tricked by the old and bitter into killing each other.”
-> Vladimir “Vlad” Glebov (GTA IV)
+> - Vladimir “Vlad” Glebov (GTA IV)
 
 # Motivational / Comedy-Drama Wisdom of the day (September 6 2025)
 > "You know what the happiest animal on Earth is? It’s a goldfish. You know why? It’s got a 10-second memory. Be a goldfish.”
-> Ted Lasso (Ted Lasso, Season 1)
+> - Ted Lasso (Ted Lasso, Season 1)
 
 # Inspirational / Life Wisdom of the day (September 7 2025)
 > “Do not go where the path may lead, go instead where there is no path and leave a trail.”
@@ -166,15 +166,15 @@
 
 # Chivalry / Honor Wisdom of the day (September 8 2025)
 > "A knight is sworn to valor. His heart knows only virtue. His sword defends the helpless, his might upholds the weak, his word speaks only truth."
-> --Traditional Code of Chivalry (Medieval knighthood ideal, often cited in Arthurian and medieval texts).
+> - Traditional Code of Chivalry (Medieval knighthood ideal, often cited in Arthurian and medieval texts).
 
 # Motivation / Philosophy Wisdom of the day (September 9 2025)
 > “He who has a why to live can bear almost any how.”
-> Friedrich Nietzsche
+> - Friedrich Nietzsche
 
 # Cowboy / Courage Wisdom of the day (September 10 2025)
 > “Courage is being scared to death… and saddling up anyway.”
-> John Wayne 
+> - John Wayne 
 
 # Faith / Encouragement Wisdom of the day (September 11 2025)
 > “For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.”
@@ -194,7 +194,7 @@
 
 # Animal Rights / Compassion Wisdom of the day (September 15 2025)
 > “The greatness of a nation and its moral progress can be judged by the way its animals are treated.”
-> Mahatma Gandhi
+> - Mahatma Gandhi
 
 # Inspirational / Optimism Wisdom of the day (September 16 2025)
 > “In the middle of every difficulty lies opportunity.”
@@ -206,7 +206,7 @@
 
 # Wisdom / Patience Wisdom of the day (September 18 2025)
 > “The man who moves a mountain begins by carrying away small stones.”
-> --Confucius
+> - Confucius
 
 # Wisdom / Growth Wisdom of the day (September 19 2025)
 > "The future belongs to those who learn more skills and combine them in creative ways."
@@ -275,3 +275,7 @@
 # Motivation / Future Readiness Wisdom of the day (October 5 2025)
 > “The future belongs to those who prepare for it today.”
 > — Malcolm X
+
+# Consistency / Growth Wisdom of the day (October 6 2025)
+> "Great things are done by a series of small things brought together."
+> — Vincent Van Gogh
