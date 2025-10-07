@@ -279,3 +279,7 @@
 # Consistency / Growth Wisdom of the day (October 6 2025)
 > "Great things are done by a series of small things brought together."
 > — Vincent Van Gogh
+
+# Motivational / Perseverance Wisdom of the day (October 7 2025)
+> “Don’t watch the clock; do what it does. Keep going.”
+> — Sam Levenson
