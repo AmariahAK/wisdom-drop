@@ -283,3 +283,7 @@
 # Motivational / Perseverance Wisdom of the day (October 7 2025)
 > “Don’t watch the clock; do what it does. Keep going.”
 > — Sam Levenson
+
+# Motivation Wisdom of the day (October 8 2025)
+> “Don’t let yesterday take up too much of today.”
+> — Will Rogers
