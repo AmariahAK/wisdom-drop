@@ -291,3 +291,7 @@
 # Motivation / Productivity Wisdom of the day (October 9 2025)
 > "Don’t count the days, make the days count."
 > — Muhammad Ali
+
+# Motivation / Consistency Wisdom of the day (October 10 2025)
+> “Small progress is still progress. Keep going.”
+> — Unknown
