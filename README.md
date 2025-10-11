@@ -295,3 +295,7 @@
 # Motivation / Consistency Wisdom of the day (October 10 2025)
 > “Small progress is still progress. Keep going.”
 > — Unknown
+
+# Perseverance / Growth Mindset Wisdom of the day (October 11 2025)
+> “Success is stumbling from failure to failure with no loss of enthusiasm.”
+> — Winston Churchill
