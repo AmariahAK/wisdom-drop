@@ -299,3 +299,7 @@
 # Perseverance / Growth Mindset Wisdom of the day (October 11 2025)
 > “Success is stumbling from failure to failure with no loss of enthusiasm.”
 > — Winston Churchill
+
+# Focus / Growth Mindset Wisdom of the day (October 12 2025)
+> “Your direction is more important than your speed.”
+> — Unknown
