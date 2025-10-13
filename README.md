@@ -303,3 +303,8 @@
 # Focus / Growth Mindset Wisdom of the day (October 12 2025)
 > “Your direction is more important than your speed.”
 > — Unknown
+
+# Motivation / Vision Wisdom of the day (October 13 2025)
+> “The best way to predict the future is to create it.”
+> — Peter Drucker
+
