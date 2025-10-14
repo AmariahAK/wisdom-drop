@@ -308,6 +308,6 @@
 > “The best way to predict the future is to create it.”
 > — Peter Drucker
 
-# Perseverance / Mental Health Wisdom of the day (Octoer 14 2025)
+# Perseverance / Mental Health Wisdom of the day (October 14 2025)
 > “If you get tired, learn to rest — not to quit.”
 > — Banksy
