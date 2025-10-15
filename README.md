@@ -311,3 +311,7 @@
 # Perseverance / Mental Health Wisdom of the day (October 14 2025)
 > “If you get tired, learn to rest — not to quit.”
 > — Banksy
+
+# Action / Discipline Wisdom of the day (October 15 2025)
+> "The future depends on what you do today."
+> — Mahatma Gandhi 
