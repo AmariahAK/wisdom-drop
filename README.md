@@ -319,3 +319,7 @@
 # Peace / Rest Wisdom of the day (October 16 2025)
 > “Rest is not a reward for finishing—it's a strategy for continuing.”
 > — Unknown
+
+# Determination / Growth Wisdom of the day (October 17 2025)
+> “You don’t have to be extreme, just consistent.”
+> — Unknown
