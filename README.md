@@ -315,3 +315,7 @@
 # Action / Discipline Wisdom of the day (October 15 2025)
 > "The future depends on what you do today."
 > — Mahatma Gandhi 
+
+# Peace / Rest Wisdom of the day (October 16 2025)
+> “Rest is not a reward for finishing—it's a strategy for continuing.”
+> — Unknown
