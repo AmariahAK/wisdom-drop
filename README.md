@@ -323,3 +323,7 @@
 # Determination / Growth Wisdom of the day (October 17 2025)
 > “You don’t have to be extreme, just consistent.”
 > — Unknown
+
+# Forgiveness / Compassion Wisdom of the day (October 18 2025)
+> “Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.”
+> — Colossians 3:13
