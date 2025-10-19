@@ -327,3 +327,7 @@
 # Forgiveness / Compassion Wisdom of the day (October 18 2025)
 > “Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.”
 > — Colossians 3:13
+
+# Guidance & Faith Wisdom of the day (October 19 2025)
+> “Commit your work to the Lord, and your plans will be established.”
+> — Proverbs 16:3
