@@ -331,3 +331,7 @@
 # Guidance & Faith Wisdom of the day (October 19 2025)
 > “Commit your work to the Lord, and your plans will be established.”
 > — Proverbs 16:3
+
+# Faith / Elevation Wisdom of the day (October 20 2025)
+> “When God wants to move you to a higher level, He will allow situations you cannot escape except by His hand.”
+> — Unknown
