@@ -335,3 +335,7 @@
 # Faith / Elevation Wisdom of the day (October 20 2025)
 > “When God wants to move you to a higher level, He will allow situations you cannot escape except by His hand.”
 > — Unknown
+
+# Faith & Purpose Wisdom of the day (October 21 2025)
+> “When God is about to take you to a greater level, everything will go crazy before it does. Be patient. The enemy always fights you hardest when he knows God has something great in store.”
+> — Tony Gaskins
