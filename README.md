@@ -339,3 +339,7 @@
 # Faith / Purpose Wisdom of the day (October 21 2025)
 > “When God is about to take you to a greater level, everything will go crazy before it does. Be patient. The enemy always fights you hardest when he knows God has something great in store.”
 > — Tony Gaskins
+
+# Faith / Resilience Wisdom of the Day (October 22 2025)
+> “When you go through deep waters, I will be with you.”
+> — Isaiah 43:2 
