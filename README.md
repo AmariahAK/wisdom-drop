@@ -343,3 +343,7 @@
 # Faith / Resilience Wisdom of the Day (October 22 2025)
 > “When you go through deep waters, I will be with you.”
 > — Isaiah 43:2 
+
+# Self-Worth / Resilience Wisdom of the Day (October 23 2025)
+> “Rejection doesn’t mean you aren’t good enough; it means the other person failed to see what you have to offer.”
+> — Mark Amend
