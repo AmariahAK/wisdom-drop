@@ -347,3 +347,7 @@
 # Self-Worth / Resilience Wisdom of the Day (October 23 2025)
 > “Rejection doesn’t mean you aren’t good enough; it means the other person failed to see what you have to offer.”
 > — Mark Amend
+
+# Faith & Growth Wisdom of the Day (October 24 2025)
+> “Grace meets us where we are, but it never leaves us where it found us.”
+> — Max Lucado
