@@ -351,3 +351,7 @@
 # Faith & Growth Wisdom of the Day (October 24 2025)
 > “Grace meets us where we are, but it never leaves us where it found us.”
 > — Max Lucado
+
+# Empathy / Emotional Awareness Wisdom of the Day (October 25 2025)
+> “Be kind, for everyone you meet is fighting a battle you know nothing about.”
+> — Robin Williams
