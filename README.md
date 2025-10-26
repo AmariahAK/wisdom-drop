@@ -355,3 +355,7 @@
 # Empathy / Emotional Awareness Wisdom of the Day (October 25 2025)
 > “Be kind, for everyone you meet is fighting a battle you know nothing about.”
 > — Robin Williams
+
+# Perseverance / Mental Strength Wisdom of the Day (October 26 2025)
+> “Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow.’”
+> — Mary Anne Radmacher
