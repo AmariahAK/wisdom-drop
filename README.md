@@ -359,3 +359,7 @@
 # Perseverance / Mental Strength Wisdom of the Day (October 26 2025)
 > “Courage doesn’t always roar. Sometimes courage is the quiet voice at the end of the day saying, ‘I will try again tomorrow.’”
 > — Mary Anne Radmacher
+
+# Life / Perspective Wisdom of the Day (October 27 2025)
+> “You can’t connect the dots looking forward; you can only connect them looking backward.”
+> — Steve Jobs
