@@ -363,3 +363,8 @@
 # Life / Perspective Wisdom of the Day (October 27 2025)
 > “You can’t connect the dots looking forward; you can only connect them looking backward.”
 > — Steve Jobs
+
+# Motivation / Action Wisdom of the Day (October 28 2025)
+> “Do not wait for the perfect moment. Take the moment and make it perfect.”
+> — Zoey Sayward
+🏷️ Category: 
