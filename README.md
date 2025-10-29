@@ -367,3 +367,7 @@
 # Motivation / Action Wisdom of the Day (October 28 2025)
 > “Do not wait for the perfect moment. Take the moment and make it perfect.”
 > — Zoey Sayward
+
+# Personal Growth / Moving On Wisdom of the Day (October 29 2025)
+> "You can’t start the next chapter of your life if you keep re-reading the last one."
+> — Unknown
