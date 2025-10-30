@@ -371,3 +371,7 @@
 # Personal Growth / Moving On Wisdom of the Day (October 29 2025)
 > "You can’t start the next chapter of your life if you keep re-reading the last one."
 > — Unknown
+
+# Relationships / Self-awareness Wisdom of the Day (October 30 2025)
+> “When you stop expecting people to be perfect, you can like them for who they are.”
+> — Donald Miller
