@@ -375,3 +375,7 @@
 # Relationships / Self-awareness Wisdom of the Day (October 30 2025)
 > “When you stop expecting people to be perfect, you can like them for who they are.”
 > — Donald Miller
+
+# Creativity / Growth Wisdom of the Day (October 31 2025)
+> “You can’t use up creativity. The more you use, the more you have.”
+> — Maya Angelou
