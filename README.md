@@ -379,3 +379,7 @@
 # Creativity / Growth Wisdom of the Day (October 31 2025)
 > “You can’t use up creativity. The more you use, the more you have.”
 > — Maya Angelou
+
+# Vision / Innovation  Wisdom of the Day (November 1 2025)
+> “The future belongs to those who see possibilities before they become obvious.”
+> — John Sculley
