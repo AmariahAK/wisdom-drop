@@ -387,3 +387,7 @@
 # Fulfillment / Self-Acceptance Wisdom of the Day (November 2 2025)
 > “Success is liking yourself, liking what you do, and liking how you do it.”
 > — Maya Angelou
+
+# Perseverance / Growth Mindset Wisdom of the Day (November 3 2025)
+> “The man who moves a mountain begins by carrying away small stones.”
+> — Confucius
