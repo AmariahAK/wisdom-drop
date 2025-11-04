@@ -391,3 +391,7 @@
 # Perseverance / Growth Mindset Wisdom of the Day (November 3 2025)
 > “The man who moves a mountain begins by carrying away small stones.”
 > — Confucius
+
+# Motivation / Progress Wisdom of the Day (November 4 2025)
+> “The secret of getting ahead is getting started.”
+> — Mark Twain
