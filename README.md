@@ -395,3 +395,7 @@
 # Motivation / Progress Wisdom of the Day (November 4 2025)
 > “The secret of getting ahead is getting started.”
 > — Mark Twain
+
+# Motivation / Persistence Wisdom of the Day (November 5 2025)
+> “Success is the sum of small efforts, repeated day in and day out.”
+> Robert Collier
