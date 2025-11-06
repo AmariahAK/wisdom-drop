@@ -399,3 +399,7 @@
 # Motivation / Persistence Wisdom of the Day (November 5 2025)
 > “Success is the sum of small efforts, repeated day in and day out.”
 > Robert Collier
+
+# Mindfulness / Well-being Wisdom of the Day (November 6 2025)
+> “Happiness is not something ready made. It comes from your own actions.”
+> Dalai Lama
