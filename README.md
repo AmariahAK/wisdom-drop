@@ -403,3 +403,7 @@
 # Mindfulness / Well-being Wisdom of the Day (November 6 2025)
 > “Happiness is not something ready made. It comes from your own actions.”
 > Dalai Lama
+
+# Motivation / Self-Belief Wisdom of the Day (November 7 2025)
+> “The only limit to our realization of tomorrow is our doubts of today.”
+> — Franklin D. Roosevelt
