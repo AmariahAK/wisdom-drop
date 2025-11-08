@@ -407,3 +407,7 @@
 # Motivation / Self-Belief Wisdom of the Day (November 7 2025)
 > “The only limit to our realization of tomorrow is our doubts of today.”
 > — Franklin D. Roosevelt
+
+# Growth / Resilience Wisdom of the Day (November 8 2025)
+> “The master has failed more times than the beginner has even tried.”
+> — Stephen McCranie
