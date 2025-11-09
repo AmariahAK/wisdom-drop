@@ -411,3 +411,7 @@
 # Growth / Resilience Wisdom of the Day (November 8 2025)
 > “The master has failed more times than the beginner has even tried.”
 > — Stephen McCranie
+
+# Motivation / Courage Wisdom of the Day (November 9 2025)
+> “You don’t have to see the whole staircase, just take the first step.”
+> — Martin Luther King Jr.
