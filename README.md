@@ -415,3 +415,7 @@
 # Motivation / Courage Wisdom of the Day (November 9 2025)
 > “You don’t have to see the whole staircase, just take the first step.”
 > — Martin Luther King Jr.
+
+# Celebration / New Beginnings Wisdom of the Day (November 10 2025)
+> “And suddenly you just know… it’s time to start something new and trust the magic of beginnings.”
+> — Meister Eckhart
