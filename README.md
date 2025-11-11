@@ -419,3 +419,7 @@
 # Celebration / New Beginnings Wisdom of the Day (November 10 2025)
 > “And suddenly you just know… it’s time to start something new and trust the magic of beginnings.”
 > — Meister Eckhart
+
+# Motivation / Growth Wisdom of the Day (November 11 2025)
+> “Your life does not get better by chance, it gets better by change.”
+> — Jim Rohn
