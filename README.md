@@ -423,3 +423,7 @@
 # Motivation / Growth Wisdom of the Day (November 11 2025)
 > “Your life does not get better by chance, it gets better by change.”
 > — Jim Rohn
+
+# Faith / Guidance / New Beginnings Wisdom of the Day Wisdom of the Day (November 12 2025)
+> “Commit your work to the Lord, and your plans will be established.”
+> — Proverbs 16:3
