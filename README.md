@@ -431,3 +431,7 @@
 # Faith / Purpose Wisdom of the Day (November 13 2025)
 > “When God writes your story, He doesn’t waste a chapter.”
 > — Unknown
+
+# Motivation / Personal Growth Wisdom of the Day (November 14 2025)
+> “Your future needs you. Your past doesn’t.”
+> — Anonymous
