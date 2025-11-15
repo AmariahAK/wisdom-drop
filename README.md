@@ -435,3 +435,7 @@
 # Motivation / Personal Growth Wisdom of the Day (November 14 2025)
 > “Your future needs you. Your past doesn’t.”
 > — Anonymous
+
+# Purpose / Personal Growth Wisdom of the Day (November 15 2025)
+> “What you do makes a difference, and you have to decide what kind of difference you want to make.”
+> — Jane Goodall
