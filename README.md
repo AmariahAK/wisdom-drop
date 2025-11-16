@@ -439,3 +439,7 @@
 # Purpose / Personal Growth Wisdom of the Day (November 15 2025)
 > “What you do makes a difference, and you have to decide what kind of difference you want to make.”
 > — Jane Goodall
+
+# Faith / Patience Wisdom of the Day (November 16 2025)
+> “Patience is not the ability to wait, but the ability to keep a good attitude while waiting.”
+> — Joyce Meyer
