@@ -443,3 +443,7 @@
 # Faith / Patience Wisdom of the Day (November 16 2025)
 > “Patience is not the ability to wait, but the ability to keep a good attitude while waiting.”
 > — Joyce Meyer
+
+# Motivation / Growth Wisdom of the Day (November 17 2025)
+> “When you focus on the step in front of you, the mountain stops looking impossible.”
+> — Unknown
