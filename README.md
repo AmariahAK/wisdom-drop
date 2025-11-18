@@ -447,3 +447,7 @@
 # Motivation / Growth Wisdom of the Day (November 17 2025)
 > “When you focus on the step in front of you, the mountain stops looking impossible.”
 > — Unknown
+
+# Motivation / Faith Wisdom of the Day (November 18 2025)
+> “What you’re walking toward matters more than what you’re walking out of.”
+> — Unknown
