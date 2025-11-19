@@ -451,3 +451,7 @@
 # Motivation / Faith Wisdom of the Day (November 18 2025)
 > “What you’re walking toward matters more than what you’re walking out of.”
 > — Unknown
+
+# Faith / Guidance Wisdom of the Day (November 19 2025)
+> “Where God guides, He provides.”
+> — Isaiah principle (commonly referenced in faith teachings)
