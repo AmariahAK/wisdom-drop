@@ -455,3 +455,7 @@
 # Faith / Guidance Wisdom of the Day (November 19 2025)
 > “Where God guides, He provides.”
 > — Isaiah principle (commonly referenced in faith teachings)
+
+# Anime / Endurance / Moving Forward Wisdom of the Day (November 20 2025)
+> “No matter how deep the night, it always turns to day.”
+> — Brook (One Piece)
