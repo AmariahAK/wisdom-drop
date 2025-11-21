@@ -459,3 +459,7 @@
 # Anime / Endurance / Moving Forward Wisdom of the Day (November 20 2025)
 > “No matter how deep the night, it always turns to day.”
 > — Brook (One Piece)
+
+# Samurai Discipline / Modern Focus Wisdom of the Day (November 21 2025)
+> “A samurai does not wait for the perfect wind. He sharpens his blade, steadies his breath, and walks forward anyway.”
+> — Inspired by the Way of the Samurai
