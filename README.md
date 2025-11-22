@@ -463,3 +463,7 @@
 # Samurai Discipline / Modern Focus Wisdom of the Day (November 21 2025)
 > “A samurai does not wait for the perfect wind. He sharpens his blade, steadies his breath, and walks forward anyway.”
 > — Inspired by the Way of the Samurai
+
+# Discipline / Craft / Victory in Progress Wisdom of the Day (November 22 2025)
+> “Excellence is not built in noise, but in the quiet mastery of repetition.”
+> — Miyamoto Musashi
