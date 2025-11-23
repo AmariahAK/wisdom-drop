@@ -467,3 +467,7 @@
 # Discipline / Craft / Victory in Progress Wisdom of the Day (November 22 2025)
 > “Excellence is not built in noise, but in the quiet mastery of repetition.”
 > — Miyamoto Musashi
+
+# Faith / Surrender  Wisdom of the Day (November 23 2025)
+> “Sometimes God removes distractions not to punish you, but to position you.”
+> — Unknown
