@@ -471,3 +471,7 @@
 # Faith / Surrender  Wisdom of the Day (November 23 2025)
 > “Sometimes God removes distractions not to punish you, but to position you.”
 > — Unknown
+
+# Personal Growth / Discipline Wisdom of the Day (November 24 2025)
+> “The journey of a thousand miles begins beneath one’s feet.”
+> — Lao Tzu
