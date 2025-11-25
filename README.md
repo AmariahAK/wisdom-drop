@@ -475,3 +475,7 @@
 # Personal Growth / Discipline Wisdom of the Day (November 24 2025)
 > “The journey of a thousand miles begins beneath one’s feet.”
 > — Lao Tzu
+
+# Discipline / Silent Power Wisdom of the Day (November 25 2025)
+> “Build so quietly that even doubt has to check if you already won.”
+> — Pilgrim Gedanken
