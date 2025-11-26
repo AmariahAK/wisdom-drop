@@ -479,3 +479,7 @@
 # Discipline / Silent Power Wisdom of the Day (November 25 2025)
 > “Build so quietly that even doubt has to check if you already won.”
 > — Pilgrim Gedanken
+
+# Discipline / Self-Growth Wisdom of the Day (November 26 2025)
+> “Progress isn’t loud. It’s the quiet decision you repeat even when nobody’s clapping.”
+> — Ari Kamau
