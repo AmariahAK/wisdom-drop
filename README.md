@@ -483,3 +483,7 @@
 # Discipline / Self-Growth Wisdom of the Day (November 26 2025)
 > “Progress isn’t loud. It’s the quiet decision you repeat even when nobody’s clapping.”
 > — Ari Kamau
+
+# Healing / Self-Alignment Wisdom of the Day (November 27 2025)
+> “You’re not late. You’re not behind. You’re just on a path that requires depth, not speed.”
+> — Brianna Wiest
