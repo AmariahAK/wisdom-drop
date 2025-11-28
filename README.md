@@ -487,3 +487,7 @@
 # Healing / Self-Alignment Wisdom of the Day (November 27 2025)
 > “You’re not late. You’re not behind. You’re just on a path that requires depth, not speed.”
 > — Brianna Wiest
+
+# Perseverance / Motivation Wisdom of the Day (November 28 2025)
+> “It does not matter how slowly you go, so long as you do not stop.” 
+> — Confucius
