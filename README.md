@@ -491,3 +491,7 @@
 # Perseverance / Motivation Wisdom of the Day (November 28 2025)
 > “It does not matter how slowly you go, so long as you do not stop.” 
 > — Confucius
+
+# Mindset / Discipline / Creator’s Path Wisdom of the Day (November 29 2025)
+> “Clarity comes when you stop trying to control everything and start trusting the process of becoming.”
+> — Ayla Winters
