@@ -495,3 +495,7 @@
 # Mindset / Discipline / Creator’s Path Wisdom of the Day (November 29 2025)
 > “Clarity comes when you stop trying to control everything and start trusting the process of becoming.”
 > — Ayla Winters
+
+# Motivation / Inner Strength Wisdom of the Day (November 30 2025)
+> “Courage is not the absence of fear, but the decision that something else matters more.”
+> — Ambrose Redmoon
