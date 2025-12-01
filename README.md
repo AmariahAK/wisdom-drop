@@ -499,3 +499,7 @@
 # Motivation / Inner Strength Wisdom of the Day (November 30 2025)
 > “Courage is not the absence of fear, but the decision that something else matters more.”
 > — Ambrose Redmoon
+
+# Motivation / Self-Mastery Wisdom of the Day (December 1 2025)
+> “The chains you fight the hardest are usually the ones you put on yourself.”
+> — Unknown
