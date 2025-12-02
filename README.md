@@ -503,3 +503,7 @@
 # Motivation / Self-Mastery Wisdom of the Day (December 1 2025)
 > “The chains you fight the hardest are usually the ones you put on yourself.”
 > — Unknown
+
+# Motivation / Breakthrough Mindset Wisdom of the Day (December 2 2025)
+> “The door you think is locked is usually just waiting for you to push a little harder.”
+> — Nia Redwood
