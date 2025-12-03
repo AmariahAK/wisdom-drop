@@ -507,3 +507,7 @@
 # Motivation / Breakthrough Mindset Wisdom of the Day (December 2 2025)
 > “The door you think is locked is usually just waiting for you to push a little harder.”
 > — Nia Redwood
+
+# Faith / Comfort / Strength Wisdom of the Day (December 3 2025)
+> “Even when I walk through the darkest valley, I will fear no evil, for You are with me.”
+> — Psalm 23:4 (King David)
