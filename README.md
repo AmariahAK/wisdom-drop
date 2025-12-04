@@ -511,3 +511,7 @@
 # Faith / Comfort / Strength Wisdom of the Day (December 3 2025)
 > “Even when I walk through the darkest valley, I will fear no evil, for You are with me.”
 > — Psalm 23:4 (King David)
+
+# Perseverance / Quiet Strength Wisdom of the Day (December 4 2025)
+> “Even on the days you feel stuck, you’re still shifting something forward. Momentum isn’t always loud.”
+> — Lena Rowe
