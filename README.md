@@ -515,3 +515,7 @@
 # Perseverance / Quiet Strength Wisdom of the Day (December 4 2025)
 > “Even on the days you feel stuck, you’re still shifting something forward. Momentum isn’t always loud.”
 > — Lena Rowe
+
+# Perseverance / Inner Strength Wisdom of the Day (December 5 2025)
+> “Courage is what happens when the heart teaches the mind to keep going.”
+> — Alicia Britt Chole
