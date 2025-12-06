@@ -519,3 +519,7 @@
 # Perseverance / Inner Strength Wisdom of the Day (December 5 2025)
 > “Courage is what happens when the heart teaches the mind to keep going.”
 > — Alicia Britt Chole
+
+# Persistence / Self-Determination Wisdom of the Day (December 6 2025)
+> “You don’t rise by waiting for the moment — you rise by creating it.”
+> — Ava DuVernay
