@@ -523,3 +523,7 @@
 # Persistence / Self-Determination Wisdom of the Day (December 6 2025)
 > “You don’t rise by waiting for the moment — you rise by creating it.”
 > — Ava DuVernay
+
+# Healing / Perseverance Wisdom of the Day (December 7 2025)
+> “Scars are not reminders of what hurt you, but of what you survived.”
+> — Unknown
