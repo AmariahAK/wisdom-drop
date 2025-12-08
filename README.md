@@ -527,3 +527,7 @@
 # Healing / Perseverance Wisdom of the Day (December 7 2025)
 > “Scars are not reminders of what hurt you, but of what you survived.”
 > — Unknown
+
+# Perseverance / Resilience Wisdom of the Day (December 8 2025)
+> “Fall seven times, stand up eight.”
+> — Japanese Proverb
