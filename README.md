@@ -531,3 +531,7 @@
 # Perseverance / Resilience Wisdom of the Day (December 8 2025)
 > “Fall seven times, stand up eight.”
 > — Japanese Proverb
+
+# Purpose / Growth Wisdom of the Day (December 9 2025)
+> “What you do makes a difference, and you have to decide what kind of difference you want to make.”
+> — Jane Goodall
