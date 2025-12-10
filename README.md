@@ -535,3 +535,7 @@
 # Purpose / Growth Wisdom of the Day (December 9 2025)
 > “What you do makes a difference, and you have to decide what kind of difference you want to make.”
 > — Jane Goodall
+
+# Growth / New Beginnings Wisdom of the Day (December 10 2025)
+> “Sometimes the smallest shift in your day is actually the beginning of a completely different life.”
+> — Unknown
