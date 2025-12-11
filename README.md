@@ -539,3 +539,7 @@
 # Growth / New Beginnings Wisdom of the Day (December 10 2025)
 > “Sometimes the smallest shift in your day is actually the beginning of a completely different life.”
 > — Unknown
+
+# Growth & Discipline Wisdom of the Day (December 11 2025)
+> “Fall in love with the process, and the results will come.”
+> — Eric Thomas
