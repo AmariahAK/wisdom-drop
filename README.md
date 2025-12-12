@@ -543,3 +543,7 @@
 # Growth & Discipline Wisdom of the Day (December 11 2025)
 > “Fall in love with the process, and the results will come.”
 > — Eric Thomas
+
+# Resilience / Comeback Energy Wisdom of the Day (December 12 2025)
+> “Rock bottom became the solid foundation on which I rebuilt my life.”
+> — J.K. Rowling
