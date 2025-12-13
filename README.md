@@ -547,3 +547,7 @@
 # Resilience / Comeback Energy Wisdom of the Day (December 12 2025)
 > “Rock bottom became the solid foundation on which I rebuilt my life.”
 > — J.K. Rowling
+
+# Growth / Patience / Life Wisdom of the Day (December 13 2025)
+> “You don’t have to see the whole staircase, just take the first step.”
+> — Martin Luther King Jr.
