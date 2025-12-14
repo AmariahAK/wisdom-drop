@@ -551,3 +551,7 @@
 # Growth / Patience / Life Wisdom of the Day (December 13 2025)
 > “You don’t have to see the whole staircase, just take the first step.”
 > — Martin Luther King Jr.
+
+# Mental health / Reset / Balance Wisdom of the Day (December 14 2025)
+> “Almost everything will work again if you unplug it for a few minutes — including you.”
+> — Anne Lamott
