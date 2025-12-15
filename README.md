@@ -555,3 +555,7 @@
 # Mental health / Reset / Balance Wisdom of the Day (December 14 2025)
 > “Almost everything will work again if you unplug it for a few minutes — including you.”
 > — Anne Lamott
+
+# Discipline / Purpose / Execution Wisdom Wisdom of the Day (December 15 2025)
+> “A vision without execution is just a hallucination.”
+> — Thomas Edison
