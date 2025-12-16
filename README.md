@@ -559,3 +559,7 @@
 # Discipline / Purpose / Execution Wisdom Wisdom of the Day (December 15 2025)
 > “A vision without execution is just a hallucination.”
 > — Thomas Edison
+
+# Faith / Discipline / Purpose Wisdom of the Day (December 16 2025)
+> “Commit your work to the Lord, and your plans will be established.”
+> — Proverbs 16:3
