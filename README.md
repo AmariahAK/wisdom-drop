@@ -567,3 +567,7 @@
 # Perseverance Wisdom of the Day (December 17 2025)
 > “Courage doesn’t always roar. Sometimes it’s the quiet voice at the end of the day saying, ‘I will try again tomorrow.’”
 > — Mary Anne Radmacher
+
+#  Discipline / Systems / Long-Term Growth Wisdom of the Day (December 18 2025)
+> “You don’t need more motivation. You need better systems.”
+> — James Clear
