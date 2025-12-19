@@ -571,3 +571,7 @@
 #  Discipline / Systems / Long-Term Growth Wisdom of the Day (December 18 2025)
 > “You don’t need more motivation. You need better systems.”
 > — James Clear
+
+# Discipline / Persistence Wisdom of the Day (December 19 2025)
+> “The work you do while nobody is watching is what creates the success everyone applauds later.”
+> — Unknown
