@@ -575,3 +575,7 @@
 # Discipline / Persistence Wisdom of the Day (December 19 2025)
 > “The work you do while nobody is watching is what creates the success everyone applauds later.”
 > — Unknown
+
+# Craft / Focus / Long-term thinking Wisdom of the Day (December 20 2025)
+> “First master the craft, then worry about recognition.”
+> — Naval Ravikant
