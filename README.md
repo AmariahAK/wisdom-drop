@@ -579,3 +579,7 @@
 # Craft / Focus / Long-term thinking Wisdom of the Day (December 20 2025)
 > “First master the craft, then worry about recognition.”
 > — Naval Ravikant
+
+# Motivational Wisdom of the Day (December 21 2025)
+> "No one has a greater asset for his business than a man's pride in his work." 
+> --Hosea Ballou.
