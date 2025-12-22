@@ -582,4 +582,8 @@
 
 # Motivational Wisdom of the Day (December 21 2025)
 > "No one has a greater asset for his business than a man's pride in his work." 
-> --Hosea Ballou.
+> -- Hosea Ballou.
+
+# Personal Development Wisdom of the Day (December 22 2025)
+> "Be faithful in small things because it is in them that your strength lies." 
+> -- Mother Teresa.
