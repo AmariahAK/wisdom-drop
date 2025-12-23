@@ -587,3 +587,7 @@
 # Personal Development Wisdom of the Day (December 22 2025)
 > "Be faithful in small things because it is in them that your strength lies." 
 > -- Mother Teresa.
+
+# Inspirational / Resilience Wisdom of the Day (December 23 2025)
+> "In the midst of winter, I found there was, within me, an invincible summer."
+> — Albert Camus
