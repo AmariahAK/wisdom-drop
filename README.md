@@ -591,3 +591,7 @@
 # Inspirational / Resilience Wisdom of the Day (December 23 2025)
 > "In the midst of winter, I found there was, within me, an invincible summer."
 > — Albert Camus
+
+# Motivational / Goals / Ambition / Persistence Wisdom of the Day (December 24 2025)
+> "Goals transform a random walk into a chase."
+> — Mihaly Csikszentmihalyi
