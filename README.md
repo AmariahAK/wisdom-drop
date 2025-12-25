@@ -595,3 +595,7 @@
 # Motivational / Goals / Ambition / Persistence Wisdom of the Day (December 24 2025)
 > "Goals transform a random walk into a chase."
 > — Mihaly Csikszentmihalyi
+
+# Motivational, Innovation, Technology, Visionary Wisdom of the Day (December 25 2025)
+> "The best way to predict the future is to invent it."
+> — Alan Kay
