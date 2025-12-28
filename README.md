@@ -607,3 +607,7 @@
 # Samurai Code, Bushidō, Courage, Resolve, Honor Wisdom of the Day (December 27 2025)
 > "Bushidō is realized in the presence of death. In the case of having to choose between life and death, one should choose death. There is no other reasoning. Move on with determination."
 > — From the Hagakure (The Book of the Samurai) by Yamamoto Tsunetomo
+
+# Stoicism, Resilience, Personal Growth, Mindset Wisdom of the Day (December 28 2025)
+> “The obstacle in the path becomes the path. Never forget, within every obstacle is an opportunity to improve our condition.”
+> — Ryan Holiday (from his book The Obstacle Is the Way)
