@@ -611,3 +611,7 @@
 # Stoicism, Resilience, Personal Growth, Mindset Wisdom of the Day (December 28 2025)
 > “The obstacle in the path becomes the path. Never forget, within every obstacle is an opportunity to improve our condition.”
 > — Ryan Holiday (from his book The Obstacle Is the Way)
+
+# Stoicism, Resilience, Personal Growth, Mindset Wisdom of the Day (December 29 2025)
+> “The impediment to action advances action. What stands in the way becomes the way.”
+> — Marcus Aurelius
