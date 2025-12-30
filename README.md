@@ -615,3 +615,7 @@
 # Stoicism, Resilience, Personal Growth, Mindset Wisdom of the Day (December 29 2025)
 > “The impediment to action advances action. What stands in the way becomes the way.”
 > — Marcus Aurelius
+
+# Discipline, Personal Growth, Systems Thinking, Long-Term Success Wisdom of the Day (December 30 2025)
+> “You do not rise to the level of your goals. You fall to the level of your systems.”
+> — James Clear
