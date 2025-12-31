@@ -619,3 +619,7 @@
 # Discipline, Personal Growth, Systems Thinking, Long-Term Success Wisdom of the Day (December 30 2025)
 > “You do not rise to the level of your goals. You fall to the level of your systems.”
 > — James Clear
+
+# Motivational, Innovation, Technology, Visionary Wisdom of the Day (December 31 2025)
+> “The best way to predict the future is to invent it.”
+> — Alan Kay
