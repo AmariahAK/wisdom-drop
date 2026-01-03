@@ -7,3 +7,7 @@
 # Motivation / New Beginnings / Goal-Setting Wisdom of the Day (January 2 2026)
 > "The new year stands before us, like a chapter in a book, waiting to be written. We can help write that story by setting goals."
 > — Melody Beattie
+
+# Motivation / New Beginnings / Mindfulness Wisdom of the Day (January 3 2026)
+> "Every moment is a fresh beginning."
+> — T.S. Eliot
