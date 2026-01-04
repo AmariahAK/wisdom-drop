@@ -11,3 +11,7 @@
 # Motivation / New Beginnings / Mindfulness Wisdom of the Day (January 3 2026)
 > "Every moment is a fresh beginning."
 > — T.S. Eliot
+
+# Motivation / New Beginnings / Personal Growth Wisdom of the Day (January 4 2025)
+> "The secret of change is to focus all of your energy not on fighting the old, but on building the new."
+> — Socrates
