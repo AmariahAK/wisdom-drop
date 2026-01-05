@@ -15,3 +15,7 @@
 # Motivation / New Beginnings / Personal Growth Wisdom of the Day (January 4 2025)
 > "The secret of change is to focus all of your energy not on fighting the old, but on building the new."
 > — Socrates
+
+# Motivation / Personal Growth / Resilience Wisdom of the Day (January 5 2025)
+> “I am not a product of my circumstances. I am a product of my decisions.”
+> — Stephen Covey
