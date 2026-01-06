@@ -12,10 +12,14 @@
 > "Every moment is a fresh beginning."
 > — T.S. Eliot
 
-# Motivation / New Beginnings / Personal Growth Wisdom of the Day (January 4 2025)
+# Motivation / New Beginnings / Personal Growth Wisdom of the Day (January 4 2026)
 > "The secret of change is to focus all of your energy not on fighting the old, but on building the new."
 > — Socrates
 
-# Motivation / Personal Growth / Resilience Wisdom of the Day (January 5 2025)
+# Motivation / Personal Growth / Resilience Wisdom of the Day (January 5 2026)
 > “I am not a product of my circumstances. I am a product of my decisions.”
 > — Stephen Covey
+
+# Motivation / Personal Growth / New Beginnings Wisdom of the Day (January 6 2026)
+> “Your life does not get better by chance, it gets better by change.”
+> — Jim Rohn
