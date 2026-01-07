@@ -23,3 +23,7 @@
 # Motivation / Personal Growth / New Beginnings Wisdom of the Day (January 6 2026)
 > “Your life does not get better by chance, it gets better by change.”
 > — Jim Rohn
+
+# Personal Growth / Discipline Wisdom of the Day (January 7 2026)
+> “We are what we repeatedly do. Excellence, then, is not an act, but a habit.”
+> — Will Durant (often attributed to Aristotle)
