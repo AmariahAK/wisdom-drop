@@ -27,3 +27,7 @@
 # Personal Growth / Discipline Wisdom of the Day (January 7 2026)
 > “We are what we repeatedly do. Excellence, then, is not an act, but a habit.”
 > — Will Durant (often attributed to Aristotle)
+
+# Motivation / Personal Growth / Discipline Wisdom of the Day (January 8 2026)
+> “Discipline is the bridge between goals and accomplishment.”
+> — Jim Rohn
