@@ -31,3 +31,7 @@
 # Motivation / Personal Growth / Discipline Wisdom of the Day (January 8 2026)
 > “Discipline is the bridge between goals and accomplishment.”
 > — Jim Rohn
+
+# Motivation / Personal Growth / Discipline / Peace Wisdom of the Day (January 9 2026)
+> “A true warrior needs no sword.”
+> — Thors (Vinland Saga)
