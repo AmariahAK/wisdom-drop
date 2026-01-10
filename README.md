@@ -35,3 +35,7 @@
 # Motivation / Personal Growth / Discipline / Peace Wisdom of the Day (January 9 2026)
 > “A true warrior needs no sword.”
 > — Thors (Vinland Saga)
+
+# Passion / Work / Success / Inspiration Wisdom of the Day (January 10 2026)
+> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
+> — Steve Jobs
