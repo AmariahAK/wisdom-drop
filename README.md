@@ -39,3 +39,7 @@
 # Passion / Work / Success / Inspiration Wisdom of the Day (January 10 2026)
 > "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
 > — Steve Jobs
+
+# Friendship / Inspiration / Perspective / New Year Reflection Wisdom of the Day (January 11 2026)
+> "Remember, no man is a failure who has friends."
+> — Clarence the angel, from It’s a Wonderful Life (often quoted in inspirational contexts)
