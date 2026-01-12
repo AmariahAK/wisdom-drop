@@ -43,3 +43,7 @@
 # Friendship / Inspiration / Perspective / New Year Reflection Wisdom of the Day (January 11 2026)
 > "Remember, no man is a failure who has friends."
 > — Clarence the angel, from It’s a Wonderful Life (often quoted in inspirational contexts)
+
+# Growth / Leadership / Individuality Wisdom of the Day (January 12 2026)
+> “Do not go where the path may lead, go instead where there is no path and leave a trail.”
+> — Ralph Waldo Emerson
