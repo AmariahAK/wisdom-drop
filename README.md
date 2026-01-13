@@ -47,3 +47,7 @@
 # Growth / Leadership / Individuality Wisdom of the Day (January 12 2026)
 > “Do not go where the path may lead, go instead where there is no path and leave a trail.”
 > — Ralph Waldo Emerson
+
+# Discipline / Consistency Wisdom of the Day (January 13 2026)
+> “Small steps every day beat one big step once.”
+> — Unknown
