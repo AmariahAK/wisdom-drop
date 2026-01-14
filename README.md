@@ -51,3 +51,7 @@
 # Discipline / Consistency Wisdom of the Day (January 13 2026)
 > “Small steps every day beat one big step once.”
 > — Unknown
+
+# Discipline / Consistency / Builder Mindset Wisdom of the Day (January 14 2026)
+> “The work you do while nobody is watching is what creates the success everyone applauds later.”
+> — Unknown
