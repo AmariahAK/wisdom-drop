@@ -55,3 +55,7 @@
 # Discipline / Consistency / Builder Mindset Wisdom of the Day (January 14 2026)
 > “The work you do while nobody is watching is what creates the success everyone applauds later.”
 > — Unknown
+
+# Faith / Spiritual Encouragement Wisdom of the Day (January 15 2026)
+> “Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.”
+> — Paul the Apostle
