@@ -59,3 +59,7 @@
 # Faith / Spiritual Encouragement Wisdom of the Day (January 15 2026)
 > “Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.”
 > — Paul the Apostle
+
+# Clarity / Focus / Long-term Growth Wisdom of the Day (January 16 2026)
+> “Your direction is more important than your speed.”
+> — Unknown
