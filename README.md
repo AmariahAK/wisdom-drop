@@ -63,3 +63,7 @@
 # Clarity / Focus / Long-term Growth Wisdom of the Day (January 16 2026)
 > “Your direction is more important than your speed.”
 > — Unknown
+
+# Discipline / Execution / Work Ethic Wisdom of the Day (January 17 2026)
+> “Well done is better than well said.”
+> — Benjamin Franklin
