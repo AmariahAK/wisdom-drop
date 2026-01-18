@@ -67,3 +67,7 @@
 # Discipline / Execution / Work Ethic Wisdom of the Day (January 17 2026)
 > “Well done is better than well said.”
 > — Benjamin Franklin
+
+# Samurai Wisdom / Awareness / Mastery Wisdom of the Day (January 18 2026)
+> “Perceive that which cannot be seen with the eye.”
+> — Miyamoto Musashi
