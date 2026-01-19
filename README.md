@@ -71,3 +71,7 @@
 # Samurai Wisdom / Awareness / Mastery Wisdom of the Day (January 18 2026)
 > “Perceive that which cannot be seen with the eye.”
 > — Miyamoto Musashi
+
+# Discipline / Inner Strength / Resilience Wisdom of the Day (January 19 2026)
+> “Do not pray for an easy life; pray for the strength to endure a difficult one.”
+> — Bruce Lee
