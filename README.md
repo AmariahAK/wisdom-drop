@@ -75,3 +75,7 @@
 # Discipline / Inner Strength / Resilience Wisdom of the Day (January 19 2026)
 > “Do not pray for an easy life; pray for the strength to endure a difficult one.”
 > — Bruce Lee
+
+# Self-discipline / Inner Strength Wisdom of the Day (January 20 2026)
+> “He who conquers himself is the mightiest warrior.”
+> — Confucius
