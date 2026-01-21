@@ -79,3 +79,7 @@
 # Self-discipline / Inner Strength Wisdom of the Day (January 20 2026)
 > “He who conquers himself is the mightiest warrior.”
 > — Confucius
+
+# Patience / Consistency Wisdom of the Day (January 21 2026)
+> “The man who moves a mountain begins by carrying away small stones.”
+> — Confucius
