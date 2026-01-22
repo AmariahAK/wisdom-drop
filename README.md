@@ -83,3 +83,7 @@
 # Patience / Consistency Wisdom of the Day (January 21 2026)
 > “The man who moves a mountain begins by carrying away small stones.”
 > — Confucius
+
+# Inner Conflict / Courage / Self-Mastery Wisdom of the Day (January 22 2026)
+> “To live is to war with trolls in heart and soul.”
+> — Henrik Ibsen
