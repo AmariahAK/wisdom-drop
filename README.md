@@ -87,3 +87,7 @@
 # Inner Conflict / Courage / Self-Mastery Wisdom of the Day (January 22 2026)
 > “To live is to war with trolls in heart and soul.”
 > — Henrik Ibsen
+
+# Motivation / Action / Growth Wisdom of the Day (January 23 2026)
+> “Do not wait for the perfect moment. Take the moment and make it perfect.”
+> — Zoey Sayward
