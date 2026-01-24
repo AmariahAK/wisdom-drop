@@ -91,3 +91,7 @@
 # Motivation / Action / Growth Wisdom of the Day (January 23 2026)
 > “Do not wait for the perfect moment. Take the moment and make it perfect.”
 > — Zoey Sayward
+
+# Faith / Progress / Trust-the-Process Wisdom of the Day (January 24 2026)
+> “You don’t need to see the whole staircase, just take the first step.”
+> — Martin Luther King Jr.
