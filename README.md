@@ -95,3 +95,7 @@
 # Faith / Progress / Trust-the-Process Wisdom of the Day (January 24 2026)
 > “You don’t need to see the whole staircase, just take the first step.”
 > — Martin Luther King Jr.
+
+# Action / Discipline Wisdom of the Day (January 25 2026)
+> “The future depends on what you do today.”
+> — Mahatma Gandhi
