@@ -99,3 +99,7 @@
 # Action / Discipline Wisdom of the Day (January 25 2026)
 > “The future depends on what you do today.”
 > — Mahatma Gandhi
+
+# Motivation / Personal Growth Wisdom of the Day (January 26 2026)
+> “Do not be afraid to start over. This time, you’re not starting from scratch—you’re starting from experience.”
+> — Unknown
