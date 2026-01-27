@@ -103,3 +103,7 @@
 # Motivation / Personal Growth Wisdom of the Day (January 26 2026)
 > “Do not be afraid to start over. This time, you’re not starting from scratch—you’re starting from experience.”
 > — Unknown
+
+# Discipline / Consistency Wisdom of the Day (January 27 2026)
+> “Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.”
+> — John C. Maxwell
