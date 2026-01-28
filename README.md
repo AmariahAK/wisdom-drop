@@ -107,3 +107,7 @@
 # Discipline / Consistency Wisdom of the Day (January 27 2026)
 > “Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.”
 > — John C. Maxwell
+
+# Faith / Endurance Wisdom of the Day (January 28 2026)
+> “To choose what is difficult all one’s days, as if it were easy, that is faith.”
+> — W. H. Auden
