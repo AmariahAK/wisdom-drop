@@ -111,3 +111,7 @@
 # Faith / Endurance Wisdom of the Day (January 28 2026)
 > “To choose what is difficult all one’s days, as if it were easy, that is faith.”
 > — W. H. Auden
+
+# Faith / Discipline Wisdom of the Day (January 29 2026)
+> “Be faithful in small things, because it is in them that your strength lies.”
+> — Mother Teresa
