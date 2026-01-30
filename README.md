@@ -115,3 +115,7 @@
 # Faith / Discipline Wisdom of the Day (January 29 2026)
 > “Be faithful in small things, because it is in them that your strength lies.”
 > — Mother Teresa
+
+# Clarity / Direction Wisdom of the Day (January 30 2026)
+> “Most people don’t lack motivation. They lack clarity.”
+> — Marcus Buckingham
