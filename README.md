@@ -119,3 +119,7 @@
 # Clarity / Direction Wisdom of the Day (January 30 2026)
 > “Most people don’t lack motivation. They lack clarity.”
 > — Marcus Buckingham
+
+# Discipline / Success Wisdom of the Day (January 31 2026)
+> “Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.”
+> — John C. Maxwell
