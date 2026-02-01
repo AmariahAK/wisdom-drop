@@ -123,3 +123,7 @@
 # Discipline / Success Wisdom of the Day (January 31 2026)
 > “Small disciplines repeated with consistency every day lead to great achievements gained slowly over time.”
 > — John C. Maxwell
+
+# Wisdom / Life Lessons Wisdom of the Day (February 1 2026)
+> “Nothing ever goes away until it teaches us what we need to know.”
+> — Pema Chödrön
