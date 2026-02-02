@@ -127,3 +127,7 @@
 # Wisdom / Life Lessons Wisdom of the Day (February 1 2026)
 > “Nothing ever goes away until it teaches us what we need to know.”
 > — Pema Chödrön
+
+# Execution / Startups / Reality Check Wisdom of the Day (February 2 2026)
+> “People who ship win. Everyone else is just talking.”
+> — Naval Ravikant
