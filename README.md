@@ -131,3 +131,7 @@
 # Execution / Startups / Reality Check Wisdom of the Day (February 2 2026)
 > “People who ship win. Everyone else is just talking.”
 > — Naval Ravikant
+
+# Courage / Progress Wisdom of the Day (February 3 2026)
+> “You don’t have to see the whole staircase, just take the first step.”
+> — Martin Luther King Jr.
