@@ -135,3 +135,7 @@
 # Courage / Progress Wisdom of the Day (February 3 2026)
 > “You don’t have to see the whole staircase, just take the first step.”
 > — Martin Luther King Jr.
+
+# Technology / Forward Thinking Wisdom of the Day (February 4 2026)
+> “The future is already here — it’s just not evenly distributed.”
+> — William Gibson
