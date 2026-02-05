@@ -139,3 +139,7 @@
 # Technology / Forward Thinking Wisdom of the Day (February 4 2026)
 > “The future is already here — it’s just not evenly distributed.”
 > — William Gibson
+
+# Purpose / Action Wisdom of the Day (February 5 2026)
+> “The future depends on what you do in the present.”
+> — Mahatma Gandhi
