@@ -143,3 +143,7 @@
 # Purpose / Action Wisdom of the Day (February 5 2026)
 > “The future depends on what you do in the present.”
 > — Mahatma Gandhi
+
+# Consistency / Habits Wisdom of the Day (February 6 2026)
+> “What you do every day matters more than what you do once in a while.”
+> — Gretchen Rubin
