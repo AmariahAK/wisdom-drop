@@ -147,3 +147,7 @@
 # Consistency / Habits Wisdom of the Day (February 6 2026)
 > “What you do every day matters more than what you do once in a while.”
 > — Gretchen Rubin
+
+# Mindfulness / Inner Peace Wisdom of the Day (February 7 2026)
+> “The quieter you become, the more you are able to hear.”
+> — Ram Dass
