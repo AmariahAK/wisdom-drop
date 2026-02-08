@@ -151,3 +151,7 @@
 # Mindfulness / Inner Peace Wisdom of the Day (February 7 2026)
 > “The quieter you become, the more you are able to hear.”
 > — Ram Dass
+
+# Resilience / Inner Strength Wisdom of the Day (February 8 2026)
+> “It is not the strength of the body that counts, but the strength of the spirit.”
+> — J.R.R. Tolkien
