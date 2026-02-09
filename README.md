@@ -155,3 +155,7 @@
 # Resilience / Inner Strength Wisdom of the Day (February 8 2026)
 > “It is not the strength of the body that counts, but the strength of the spirit.”
 > — J.R.R. Tolkien
+
+# Life / Wisdom Wisdom of the Day (February 9 2026)
+> “Nothing ever becomes real till it is experienced.”
+> — John Keats
