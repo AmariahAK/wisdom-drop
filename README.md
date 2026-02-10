@@ -159,3 +159,7 @@
 # Life / Wisdom Wisdom of the Day (February 9 2026)
 > “Nothing ever becomes real till it is experienced.”
 > — John Keats
+
+# Productivity / Momentum Wisdom of the Day (February 10 2026)
+> “The secret of getting ahead is getting started.”
+> — Mark Twain
