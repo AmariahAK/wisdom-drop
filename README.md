@@ -163,3 +163,7 @@
 # Productivity / Momentum Wisdom of the Day (February 10 2026)
 > “The secret of getting ahead is getting started.”
 > — Mark Twain
+
+# Productivity / Craftsmanship Wisdom of the Day (February 11 2026)
+> “Simplicity is the soul of efficiency.”
+> — Austin Freeman
