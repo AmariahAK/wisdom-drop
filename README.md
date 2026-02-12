@@ -167,3 +167,7 @@
 # Productivity / Craftsmanship Wisdom of the Day (February 11 2026)
 > “Simplicity is the soul of efficiency.”
 > — Austin Freeman
+
+# Personal Growth / Resilience Wisdom of the Day (February 12 2026)
+> “It is not the mountain we conquer, but ourselves.”
+> -- Sir Edmund Hillary
