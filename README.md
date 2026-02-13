@@ -171,3 +171,7 @@
 # Personal Growth / Resilience Wisdom of the Day (February 12 2026)
 > “It is not the mountain we conquer, but ourselves.”
 > -- Sir Edmund Hillary
+
+# Discipline / Personal Responsibility Wisdom of the Day (February 13 2026)
+> “Nothing will work unless you do.”
+> — Maya Angelou
