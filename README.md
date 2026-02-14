@@ -175,3 +175,7 @@
 # Discipline / Personal Responsibility Wisdom of the Day (February 13 2026)
 > “Nothing will work unless you do.”
 > — Maya Angelou
+
+# Discipline / Self-Mastery Wisdom of the Day (February 14 2026)
+> “Control your mind, and you control your sword.”
+> — Samurai principle of Bushidō
