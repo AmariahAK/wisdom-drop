@@ -179,3 +179,7 @@
 # Discipline / Self-Mastery Wisdom of the Day (February 14 2026)
 > “Control your mind, and you control your sword.”
 > — Samurai principle of Bushidō
+
+# Self-Discipline / Inner Strength Wisdom of the Day (February 15 2026)
+> “He who conquers himself is the mightiest warrior.”
+> — Confucius
