@@ -183,3 +183,7 @@
 # Self-Discipline / Inner Strength Wisdom of the Day (February 15 2026)
 > “He who conquers himself is the mightiest warrior.”
 > — Confucius
+
+# Resilience / Strength Wisdom of the Day (February 16 2026)
+> “Do not pray for an easy life; pray for the strength to endure a difficult one.”
+> — Bruce Lee
