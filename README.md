@@ -187,3 +187,7 @@
 # Resilience / Strength Wisdom of the Day (February 16 2026)
 > “Do not pray for an easy life; pray for the strength to endure a difficult one.”
 > — Bruce Lee
+
+# Stoicism / Resilience Wisdom of the Day (February 17 2026)
+> “The impediment to action advances action. What stands in the way becomes the way.”
+> — Marcus Aurelius
