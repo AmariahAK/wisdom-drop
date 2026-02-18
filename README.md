@@ -191,3 +191,7 @@
 # Stoicism / Resilience Wisdom of the Day (February 17 2026)
 > “The impediment to action advances action. What stands in the way becomes the way.”
 > — Marcus Aurelius
+
+# Honor / Courage / Duty Wisdom of the Day (February 18 2026)
+> “A knight is sworn to valor, not to victory.”
+> — Medieval Chivalric Maxim
