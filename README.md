@@ -195,3 +195,11 @@
 # Honor / Courage / Duty Wisdom of the Day (February 18 2026)
 > “A knight is sworn to valor, not to victory.”
 > — Medieval Chivalric Maxim
+
+# Stoicism / Growth Wisdom of the Day (Februaru 19 2026)
+> “The impediment to action advances action. What stands in the way becomes the way.”
+> — Marcus Aurelius
+
+# Discipline / Mastery Wisdom of the Day (February 20 2026)
+> “We are what we repeatedly do. Excellence, then, is not an act, but a habit.”
+> — Will Durant (summarizing the philosophy of Aristotle)
