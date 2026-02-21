@@ -203,3 +203,7 @@
 # Discipline / Mastery Wisdom of the Day (February 20 2026)
 > “We are what we repeatedly do. Excellence, then, is not an act, but a habit.”
 > — Will Durant (summarizing the philosophy of Aristotle)
+
+# Transformation / Power Wisdom of the Day (February 21 2026)
+> “All that you touch, you change. All that you change, changes you.”
+> — Octavia E. Butler
