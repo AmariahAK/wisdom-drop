@@ -207,3 +207,7 @@
 # Transformation / Power Wisdom of the Day (February 21 2026)
 > “All that you touch, you change. All that you change, changes you.”
 > — Octavia E. Butler
+
+# Resilience / Perseverance Wisdom of the Day (Febraury 22 2026)
+> “The best way out is always through.”
+> — Robert Frost
