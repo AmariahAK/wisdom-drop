@@ -211,3 +211,7 @@
 # Resilience / Perseverance Wisdom of the Day (Febraury 22 2026)
 > “The best way out is always through.”
 > — Robert Frost
+
+# Creativity / Initiative Wisdom of the Day (February 23 2026)
+> “If there’s a book that you want to read, but it hasn’t been written yet, then you must write it.”
+> — Toni Morrison
