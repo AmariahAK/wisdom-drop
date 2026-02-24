@@ -215,3 +215,7 @@
 # Creativity / Initiative Wisdom of the Day (February 23 2026)
 > “If there’s a book that you want to read, but it hasn’t been written yet, then you must write it.”
 > — Toni Morrison
+
+# Resilience / Opportunity Wisdom of the Day (February 24 2026)
+> “In the middle of difficulty lies opportunity.”
+> — Albert Einstein
