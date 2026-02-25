@@ -219,3 +219,7 @@
 # Resilience / Opportunity Wisdom of the Day (February 24 2026)
 > “In the middle of difficulty lies opportunity.”
 > — Albert Einstein
+
+# Courage / Growth Wisdom of the Day (February 25 2026)
+> “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
+> — James Baldwin
