@@ -223,3 +223,7 @@
 # Courage / Growth Wisdom of the Day (February 25 2026)
 > “Not everything that is faced can be changed, but nothing can be changed until it is faced.”
 > — James Baldwin
+
+# Courage / Letting Go Wisdom of the Day (February 26 2026)
+> “You wanna fly, you got to give up the thing that weighs you down.”
+> — Toni Morrison
