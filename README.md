@@ -227,3 +227,7 @@
 # Courage / Letting Go Wisdom of the Day (February 26 2026)
 > “You wanna fly, you got to give up the thing that weighs you down.”
 > — Toni Morrison
+
+# Growth / Courage / Self-Mastery Wisdom of the Day (February 27 2028)
+> “I am not afraid of storms, for I am learning how to sail my ship.”
+> — Louisa May Alcott
