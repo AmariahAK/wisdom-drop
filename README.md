@@ -235,3 +235,7 @@
 # Inner Strength / Character Wisdom of the Day (February 28 2026)
 > “It is not the strength of the body that counts, but the strength of the spirit.”
 > — J. R. R. Tolkien
+
+# Self-Mastery / Growth Wisdom of the Day (March 1 2026)
+> “It is not the mountain we conquer, but ourselves.”
+> — Edmund Hillary
