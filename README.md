@@ -239,3 +239,7 @@
 # Self-Mastery / Growth Wisdom of the Day (March 1 2026)
 > “It is not the mountain we conquer, but ourselves.”
 > — Edmund Hillary
+
+# Discipline / Habits / Consistency Wisdom of the Day (March 2 2026)
+> “What you do every day matters more than what you do once in a while.”
+> — Gretchen Rubin
