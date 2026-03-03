@@ -243,3 +243,7 @@
 # Discipline / Habits / Consistency Wisdom of the Day (March 2 2026)
 > “What you do every day matters more than what you do once in a while.”
 > — Gretchen Rubin
+
+# Initiative / Personal Responsibility / Impact Wisdom of the Day (March 3 2026)
+> “Do not wait for leaders; do it alone, person to person.”
+> — Mother Teresa
