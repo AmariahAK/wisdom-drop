@@ -247,3 +247,11 @@
 # Initiative / Personal Responsibility / Impact Wisdom of the Day (March 3 2026)
 > “Do not wait for leaders; do it alone, person to person.”
 > — Mother Teresa
+
+# Discipline / Action Wisdom of the Day (March 4 2026)
+> “The future depends on what you do today.”
+> — Mahatma Gandhi
+
+# Inspiration / Perseverance Wisdom of the Day (March 5 2026)
+> “If you surrender to the wind, you can ride it.”
+> — Toni Morrison
