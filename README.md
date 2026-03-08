@@ -260,6 +260,10 @@
 > “The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.”
 > — George Bernard Shaw
 
-# Learning / Mastery Wisdom of the Dayy (March 7 2026)
+# Learning / Mastery Wisdom of the Day (March 7 2026)
 > “The future belongs to those who learn more skills and combine them in creative ways.”
 > — Robert Greene
+
+# Courage / Growth Wisdom of the Day (March 8 2026)
+> “You cannot swim for new horizons until you have courage to lose sight of the shore.”
+> — William Faulkner
