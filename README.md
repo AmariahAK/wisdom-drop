@@ -267,3 +267,7 @@
 # Courage / Growth Wisdom of the Day (March 8 2026)
 > “You cannot swim for new horizons until you have courage to lose sight of the shore.”
 > — William Faulkner
+
+# Resilience / Personal Growth Wisdom of the Day (March 9 2026)
+> “When we are no longer able to change a situation, we are challenged to change ourselves.”
+> — Viktor Frankl
