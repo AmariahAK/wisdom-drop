@@ -275,3 +275,7 @@
 # Inspirational / Life / Philosophy Wisdom of the Day (March 10 2026)
 > "Surprise is the greatest gift which life can grant us."
 > — Boris Pasternak
+
+# Wisdom / Human Nature Wisdom of the Day (March 11 2026)
+> "One who deceives will always find those who allow themselves to be deceived."
+> — Niccolò Machiavelli
