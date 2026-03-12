@@ -279,3 +279,7 @@
 # Wisdom / Human Nature Wisdom of the Day (March 11 2026)
 > "One who deceives will always find those who allow themselves to be deceived."
 > — Niccolò Machiavelli
+
+# Inspirational / Motivational (with a focus on personal growth and character) Wisdom of the Day (March 12 2026)
+> "Courage is the ladder on which all the other virtues mount."
+> — Clare Boothe Luce
