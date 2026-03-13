@@ -283,3 +283,7 @@
 # Inspirational / Motivational (with a focus on personal growth and character) Wisdom of the Day (March 12 2026)
 > "Courage is the ladder on which all the other virtues mount."
 > — Clare Boothe Luce
+
+# Wisdom / Compassion / Inspirational Wisdom of the Day (March 13 2026)
+> "My religion is very simple. My religion is kindness."
+> — Dalai Lama
