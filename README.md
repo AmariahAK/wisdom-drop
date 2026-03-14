@@ -287,3 +287,7 @@
 # Wisdom / Compassion / Inspirational Wisdom of the Day (March 13 2026)
 > "My religion is very simple. My religion is kindness."
 > — Dalai Lama
+
+# Motivation / Wisdom (or Personal Growth & Curiosity) Wisdom of the Day (March 14 2026)
+> "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
+> — Albert Einstein
