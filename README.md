@@ -295,3 +295,7 @@
 # Love / Relationships (or Personal Growth/Inspirational)  Wisdom of the Day (March 15 2026)
 > "Love takes off masks that we fear we cannot live without and know we cannot live within."
 > James Baldwin
+
+# Inspirational / Life Wisdom of the Day (March 16 2026)
+> "Try to keep your soul young and quivering right up to old age."
+> — George Sand
