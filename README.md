@@ -299,3 +299,7 @@
 # Inspirational / Life Wisdom of the Day (March 16 2026)
 > "Try to keep your soul young and quivering right up to old age."
 > — George Sand
+
+# Friendship Wisdom of the Day (March 17 2026)
+> "Think where man's glory most begins and ends, And say my glory was I had such friends."
+> William Butler Yeats
