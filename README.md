@@ -303,3 +303,7 @@
 # Friendship Wisdom of the Day (March 17 2026)
 > "Think where man's glory most begins and ends, And say my glory was I had such friends."
 > William Butler Yeats
+
+# Inspirational / Spiritual Resilience (or simply Motivational) Wisdom of the Day (March 18 2026)
+> "When the world pushes you to your knees, you're in the perfect position to pray."
+> Rumi (the renowned 13th-century Persian poet and Sufi mystic)
