@@ -307,3 +307,7 @@
 # Inspirational / Spiritual Resilience (or simply Motivational) Wisdom of the Day (March 18 2026)
 > "When the world pushes you to your knees, you're in the perfect position to pray."
 > Rumi (the renowned 13th-century Persian poet and Sufi mystic)
+
+# Wisdom / Leadership (or Peace & Justice) Wisdom of the Day (March 19 2026)
+> “Peace and justice are two sides of the same coin.”
+> Dwight D. Eisenhower
