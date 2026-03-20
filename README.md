@@ -311,3 +311,7 @@
 # Wisdom / Leadership (or Peace & Justice) Wisdom of the Day (March 19 2026)
 > “Peace and justice are two sides of the same coin.”
 > Dwight D. Eisenhower
+
+# Motivation / Perseverance (or Inspirational Success) Wisdom of the Day (March 20 2026)
+> "I trained four years to run nine seconds and people give up when they don’t see results in two months."
+> Usain Bolt
