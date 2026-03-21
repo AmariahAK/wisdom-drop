@@ -315,3 +315,7 @@
 # Motivation / Perseverance (or Inspirational Success) Wisdom of the Day (March 20 2026)
 > "I trained four years to run nine seconds and people give up when they don’t see results in two months."
 > Usain Bolt
+
+# Motivation / Success / Preparation Wisdom of the Day (March 21 2026)
+> "Most people have the will to win, few have the will to prepare to win."
+> — Bobby Knight
