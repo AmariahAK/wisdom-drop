@@ -319,3 +319,7 @@
 # Motivation / Success / Preparation Wisdom of the Day (March 21 2026)
 > "Most people have the will to win, few have the will to prepare to win."
 > — Bobby Knight
+
+# Motivational / Success / Perseverance Wisdom of the Day (March 22 2026)
+> "Success is the sum of small efforts - repeated day in and day out."
+> Robert Collier
