@@ -323,3 +323,7 @@
 # Motivational / Success / Perseverance Wisdom of the Day (March 22 2026)
 > "Success is the sum of small efforts - repeated day in and day out."
 > Robert Collier
+
+# Wisdom / Resilience Wisdom of the Day (March 23 2026)
+> "In the middle of difficulty lies opportunity."
+> — Albert Einstein
