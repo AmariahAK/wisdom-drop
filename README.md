@@ -335,3 +335,11 @@
 # Motivation / Goals & Ambition Wisdom of the Day (March 25 2026)
 > “You should set goals beyond your reach so you always have something to live for.”
 > — Ted Turner
+
+# Self-Confidence / Individuality / Life Wisdom Wisdom of the Day (March 26 2026)
+> "Be yourself; everyone else is already taken."
+> Oscar Wilde
+
+# Happiness / Inner Peace Wisdom of the Day (March 27 2026)
+> "Happiness is not something ready made. It comes from your own actions."
+> Dalai Lama
