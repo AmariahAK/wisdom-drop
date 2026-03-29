@@ -343,3 +343,11 @@
 # Happiness / Inner Peace Wisdom of the Day (March 27 2026)
 > "Happiness is not something ready made. It comes from your own actions."
 > Dalai Lama
+
+# Motivation / Perseverance Wisdom of the Day (March 28 2026)
+> “It does not matter how slowly you go as long as you do not stop.”
+> Confucius
+
+# Motivation / Self-Belief Wisdom of the Day (March 29 2026)
+> “Believe you can and you're halfway there.”
+> Theodore Roosevelt
