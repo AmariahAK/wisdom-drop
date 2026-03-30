@@ -351,3 +351,7 @@
 # Motivation / Self-Belief Wisdom of the Day (March 29 2026)
 > “Believe you can and you're halfway there.”
 > Theodore Roosevelt
+
+# Inspiration / Personal Growth Wisdom of the Day (March 30 2026)
+> "Be the change that you wish to see in the world."
+> Mahatma Gandhi
