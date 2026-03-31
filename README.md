@@ -355,3 +355,7 @@
 # Inspiration / Personal Growth Wisdom of the Day (March 30 2026)
 > "Be the change that you wish to see in the world."
 > Mahatma Gandhi
+
+# Motivation / Self-Belief / Resilience Wisdom of the Day (March 31 2026)
+> “You have to believe in yourself when no one else does.”
+> Serena Williams
