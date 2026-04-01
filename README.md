@@ -359,3 +359,7 @@
 # Motivation / Self-Belief / Resilience Wisdom of the Day (March 31 2026)
 > “You have to believe in yourself when no one else does.”
 > Serena Williams
+
+# Inspirational / Spiritual Growth Wisdom of the Day (April 1 2026)
+> "A rebirth out of spiritual adversity causes us to become new creatures."
+> — James E. Faust
