@@ -363,3 +363,7 @@
 # Inspirational / Spiritual Growth Wisdom of the Day (April 1 2026)
 > "A rebirth out of spiritual adversity causes us to become new creatures."
 > — James E. Faust
+
+# Wisdom / Peace Wisdom of the Day (April 2 2026)
+> "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+> — Martin Luther King, Jr.
