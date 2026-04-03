@@ -367,3 +367,7 @@
 # Wisdom / Peace Wisdom of the Day (April 2 2026)
 > "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
 > — Martin Luther King, Jr.
+
+# Wisdom / Inspiration Wisdom of the Day (April 3 2026)
+> “Live as if you were to die tomorrow. Learn as if you were to live forever.”
+> Mahatma Gandhi
