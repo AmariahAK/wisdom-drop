@@ -375,3 +375,7 @@
 # Wisdom / Philosophy Wisdom of the Day (April 4 2026)
 > “The only true wisdom is in knowing you know nothing.”
 > Socrates
+
+# Purpose / Life Reflection (or Motivational Wisdom) Wisdom of the Day (April 5 2026)
+> "The two most important days in your life are the day you are born and the day you find out why."
+> — Mark Twain
