@@ -383,3 +383,7 @@
 # Purpose / Life Reflection / Motivational Wisdom of the Day (April 6 2026)
 > "The two most important days in your life are the day you are born and the day you find out why."
 > Mark Twain
+
+# Wisdom / Inspiration / Lifelong Learning Wisdom of the Day (April 7 2026)
+> "Live as if you were to die tomorrow. Learn as if you were to live forever."
+> — Mahatma Gandhi
