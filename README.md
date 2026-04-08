@@ -387,3 +387,7 @@
 # Wisdom / Inspiration / Lifelong Learning Wisdom of the Day (April 7 2026)
 > "Live as if you were to die tomorrow. Learn as if you were to live forever."
 > — Mahatma Gandhi
+
+# Wisdom / Philosophy Wisdom of the Day (April 8 2026)
+> "The only true wisdom is in knowing you know nothing."
+> Socrates
