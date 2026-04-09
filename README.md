@@ -391,3 +391,7 @@
 # Wisdom / Philosophy Wisdom of the Day (April 8 2026)
 > "The only true wisdom is in knowing you know nothing."
 > Socrates
+
+# Motivation / Action / Risk-taking Wisdom of the Day (April 9 2026)
+> “You miss 100% of the shots you don’t take.”
+> — Wayne Gretzky
