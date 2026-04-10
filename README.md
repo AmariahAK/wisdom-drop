@@ -395,3 +395,7 @@
 # Motivation / Action / Risk-taking Wisdom of the Day (April 9 2026)
 > “You miss 100% of the shots you don’t take.”
 > — Wayne Gretzky
+
+# Consistency / Habits Wisdom of the Day (April 10 2026)
+> “What you do every day matters more than what you do once in a while.”
+> — Gretchen Rubin
