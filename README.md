@@ -399,3 +399,7 @@
 # Consistency / Habits Wisdom of the Day (April 10 2026)
 > “What you do every day matters more than what you do once in a while.”
 > — Gretchen Rubin
+
+# Courage / Self-Mastery / Inner Strength Wisdom of the Day (April 11 2026)
+> “The greatest glory in living lies not in never falling, but in rising every time we fall.”
+> — Nelson Mandela
