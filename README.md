@@ -403,3 +403,7 @@
 # Courage / Self-Mastery / Inner Strength Wisdom of the Day (April 11 2026)
 > “The greatest glory in living lies not in never falling, but in rising every time we fall.”
 > — Nelson Mandela
+
+# Motivation / Passion / Work / Success / Inspiration Wisdom of the Day (April 12 2026)
+> “The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.”
+> — Steve Jobs
