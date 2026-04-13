@@ -407,3 +407,7 @@
 # Motivation / Passion / Work / Success / Inspiration Wisdom of the Day (April 12 2026)
 > “The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.”
 > — Steve Jobs
+
+# Samurai Wisdom / Discipline / Courage / Fearlessness Wisdom of the Day (April 13 2026)
+> “To win any battle, you must fight as if you are already dead.”
+> — Miyamoto Musashi
