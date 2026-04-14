@@ -411,3 +411,7 @@
 # Samurai Wisdom / Discipline / Courage / Fearlessness Wisdom of the Day (April 13 2026)
 > “To win any battle, you must fight as if you are already dead.”
 > — Miyamoto Musashi
+
+# Perseverance / Resilience Wisdom of the Day (April 14 2026)
+> “Fall seven times, stand up eight.”
+> Japanese Proverb
