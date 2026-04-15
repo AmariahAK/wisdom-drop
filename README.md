@@ -415,3 +415,7 @@
 # Perseverance / Resilience Wisdom of the Day (April 14 2026)
 > “Fall seven times, stand up eight.”
 > Japanese Proverb
+
+# Existential Freedom / Rebellion / Personal Liberation Wisdom of the Day (April 15 2026)
+> “The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.”
+> — Albert Camus
