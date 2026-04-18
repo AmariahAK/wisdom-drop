@@ -427,3 +427,7 @@
 # Personal Growth / Self-Determination / Destiny Wisdom of the Day (April 17 2026)
 > “The only person you are destined to become is the person you decide to be.”
 > Ralph Waldo Emerson
+
+# Personal Growth / Courage / Self-Acceptance Wisdom of the Day (April 18 2026)
+> “It takes courage to grow up and become who you really are.”
+> E.E. Cummings
