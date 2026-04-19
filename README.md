@@ -431,3 +431,7 @@
 # Personal Growth / Courage / Self-Acceptance Wisdom of the Day (April 18 2026)
 > “It takes courage to grow up and become who you really are.”
 > E.E. Cummings
+
+# Personal Growth / Discipline / Mindset Wisdom of the Day (April 19 2026)
+> “Growth and comfort do not coexist.”
+> — Alex Hormozi
