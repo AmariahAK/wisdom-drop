@@ -435,3 +435,7 @@
 # Personal Growth / Discipline / Mindset Wisdom of the Day (April 19 2026)
 > “Growth and comfort do not coexist.”
 > — Alex Hormozi
+
+# Courage / Inner Strength / Self-Mastery Wisdom of the Day (April 20 2026)
+> “Courage is resistance to fear, mastery of fear — not absence of fear.”
+> — Mark Twain
