@@ -439,3 +439,7 @@
 # Courage / Inner Strength / Self-Mastery Wisdom of the Day (April 20 2026)
 > “Courage is resistance to fear, mastery of fear — not absence of fear.”
 > — Mark Twain
+
+# Discipline / Inner Strength / Self-Mastery Wisdom of the Day (April 21 2026)
+> “The greatest battle is the one you fight within yourself. Win that, and all other victories follow.”
+> — Inspired by ancient samurai and Stoic wisdom (a modern synthesis drawing from Miyamoto Musashi and Marcus Aurelius)
