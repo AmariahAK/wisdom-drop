@@ -447,3 +447,7 @@
 # Resilience / Emotional Strength / Life Philosophy Wisdom of the Day (April 22 2026)
 > “Let everything happen to you: beauty and terror. Just keep going. No feeling is final.”
 > — Rainer Maria Rilke
+
+# Philosophy / Life Perspective Wisdom of the Day (April 23 2026)
+> “Life can only be understood backwards; but it must be lived forwards.”
+> — Søren Kierkegaard
