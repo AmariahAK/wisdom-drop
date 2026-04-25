@@ -455,3 +455,7 @@
 # Purpose / Contribution / Life Philosophy Wisdom of the Day (April 24 2026)
 > “The meaning of life is to find your gift. The purpose of life is to give it away.”
 > — Pablo Picasso
+
+# Stoicism / Mindset / Mental Clarity Wisdom of the Day (April 25 2026)
+> “We suffer more often in imagination than in reality.”
+> — Seneca
