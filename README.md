@@ -459,3 +459,7 @@
 # Stoicism / Mindset / Mental Clarity Wisdom of the Day (April 25 2026)
 > “We suffer more often in imagination than in reality.”
 > — Seneca
+
+# Self-Mastery / Stoicism / Discipline Wisdom of the Day (April 26 2026)
+> “No man is free who is not master of himself.”
+> — Epictetus
