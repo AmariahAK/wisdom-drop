@@ -463,3 +463,7 @@
 # Self-Mastery / Stoicism / Discipline Wisdom of the Day (April 26 2026)
 > “No man is free who is not master of himself.”
 > — Epictetus
+
+# Preparation / Opportunity / Success Wisdom of the Day (April 27 2026)
+> “Luck is what happens when preparation meets opportunity.”
+> — Seneca
