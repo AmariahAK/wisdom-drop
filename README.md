@@ -467,3 +467,7 @@
 # Preparation / Opportunity / Success Wisdom of the Day (April 27 2026)
 > “Luck is what happens when preparation meets opportunity.”
 > — Seneca
+
+# Action / Character / Stoicism Wisdom of the Day (April 28 2026)
+> “Waste no more time arguing what a good man should be. Be one.”
+> — Marcus Aurelius
