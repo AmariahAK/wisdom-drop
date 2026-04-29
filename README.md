@@ -471,3 +471,7 @@
 # Action / Character / Stoicism Wisdom of the Day (April 28 2026)
 > “Waste no more time arguing what a good man should be. Be one.”
 > — Marcus Aurelius
+
+# Character / Self-Control / Stoicism Wisdom of the Day (April 29 2026)
+> “The best revenge is not to be like your enemy.”
+> — Marcus Aurelius
