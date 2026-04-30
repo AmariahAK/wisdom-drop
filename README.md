@@ -475,3 +475,7 @@
 # Character / Self-Control / Stoicism Wisdom of the Day (April 29 2026)
 > “The best revenge is not to be like your enemy.”
 > — Marcus Aurelius
+
+# Courage / Growth / Risk-taking Wisdom of the Day (April 30 2026)
+> “Man cannot discover new oceans unless he has the courage to lose sight of the shore.”
+> — André Gide
