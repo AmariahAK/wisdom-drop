@@ -479,3 +479,7 @@
 # Courage / Growth / Risk-taking Wisdom of the Day (April 30 2026)
 > “Man cannot discover new oceans unless he has the courage to lose sight of the shore.”
 > — André Gide
+
+# Resilience / Personal Growth
+> "When we are no longer able to change a situation, we are challenged to change ourselves"
+> -- Viktor E Frankl
