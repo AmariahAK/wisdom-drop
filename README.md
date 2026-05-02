@@ -480,6 +480,10 @@
 > “Man cannot discover new oceans unless he has the courage to lose sight of the shore.”
 > — André Gide
 
-# Resilience / Personal Growth
+# Resilience / Personal Growth Wisdom of the Day (May 1 2026)
 > "When we are no longer able to change a situation, we are challenged to change ourselves"
 > -- Viktor E Frankl
+
+# Action / Mindset Wisdom of the Day (May 2 2026)
+> “Do not wait for the perfect time and place to enter, for you are already onstage.”
+> — Unknown
