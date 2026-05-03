@@ -487,3 +487,7 @@
 # Action / Mindset Wisdom of the Day (May 2 2026)
 > “Do not wait for the perfect time and place to enter, for you are already onstage.”
 > — Unknown
+
+# Personal Growth / Discipline Wisdom of the Day (May 3 2026)
+> “It is not the mountain we conquer, but ourselves.”
+> — Edmund Hillary
