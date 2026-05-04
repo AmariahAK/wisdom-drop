@@ -491,3 +491,7 @@
 # Personal Growth / Discipline Wisdom of the Day (May 3 2026)
 > “It is not the mountain we conquer, but ourselves.”
 > — Edmund Hillary
+
+# Stoicism / Mindset Wisdom of the Day (May 4 2026)
+> “We suffer more often in imagination than in reality.”
+> — Seneca
