@@ -499,4 +499,3 @@
 # Discipline / Success Wisdom of the Day (May 5 2026)
 > “Luck is what happens when preparation meets opportunity.”
 > — Seneca
-Category: 
