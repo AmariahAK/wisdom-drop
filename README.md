@@ -495,3 +495,8 @@
 # Stoicism / Mindset Wisdom of the Day (May 4 2026)
 > “We suffer more often in imagination than in reality.”
 > — Seneca
+
+# Discipline / Success Wisdom of the Day (May 5 2026)
+> “Luck is what happens when preparation meets opportunity.”
+> — Seneca
+Category: 
