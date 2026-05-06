@@ -499,3 +499,7 @@
 # Discipline / Success Wisdom of the Day (May 5 2026)
 > “Luck is what happens when preparation meets opportunity.”
 > — Seneca
+
+# Life / Balance Wisdom of the Day (May 6 2026)
+> “In between goals is a thing called life, that has to be lived and enjoyed.”
+> — Sid Caesar
