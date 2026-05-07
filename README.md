@@ -503,3 +503,7 @@
 # Life / Balance Wisdom of the Day (May 6 2026)
 > “In between goals is a thing called life, that has to be lived and enjoyed.”
 > — Sid Caesar
+
+# Courage / Action Wisdom of the Day (May 7 2026)
+> “You can’t cross the sea merely by standing and staring at the water.”
+> — Rabindranath Tagore
