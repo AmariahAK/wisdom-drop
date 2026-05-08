@@ -507,3 +507,7 @@
 # Courage / Action Wisdom of the Day (May 7 2026)
 > “You can’t cross the sea merely by standing and staring at the water.”
 > — Rabindranath Tagore
+
+# Courage / Self-belief Wisdom of the Day (May 8 2026)
+> “Do not wait for the perfect time and place to enter, for you are already onstage.”
+> — Unknown
