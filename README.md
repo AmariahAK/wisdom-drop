@@ -511,3 +511,7 @@
 # Courage / Self-belief Wisdom of the Day (May 8 2026)
 > “Do not wait for the perfect time and place to enter, for you are already onstage.”
 > — Unknown
+
+# Growth / Risk-Taking Wisdom of the Day (May 9 2026)
+> “A ship in harbor is safe, but that is not what ships are built for.”
+> — John Augustus Shedd
