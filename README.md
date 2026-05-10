@@ -515,3 +515,7 @@
 # Growth / Risk-Taking Wisdom of the Day (May 9 2026)
 > “A ship in harbor is safe, but that is not what ships are built for.”
 > — John Augustus Shedd
+
+# Resilience / Adaptability Wisdom of the Day (May 10 2026)
+> “The bamboo that bends is stronger than the oak that resists.”
+> — Japanese Proverb
