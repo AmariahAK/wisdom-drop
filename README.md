@@ -519,3 +519,7 @@
 # Resilience / Adaptability Wisdom of the Day (May 10 2026)
 > “The bamboo that bends is stronger than the oak that resists.”
 > — Japanese Proverb
+
+# Perserverance/ Growth Wisdom of the Day (May 11 2026)
+> "There is power in humility, There is strength in wisdom & there is growth in the death of self"
+> -- Amariah Abishai
