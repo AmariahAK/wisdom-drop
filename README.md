@@ -523,3 +523,7 @@
 # Perserverance/ Growth Wisdom of the Day (May 11 2026)
 > "There is power in humility, There is strength in wisdom & there is growth in the death of self"
 > -- Amariah Abishai
+
+# Motivation / Action / Future Growth Wisdom of the Day (May 12 2026)
+> “A year from now you may wish you had started today.”
+> — Karen Lamb
