@@ -527,3 +527,7 @@
 # Motivation / Action / Future Growth Wisdom of the Day (May 12 2026)
 > “A year from now you may wish you had started today.”
 > — Karen Lamb
+
+# Resilience / Growth / Adversity Wisdom of the Day (May 13 2026)
+> “A smooth sea never made a skilled sailor.”
+> — Franklin D. Roosevelt
