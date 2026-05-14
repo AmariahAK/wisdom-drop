@@ -531,3 +531,7 @@
 # Resilience / Growth / Adversity Wisdom of the Day (May 13 2026)
 > “A smooth sea never made a skilled sailor.”
 > — Franklin D. Roosevelt
+
+# Resilience / Inner Strength / Empathy Wisdom of the Day (May 14 2026)
+> “The strongest people are not those who show strength in front of us, but those who win battles we know nothing about.”
+> — Jonathan Harnisch
