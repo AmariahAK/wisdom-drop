@@ -535,3 +535,7 @@
 # Resilience / Inner Strength / Empathy Wisdom of the Day (May 14 2026)
 > “The strongest people are not those who show strength in front of us, but those who win battles we know nothing about.”
 > — Jonathan Harnisch
+
+# Philosophy & Adaptability Wisdom of the Day (May 15 2026)
+> The only way to make sense out of change is to plunge into it, move with it, and join the dance
+> --Alan Watts
