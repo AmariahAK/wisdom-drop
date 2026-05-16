@@ -537,5 +537,9 @@
 > — Jonathan Harnisch
 
 # Philosophy & Adaptability Wisdom of the Day (May 15 2026)
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance
+> "The only way to make sense out of change is to plunge into it, move with it, and join the dance"
 > --Alan Watts
+
+# Creativity & Inspiration Wisdom of the Day (may 16 2026)
+> "The chief enemy of creativity is 'good' sense"
+> -- Pablo Picasso
