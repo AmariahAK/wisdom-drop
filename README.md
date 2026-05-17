@@ -544,3 +544,6 @@
 > "The chief enemy of creativity is 'good' sense"
 > -- Pablo Picasso
 
+# Courage / Personal Growth / Self-Discovery Wisdom of the Day (May 17 2026)
+> “The cave you fear to enter holds the treasure you seek.”
+> — Joseph Campbell
