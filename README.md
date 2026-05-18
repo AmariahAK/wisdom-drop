@@ -547,3 +547,7 @@
 # Courage / Personal Growth / Self-Discovery Wisdom of the Day (May 17 2026)
 > “The cave you fear to enter holds the treasure you seek.”
 > — Joseph Campbell
+
+# Wisdom / Self-Trust / Growth Wisdom of the Day (May 18 2026)
+> “At any given moment, you have the power to say: this is not how the story is going to end.”
+> — Christine Mason Miller
