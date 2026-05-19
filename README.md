@@ -551,3 +551,7 @@
 # Wisdom / Self-Trust / Growth Wisdom of the Day (May 18 2026)
 > “At any given moment, you have the power to say: this is not how the story is going to end.”
 > — Christine Mason Miller
+
+# Bravery / New-ness / Trial Wisdom of the Day (May 19 2026)
+> "It is often said that better the devil you know than the angel you dont, but you do not know the angel who will support you if you keep following the devil"
+> -- Amariah Abishai
