@@ -555,3 +555,7 @@
 # Bravery / New-ness / Trial Wisdom of the Day (May 19 2026)
 > "It is often said that better the devil you know than the angel you dont, but you do not know the angel who will support you if you keep following the devil"
 > -- Amariah Abishai
+
+# Patience / Strengthening / Hope Wisdom of the Day (May 20 2026)
+> "Delay is not denial, and if delayed it is the act of patience & faith that will bring it to pass"
+> -- Amariah Abishai
