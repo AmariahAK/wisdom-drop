@@ -559,3 +559,7 @@
 # Patience / Strengthening / Hope Wisdom of the Day (May 20 2026)
 > "Delay is not denial, and if delayed it is the act of patience & faith that will bring it to pass"
 > -- Amariah Abishai
+
+# Wisdom / Perspective / Personal Growth Wisdom of the Day (May 21 2026)
+> “The privilege of a lifetime is to become who you truly are.”
+> — Carl Jung
