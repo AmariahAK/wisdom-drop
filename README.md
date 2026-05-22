@@ -563,3 +563,7 @@
 # Wisdom / Perspective / Personal Growth Wisdom of the Day (May 21 2026)
 > “The privilege of a lifetime is to become who you truly are.”
 > — Carl Jung
+
+# Wisdom / Legacy / Courage Wisdom of the Day (May 22 2026)
+> "A society grows great when old men plant trees whose shade they know they shall never sit in."
+> -- Greek Proverb
