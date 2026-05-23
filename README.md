@@ -567,3 +567,7 @@
 # Wisdom / Legacy / Courage Wisdom of the Day (May 22 2026)
 > "A society grows great when old men plant trees whose shade they know they shall never sit in."
 > -- Greek Proverb
+
+# Change / Letting Go / Perception (May 23 2026)
+> "One cannot hope to fly, if their feet is on the ground."
+> -- Amariah Abishai
