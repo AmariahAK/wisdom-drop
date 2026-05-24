@@ -1,0 +1,17 @@
+{
+  "turnId": "plan:1",
+  "chatId": -1,
+  "originalTask": "ATLARIX Plan",
+  "chatType": "workspace",
+  "workspacePath": "/Users/amariah/Documents/Github/wisdom-drop",
+  "createdAt": 1779561360656,
+  "steps": [
+    {
+      "id": 1,
+      "description": "hey how are you?",
+      "status": "in_progress"
+    }
+  ],
+  "currentStepId": 1,
+  "finishReason": "in_progress"
+}

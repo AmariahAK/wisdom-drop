@@ -1,0 +1,17 @@
+{
+  "turnId": "1779517925970",
+  "chatId": -1,
+  "originalTask": "hey how are you?\nCould you tell me about this project & visualize it for me?",
+  "chatType": "workspace",
+  "workspacePath": "/Users/amariah/Documents/Github/wisdom-drop",
+  "createdAt": 1779517926382,
+  "steps": [
+    {
+      "id": 1,
+      "description": "hey how are you?\nCould you tell me about this project & visualize it for me?",
+      "status": "in_progress"
+    }
+  ],
+  "currentStepId": 1,
+  "finishReason": "in_progress"
+}

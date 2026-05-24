@@ -571,3 +571,7 @@
 # Change / Letting Go / Perception (May 23 2026)
 > "One cannot hope to fly, if their feet is on the ground."
 > -- Amariah Abishai
+
+# Resilience / Inner Strength Wisdom of the Day (May 24 2026)
+> “It is not the strength of the body that counts, but the strength of the spirit.” 
+> — J.R.R. Tolkien
