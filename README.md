@@ -575,3 +575,7 @@
 # Resilience / Inner Strength Wisdom of the Day (May 24 2026)
 > “It is not the strength of the body that counts, but the strength of the spirit.” 
 > — J.R.R. Tolkien
+
+# Stoicism / Mindset / Self-Mastery Wisdom of the Day (May 25 2026)
+> “The soul becomes dyed with the color of its thoughts.”
+> — Marcus Aurelius
