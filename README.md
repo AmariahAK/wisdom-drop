@@ -579,3 +579,7 @@
 # Stoicism / Mindset / Self-Mastery Wisdom of the Day (May 25 2026)
 > “The soul becomes dyed with the color of its thoughts.”
 > — Marcus Aurelius
+
+# Philosophy / Intellectual Humility Wisdom of the Day (May 26 2026)
+> “If you believe that you have achieved the end of all knowledge, then you are as foolish as one who never pursued it in the first place.”
+> -- Amariah Abishai
