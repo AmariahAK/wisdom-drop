@@ -583,3 +583,7 @@
 # Philosophy / Intellectual Humility Wisdom of the Day (May 26 2026)
 > “If you believe that you have achieved the end of all knowledge, then you are as foolish as one who never pursued it in the first place.”
 > -- Amariah Abishai
+
+# Wisdom / Curiosity / Lifelong Learning Wisdom of the Day (May 27 2026)
+> “The mind that opens to a new idea never returns to its original size.”
+> — Albert Einstein
