@@ -587,3 +587,7 @@
 # Wisdom / Curiosity / Lifelong Learning Wisdom of the Day (May 27 2026)
 > “The mind that opens to a new idea never returns to its original size.”
 > — Albert Einstein
+
+# Wisdom / Perspective / Growth Wisdom of the Day (May 28 2026)
+> “The bird fights its way out of the egg. The egg is the world. Whoever will be born must destroy a world.”
+> — Hermann Hesse
