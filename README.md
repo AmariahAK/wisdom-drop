@@ -591,3 +591,11 @@
 # Wisdom / Perspective / Growth Wisdom of the Day (May 28 2026)
 > “The bird fights its way out of the egg. The egg is the world. Whoever will be born must destroy a world.”
 > — Hermann Hesse
+
+# Wisdom / Learning / Intellectual Humility Wisdom of the Day (May 29 2026)
+> "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."
+> — Confucius
+
+# Action / Growth / New Beginnings Wisdom of the Day (May 30 2026)
+> “The best time to plant a tree was twenty years ago. The second best time is now.”
+> — Chinese Proverb
