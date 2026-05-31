@@ -599,3 +599,7 @@
 # Action / Growth / New Beginnings Wisdom of the Day (May 30 2026)
 > “The best time to plant a tree was twenty years ago. The second best time is now.”
 > — Chinese Proverb
+
+# Determination / Action / Persistence Wisdom of the Day (May 31 2026)
+> "The person who says it cannot be done should not interrupt the person doing it."
+> — Chinese Proverb
