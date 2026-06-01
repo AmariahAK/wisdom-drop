@@ -603,3 +603,7 @@
 # Determination / Action / Persistence Wisdom of the Day (May 31 2026)
 > "The person who says it cannot be done should not interrupt the person doing it."
 > — Chinese Proverb
+
+# Thankfullness / Success / Gratitude (June 1 2026)
+> "Be greatful, for to have fallen to the deepest of depths, means to have once soared in the greatest of heights, achieving it again is a decision only you can make"
+> -- Amariah Abishai
