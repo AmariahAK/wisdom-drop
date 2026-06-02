@@ -607,3 +607,7 @@
 # Thankfullness / Success / Gratitude (June 1 2026)
 > "Be greatful, for to have fallen to the deepest of depths, means to have once soared in the greatest of heights, achieving it again is a decision only you can make"
 > -- Amariah Abishai
+
+# Learning / Curiosity / Intellectual Growth Wisdom of the Day (June 2 2026)
+> "The person who learns the most in any room is the person who asks the best questions, not the one who gives the most answers."
+> — Neil deGrasse Tyson
