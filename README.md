@@ -611,3 +611,7 @@
 # Learning / Curiosity / Intellectual Growth Wisdom of the Day (June 2 2026)
 > "The person who learns the most in any room is the person who asks the best questions, not the one who gives the most answers."
 > — Neil deGrasse Tyson
+
+# Personal Growth • Self-Discovery • Resilience • Psychology Wisdom of the Day (June 3 2026)
+> "The tree that would grow to heaven must send its roots to hell."
+> — Carl Jung
