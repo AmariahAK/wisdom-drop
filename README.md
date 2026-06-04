@@ -615,3 +615,7 @@
 # Personal Growth • Self-Discovery • Resilience • Psychology Wisdom of the Day (June 3 2026)
 > "The tree that would grow to heaven must send its roots to hell."
 > — Carl Jung
+
+# Wisdom • Perspective • Emotional Intelligence Wisdom of the Day (June 4 2026)
+> "The art of being wise is knowing what to overlook."
+> — William James
