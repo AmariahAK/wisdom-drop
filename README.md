@@ -619,3 +619,7 @@
 # Wisdom • Perspective • Emotional Intelligence Wisdom of the Day (June 4 2026)
 > "The art of being wise is knowing what to overlook."
 > — William James
+
+# Resilience • Growth Through Adversity • Personal Development Wisdom of the Day (June 5 2026)
+> "The strongest oak of the forest is not the one that is protected from the storm and hidden from the sun. It is the one that stands in the open, where it is compelled to struggle for its existence against the winds and rains and the scorching sun."
+> — Napoleon Hill
