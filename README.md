@@ -623,3 +623,7 @@
 # Resilience • Growth Through Adversity • Personal Development Wisdom of the Day (June 5 2026)
 > "The strongest oak of the forest is not the one that is protected from the storm and hidden from the sun. It is the one that stands in the open, where it is compelled to struggle for its existence against the winds and rains and the scorching sun."
 > — Napoleon Hill
+
+# Stoicism • Resilience • Personal Growth • Adversity Wisdom of the Day (June 6 2026)
+> "A gem cannot be polished without friction, nor a man perfected without trials."
+> — Lucius Annaeus Seneca
