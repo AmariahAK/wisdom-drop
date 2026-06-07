@@ -627,3 +627,7 @@
 # Stoicism • Resilience • Personal Growth • Adversity Wisdom of the Day (June 6 2026)
 > "A gem cannot be polished without friction, nor a man perfected without trials."
 > — Lucius Annaeus Seneca
+
+# Acceptance • Resilience • Inner Peace Wisdom of the Day (June 7 2026)
+> "The best thing one can do when it's raining is to let it rain."
+> — Henry Wadsworth Longfellow
