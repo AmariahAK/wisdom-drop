@@ -631,3 +631,7 @@
 # Acceptance • Resilience • Inner Peace Wisdom of the Day (June 7 2026)
 > "The best thing one can do when it's raining is to let it rain."
 > — Henry Wadsworth Longfellow
+
+# Resilience • Adaptability • Wisdom Wisdom of the day (June 8 2026)
+> "The oak fought the wind and was broken, the willow bent when it must and survived."
+> — Robert Jordan
