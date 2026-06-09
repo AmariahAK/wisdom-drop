@@ -635,3 +635,7 @@
 # Resilience • Adaptability • Wisdom Wisdom of the day (June 8 2026)
 > "The oak fought the wind and was broken, the willow bent when it must and survived."
 > — Robert Jordan
+
+# Action / Discipline Wisdom of the Day (June 9 2026)
+> “Knowing is not enough; we must apply. Willing is not enough; we must do.”
+> --Johann Wolfgang von Goethe
