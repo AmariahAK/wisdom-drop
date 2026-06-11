@@ -639,3 +639,11 @@
 # Action / Discipline Wisdom of the Day (June 9 2026)
 > “Knowing is not enough; we must apply. Willing is not enough; we must do.”
 > --Johann Wolfgang von Goethe
+
+# Resilience / Self-Reliance Wisdom of the Day (June 10 2026)
+> “You may not control all the events that happen to you, but you can decide not to be reduced by them.”
+> — Maya Angelou
+
+# Focus / Mindfulness Wisdom of the Day (June 11 2026)
+> “Wherever you are, be all there.”
+> — Jim Elliot
