@@ -647,3 +647,7 @@
 # Focus / Mindfulness Wisdom of the Day (June 11 2026)
 > “Wherever you are, be all there.”
 > — Jim Elliot
+
+# Resilience / Self-Compassion Wisdom of the Day (June 12 2026)
+> "You did not wake up today to be less than you are. But you also do not need to be more than you are — just fully, honestly, bravely you."
+> — Mariame Kaba
