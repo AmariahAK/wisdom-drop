@@ -651,3 +651,7 @@
 # Resilience / Self-Compassion Wisdom of the Day (June 12 2026)
 > "You did not wake up today to be less than you are. But you also do not need to be more than you are — just fully, honestly, bravely you."
 > — Mariame Kaba
+
+# Wisdom • Intellectual Humility • Lifelong Learning Wisdom of the Day (June 13 2026)
+> "The fool doth think he is wise, but the wise man knows himself to be a fool."
+> — William Shakespeare
