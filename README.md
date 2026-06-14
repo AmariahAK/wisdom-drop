@@ -655,3 +655,7 @@
 # Wisdom • Intellectual Humility • Lifelong Learning Wisdom of the Day (June 13 2026)
 > "The fool doth think he is wise, but the wise man knows himself to be a fool."
 > — William Shakespeare
+
+# Wisdom • Resilience • Honor Wisdom of the Day (June 14 2026)
+> "It is possible to commit no mistakes and still lose. That is not weakness; that is life."
+> — Jean-Luc Picard
