@@ -659,3 +659,7 @@
 # Wisdom • Resilience • Honor Wisdom of the Day (June 14 2026)
 > "It is possible to commit no mistakes and still lose. That is not weakness; that is life."
 > — Jean-Luc Picard
+
+# Patience / Long-Term Vision / Daily Progress Wisdom of the Day (June 15 2026)
+> "Don't judge each day by the harvest you reap but by the seeds that you plant."
+> -- Robert Louis Stevenson
