@@ -663,3 +663,7 @@
 # Patience / Long-Term Vision / Daily Progress Wisdom of the Day (June 15 2026)
 > "Don't judge each day by the harvest you reap but by the seeds that you plant."
 > -- Robert Louis Stevenson
+
+# Resilience / Perseverance / Growth Mindset Wisdom of the Day (June 16 2026)
+> "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+> --Samuel Beckett (from his 1983 novella Worstward Ho)
