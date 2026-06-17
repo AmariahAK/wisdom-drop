@@ -667,3 +667,7 @@
 # Resilience / Perseverance / Growth Mindset Wisdom of the Day (June 16 2026)
 > "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
 > --Samuel Beckett (from his 1983 novella Worstward Ho)
+
+# Future Readiness / Action / Vision Wisdom of the Day (June 17 2026)
+> "As for the future, your duty is not to foresee it, but to enable it."
+> -- Antoine de Saint-Exupéry (French writer, poet, and aviation pioneer)
