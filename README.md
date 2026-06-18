@@ -671,3 +671,7 @@
 # Future Readiness / Action / Vision Wisdom of the Day (June 17 2026)
 > "As for the future, your duty is not to foresee it, but to enable it."
 > -- Antoine de Saint-Exupéry (French writer, poet, and aviation pioneer)
+
+# Perseverance / Resilience / Determination Wisdom of the Day (June 18 2026)
+> "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something."
+> -- Randy Pausch (from his famous "The Last Lecture")
