@@ -679,3 +679,7 @@
 # Resilience / Personal Transformation / Endurance Wisdom of the Day (June 19 2026)
 > "And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about."
 > --Haruki Murakami (from his novel Kafka on the Shore)
+
+# Patience / Navigating Uncertainty / Trusting the Process Wisdom of the Day (June 20 2026)
+> "Be patient toward all that is unsolved in your heart and try to love the questions themselves... Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer."
+> -- Rainer Maria Rilke (from his book Letters to a Young Poet)
