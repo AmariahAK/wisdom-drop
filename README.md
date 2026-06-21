@@ -683,3 +683,7 @@
 # Patience / Navigating Uncertainty / Trusting the Process Wisdom of the Day (June 20 2026)
 > "Be patient toward all that is unsolved in your heart and try to love the questions themselves... Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer."
 > -- Rainer Maria Rilke (from his book Letters to a Young Poet)
+
+# Patience / Resilience / Perspective Wisdom of the Day (June 21 2026)
+> "The two most powerful warriors are patience and time."
+> — Leo Tolstoy
