@@ -687,3 +687,7 @@
 # Patience / Resilience / Perspective Wisdom of the Day (June 21 2026)
 > "The two most powerful warriors are patience and time."
 > — Leo Tolstoy
+
+# Courage / Overcoming Doubt / Action Wisdom of the Day (June 22 2026)
+> "Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt."
+> -- William Shakespeare (from his play Measure for Measure)
