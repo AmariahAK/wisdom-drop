@@ -695,3 +695,7 @@
 # Resilience / Healing / Inner Strength Wisdom of the Day (June 23 2026)
 > "The world breaks everyone, and afterward, some are strong at the broken places."
 > -- Ernest Hemingway (from his novel A Farewell to Arms)
+
+# Personal Growth / Self-Determination / Destiny Wisdom of the Day (June 24 2026)
+> "The only person you are destined to become is the person you decide to be."
+> — Ralph Waldo Emerson
