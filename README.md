@@ -699,3 +699,7 @@
 # Personal Growth / Self-Determination / Destiny Wisdom of the Day (June 24 2026)
 > "The only person you are destined to become is the person you decide to be."
 > — Ralph Waldo Emerson
+
+# Adaptability / Growth Mindset / Wisdom Wisdom of the Day (June 25 2026)
+> "The measure of intelligence is the ability to change."
+> — Albert Einstein
