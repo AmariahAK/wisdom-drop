@@ -711,3 +711,7 @@
 # Perspective / Human Connection / Inner Wisdom Wisdom of the Day (June 27 2026)
 > "The most beautiful things in the world cannot be seen or even touched — they must be felt with the heart."
 > -- Helen Keller
+
+# Curiosity / Lifelong Learning / Perspective Wisdom of the Day (June 28 2026)
+> "The cure for boredom is curiosity. There is no cure for curiosity."
+> — Dorothy Parker (American poet, writer, critic, and satirist, known for her razor-sharp wit)
