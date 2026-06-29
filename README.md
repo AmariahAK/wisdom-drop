@@ -715,3 +715,7 @@
 # Curiosity / Lifelong Learning / Perspective Wisdom of the Day (June 28 2026)
 > "The cure for boredom is curiosity. There is no cure for curiosity."
 > — Dorothy Parker (American poet, writer, critic, and satirist, known for her razor-sharp wit)
+
+# Inner Growth / Self-Discovery / Introspection Wisdom of the Day (June 29, 2026)
+> "The only journey is the one within."
+> — Rainer Maria Rilke
