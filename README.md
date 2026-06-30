@@ -719,3 +719,7 @@
 # Inner Growth / Self-Discovery / Introspection Wisdom of the Day (June 29, 2026)
 > "The only journey is the one within."
 > — Rainer Maria Rilke
+
+# Personal Growth / Surrender / Trusting the Journey Wisdom of the Day (June 30, 2026)
+> "We must be willing to let go of the life we've planned, so as to have the life that is waiting for us."
+> — Joseph Campbell
