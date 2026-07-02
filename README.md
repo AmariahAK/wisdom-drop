@@ -727,3 +727,7 @@
 # Personal Freedom / Self-Expression / Overcoming Fear Wisdom of the Day (July 1 2026)
 > "The greatest prison people live in is the fear of what other people think."
 > — David Icke
+
+# Authenticity / Self-Trust / Courage Wisdom of the Day (July 2 2026)
+> "Care about what other people think and you will always be their prisoner."
+> — Lao Tzu
