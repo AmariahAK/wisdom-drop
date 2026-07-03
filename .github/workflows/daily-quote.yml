@@ -1,0 +1,101 @@
+name: Daily Quote Release
+
+on:
+  schedule:
+    # 2pm UTC = 10am ET / 7am PT
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+    inputs:
+      date_override:
+        description: "Override date (YYYY-MM-DD) — leave empty for today"
+        required: false
+        default: ""
+
+jobs:
+  publish-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve date
+        id: date
+        run: |
+          if [ -n "${{ github.event.inputs.date_override }}" ]; then
+            RESOLVED="${{ github.event.inputs.date_override }}"
+          else
+            RESOLVED="$(date -u +'%Y-%m-%d')"
+          fi
+          echo "date=$RESOLVED" >> "$GITHUB_OUTPUT"
+          echo "Resolved date: $RESOLVED"
+
+      - name: Extract today's quote
+        id: quote
+        run: |
+          DATE="${{ steps.date.outputs.date }}"
+          ENTRY=$(jq --arg date "$DATE" '.[] | select(.date == $date)' upcoming-quotes.json)
+
+          if [ -z "$ENTRY" ]; then
+            echo "No quote scheduled for $DATE — exiting."
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "found=true" >> "$GITHUB_OUTPUT"
+
+          TAGS=$(echo "$ENTRY" | jq -r '.tags')
+          QUOTE=$(echo "$ENTRY" | jq -r '.quote')
+          AUTHOR=$(echo "$ENTRY" | jq -r '.author')
+
+          echo "tags=$TAGS" >> "$GITHUB_OUTPUT"
+          echo "quote=$QUOTE" >> "$GITHUB_OUTPUT"
+          echo "author=$AUTHOR" >> "$GITHUB_OUTPUT"
+
+          echo "Quote found: $AUTHOR — $QUOTE"
+
+      - name: Append to README.md
+        if: steps.quote.outputs.found == 'true'
+        run: |
+          TAGS="${{ steps.quote.outputs.tags }}"
+          QUOTE="${{ steps.quote.outputs.quote }}"
+          AUTHOR="${{ steps.quote.outputs.author }}"
+          DATE="${{ steps.date.outputs.date }}"
+
+          # Convert 2026-07-04 → July 4 2026
+          MONTH=$(date -d "$DATE" +'%B')
+          DAY=$(date -d "$DATE" +'%-d')
+          YEAR=$(date -d "$DATE" +'%Y')
+          HEADLINE="# ${TAGS} Wisdom of the Day (${MONTH} ${DAY} ${YEAR})"
+
+          {
+            echo ""
+            echo "$HEADLINE"
+            echo "> \"${QUOTE}\""
+            echo "> — ${AUTHOR}"
+          } >> README.md
+
+          echo "Appended to README.md: $HEADLINE"
+
+      - name: Remove published entry from JSON
+        if: steps.quote.outputs.found == 'true'
+        run: |
+          DATE="${{ steps.date.outputs.date }}"
+          jq --arg date "$DATE" 'map(select(.date != $date))' upcoming-quotes.json > tmp.json
+          mv tmp.json upcoming-quotes.json
+          echo "Removed $DATE from upcoming-quotes.json ($(jq length upcoming-quotes.json) remaining)"
+
+      - name: Commit and push
+        if: steps.quote.outputs.found == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md upcoming-quotes.json
+          git commit -m "Daily quote: ${{ steps.date.outputs.date }} — ${{ steps.quote.outputs.author }}
+
+          Co-authored-by: DeepSeek V4 Pro <agent@atlarix.dev>"
+          git push
