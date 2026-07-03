@@ -731,3 +731,7 @@
 # Authenticity / Self-Trust / Courage Wisdom of the Day (July 2 2026)
 > "Care about what other people think and you will always be their prisoner."
 > — Lao Tzu
+
+# Mindset / Self-Limiting Beliefs / Personal Growth Wisdom of the Day (July 3 2026)
+> "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."
+> — Jordan Belfort
