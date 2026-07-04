@@ -2,8 +2,8 @@ name: Daily Quote Release
 
 on:
   schedule:
-    # 2pm UTC = 10am ET / 7am PT
-    - cron: "0 14 * * *"
+    # 6am UTC = 9am Nairobi (EAT)
+    - cron: "0 6 * * *"
   workflow_dispatch:
     inputs:
       date_override:
