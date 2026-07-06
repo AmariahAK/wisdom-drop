@@ -743,3 +743,7 @@
 # Rebellion / Individuality / Courage Wisdom of the Day (July 5 2026)
 > "Whoso would be a man must be a nonconformist."
 > — Ralph Waldo Emerson
+
+# Mastery / Discipline / Kaizen Wisdom of the Day (July 6 2026)
+> "Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today. This is never-ending."
+> — Yamamoto Tsunetomo
