@@ -747,3 +747,7 @@
 # Mastery / Discipline / Kaizen Wisdom of the Day (July 6 2026)
 > "Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today. This is never-ending."
 > — Yamamoto Tsunetomo
+
+# Mindfulness / Personal Growth / Choice Wisdom of the Day (July 7 2026)
+> "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
+> — Viktor Frankl
