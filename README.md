@@ -751,3 +751,7 @@
 # Mindfulness / Personal Growth / Choice Wisdom of the Day (July 7 2026)
 > "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
 > — Viktor Frankl
+
+# Resilience / Inner Strength / Choice Wisdom of the Day (July 8 2026)
+> "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances, to choose one's own way."
+> — Viktor Frankl
