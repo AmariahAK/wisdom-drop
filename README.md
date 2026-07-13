@@ -771,3 +771,7 @@
 # Inner Peace / Mindfulness / Self-Discovery Wisdom of the Day (July 12 2026)
 > "Nowhere can man find a quieter or more untroubled retreat than in his own soul."
 > — Marcus Aurelius
+
+# Perseverance / Resilience / Hope Wisdom of the Day (July 13 2026)
+> "Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end."
+> — Nelson Mandela
