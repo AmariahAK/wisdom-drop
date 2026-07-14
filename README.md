@@ -775,3 +775,7 @@
 # Perseverance / Resilience / Hope Wisdom of the Day (July 13 2026)
 > "Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end."
 > — Nelson Mandela
+
+# Freedom / Responsibility / Existentialism Wisdom of the Day (July 14 2026)
+> "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."
+> — Jean-Paul Sartre
