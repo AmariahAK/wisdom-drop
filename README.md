@@ -779,3 +779,7 @@
 # Freedom / Responsibility / Existentialism Wisdom of the Day (July 14 2026)
 > "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."
 > — Jean-Paul Sartre
+
+# Persistence / Grit / Work Ethic Wisdom of the Day (July 15 2026)
+> "Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not: the world is full of educated derelicts. Persistence and determination alone are omnipotent."
+> — Calvin Coolidge
