@@ -787,3 +787,7 @@
 # Self-Discovery / Purpose / Personal Growth Wisdom of the Day (July 16 2026)
 > "To dare is to lose one's footing momentarily. Not to dare is to lose oneself."
 > — Søren Kierkegaard
+
+# Change / Becoming / Growth Wisdom of the Day (July 17 2026)
+> "Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death."
+> — Anaïs Nin
