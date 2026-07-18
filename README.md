@@ -791,3 +791,7 @@
 # Change / Becoming / Growth Wisdom of the Day (July 17 2026)
 > "Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death."
 > — Anaïs Nin
+
+# Strategy / Wisdom / True Victory Wisdom of the Day (July 18 2026)
+> "To subdue the enemy without fighting is the acme of skill."
+> — Sun Tzu
