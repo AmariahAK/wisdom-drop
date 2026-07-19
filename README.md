@@ -795,3 +795,7 @@
 # Strategy / Wisdom / True Victory Wisdom of the Day (July 18 2026)
 > "To subdue the enemy without fighting is the acme of skill."
 > — Sun Tzu
+
+# Creativity / Momentum / Discipline Wisdom of the Day (July 19 2026)
+> "Inertia is the death of creativity. You have to stay in the groove."
+> — Austin Kleon
