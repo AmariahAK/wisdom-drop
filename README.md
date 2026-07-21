@@ -803,3 +803,7 @@
 # Growth Through Struggle / Character / Resilience Wisdom of the Day (July 20 2026)
 > "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."
 > — Helen Keller
+
+# Lifelong Learning / Wisdom / The Examined Life Wisdom of the Day (July 21 2026)
+> "As long as you live, keep learning how to live."
+> — Seneca
