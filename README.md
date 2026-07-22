@@ -807,3 +807,7 @@
 # Lifelong Learning / Wisdom / The Examined Life Wisdom of the Day (July 21 2026)
 > "As long as you live, keep learning how to live."
 > — Seneca
+
+# Personal Liberation / Inner Freedom / Identity Wisdom of the Day (July 22 2026)
+> "Freeing yourself was one thing, claiming ownership of that freed self was another."
+> — Toni Morrison
