@@ -815,3 +815,7 @@
 # Execution / Results / Focus Wisdom of the Day (July 23 2026)
 > "Never mistake activity for achievement."
 > — John Wooden
+
+# Change / Impermanence / Philosophy Wisdom of the Day (July 24 2026)
+> "Everything changes and nothing stands still."
+> — Heraclitus
