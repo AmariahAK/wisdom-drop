@@ -819,3 +819,7 @@
 # Change / Impermanence / Philosophy Wisdom of the Day (July 24 2026)
 > "Everything changes and nothing stands still."
 > — Heraclitus
+
+# Perseverance / Courage / Resilience Wisdom of the Day (July 25 2026)
+> "If you're going through hell, keep going."
+> — Winston Churchill
