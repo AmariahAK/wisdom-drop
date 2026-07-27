@@ -827,3 +827,7 @@
 # Personal Growth / Self-Discovery / Letting Go Wisdom of the Day (July 26 2026)
 > "When I let go of what I am, I become what I might be."
 > — Lao Tzu
+
+# Habits / Identity / Small Actions Wisdom of the Day (July 27 2026)
+> "Every action you take is a vote for the type of person you wish to become."
+> — James Clear
