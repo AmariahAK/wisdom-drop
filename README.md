@@ -831,3 +831,7 @@
 # Habits / Identity / Small Actions Wisdom of the Day (July 27 2026)
 > "Every action you take is a vote for the type of person you wish to become."
 > — James Clear
+
+# Courage / Transformation / Truth Wisdom of the Day (July 28 2026)
+> "Fear is a natural reaction to moving closer to the truth."
+> — Pema Chödrön
