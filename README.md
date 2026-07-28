@@ -1,4 +1,133 @@
-# Wisdom-Drop
+<div align="center">
+
+# 📜 Wisdom-Drop
+
+**A curated anthology of daily wisdom — resilience, growth, and the examined life**
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-209-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-33-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
+</p>
+
+> **Wisdom-Drop** is an automated daily-quote anthology. Each day at 6am UTC, a GitHub Action publishes a hand-curated quote — drawn from philosophy, literature, stoicism, and original voice — to this living README. It is a quiet, steady practice: one insight, one day at a time.
+
+---
+
+### ✨ Today's Quote — July 28, 2026
+
+<table>
+<tr><td>
+
+> "Fear is a natural reaction to moving closer to the truth."
+> — Pema Chödrön
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Courage / Transformation / Truth</sub></p>
+
+---
+
+<details>
+<summary>📑 <strong>Table of Contents</strong> (click to expand)</summary>
+
+- [Today's Quote](#-todays-quote--july-28-2026)
+- [Project Overview](#-project-overview)
+- [How It Works](#️-how-it-works)
+- [Quote Categories](#-quote-categories)
+- [2026 Archive — Q1 (Jan–Mar)](#q1-2026-january--march)
+- [2026 Archive — Q2 (Apr–Jun)](#q2-2026-april--june)
+- [2026 Archive — Q3 (Jul–Sep)](#q3-2026-july--september)
+- [2025 Archive](#-2025-archive)
+- [Upcoming Quotes](#-upcoming-quotes)
+- [Contributing](#-contributing)
+
+</details>
+
+---
+
+## 📖 Project Overview
+
+**Wisdom-Drop** is a daily practice of curation and reflection. Each day, a single quote is published from a growing queue — spanning Stoic philosophy, existential thought, samurai wisdom, mindfulness, faith, and the original voice of **Amariah Abishai**.
+
+The project is both a personal discipline and a public offering: a slow-growing garden of ideas meant to ground, challenge, and inspire. It runs entirely on GitHub Actions with zero infrastructure — a cron job, a JSON queue, and this README.
+
+---
+
+## ⚙️ How It Works
+
+1. **Quotes are queued** in [`upcoming-quotes.json`](upcoming-quotes.json) with a date, tags, author, and quote body.
+2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
+3. **The quote is appended** to this README, the entry is removed from the queue, and the changes are committed automatically.
+
+> 📅 209 quotes published so far. 33 more queued and counting.
+
+---
+
+## 🗺️ Quote Categories
+
+Themes that emerge from the collection across **both years** (2025 & 2026):
+
+```
+📜 Wisdom-Drop Categories
+│
+├── 🧠 Mindfulness & Inner Peace
+│   ├── Presence / Stillness
+│   ├── Patience / Acceptance
+│   └── Gratitude / Contentment
+│
+├── ⚔️ Courage & Resilience
+│   ├── Perseverance / Grit
+│   ├── Vulnerability / Authenticity
+│   └── Growth Through Adversity
+│
+├── 🏛️ Stoicism & Ancient Wisdom
+│   ├── Discipline / Self-Mastery
+│   ├── Perspective / Mortality
+│   └── Samurai / Bushidō / Strategy
+│
+├── 🌱 Personal Growth
+│   ├── Habits / Identity
+│   ├── Self-Discovery / Purpose
+│   └── New Beginnings / Change
+│
+├── 🕊️ Faith & Trust
+│   ├── Spiritual Encouragement
+│   ├── Trust-the-Process
+│   └── Surrender / Guidance
+│
+├── 🎯 Execution & Discipline
+│   ├── Consistency / Routine
+│   ├── Focus / Productivity
+│   └── Kaizen / Continuous Improvement
+│
+├── 💡 Wisdom & Philosophy
+│   ├── Legacy / Perspective
+│   ├── Intellectual Humility
+│   └── Human Nature / Character
+│
+├── 🌿 Nature & Balance
+│   └── Adaptability / Flow
+│
+└── 🎭 Voice of Origin
+    └── Amariah Abishai (original wisdom)
+```
+
+---
+
+# 📚 The Archive
+
+Below are all published quotes, organized by quarter. New quotes are added daily — the most recent appears first in Q3.
+
+### Q1 2026 (January – March)
+
+91 quotes spanning January 1 through March 31, 2026
+
+---
 
 # Motivation / New Beginnings Wisdom of the Day (January 1 2026)
 > "Cheers to a new year and another chance for us to get it right."
@@ -359,6 +488,14 @@
 # Motivation / Self-Belief / Resilience Wisdom of the Day (March 31 2026)
 > "You have to believe in yourself when no one else does."
 > — Serena Williams
+
+---
+
+### Q2 2026 (April – June)
+
+91 quotes spanning April 1 through June 30, 2026
+
+---
 
 # Inspirational / Spiritual Growth Wisdom of the Day (April 1 2026)
 > "A rebirth out of spiritual adversity causes us to become new creatures."
@@ -723,6 +860,14 @@
 # Personal Growth / Surrender / Trusting the Journey Wisdom of the Day (June 30 2026)
 > "We must be willing to let go of the life we've planned, so as to have the life that is waiting for us."
 > — Joseph Campbell
+
+---
+
+### Q3 2026 (July – September)
+
+28 quotes so far and growing daily — spanning July 1 through September 30, 2026
+
+---
 
 # Personal Freedom / Self-Expression / Overcoming Fear Wisdom of the Day (July 1 2026)
 > "The greatest prison people live in is the fear of what other people think."
