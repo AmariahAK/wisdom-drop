@@ -980,3 +980,7 @@ Below are all published quotes, organized by quarter. New quotes are added daily
 # Courage / Transformation / Truth Wisdom of the Day (July 28 2026)
 > "Fear is a natural reaction to moving closer to the truth."
 > — Pema Chödrön
+
+# Inner Battle / Self-Mastery / Humility Wisdom of the Day (July 29 2026)
+> "I do not know the way to defeat others, but the way to defeat myself."
+> — Yagyū Munenori
