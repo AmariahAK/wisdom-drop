@@ -984,3 +984,7 @@ Below are all published quotes, organized by quarter. New quotes are added daily
 # Inner Battle / Self-Mastery / Humility Wisdom of the Day (July 29 2026)
 > "I do not know the way to defeat others, but the way to defeat myself."
 > — Yagyū Munenori
+
+# Courage / Vulnerability / Inner Strength Wisdom of the Day (July 30 2026)
+> "Vulnerability is not weakness; it's our greatest measure of courage."
+> — Brené Brown
