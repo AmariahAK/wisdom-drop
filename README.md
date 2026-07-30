@@ -17,6 +17,19 @@
 
 ---
 
+### * Today's Quote — July 30, 2026
+
+<table>
+<tr><td>
+
+> "Vulnerability is not weakness; it's our greatest measure of courage."
+> — Brené Brown
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Courage / Vulnerability / Inner Strength</sub></p>
+
 <!-- today-quote -->
 
 ---
