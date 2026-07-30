@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📜 Wisdom-Drop
+# [~] Wisdom-Drop
 
 **A curated anthology of daily wisdom — resilience, growth, and the examined life**
 
@@ -8,979 +8,128 @@
 
 <p align="center">
   <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-209-2d4b3e?style=flat" alt="Quotes Published"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-33-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-210-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-42-5a7d6e?style=flat" alt="Quotes Queued"></a>
   <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
 </p>
 
-> **Wisdom-Drop** is an automated daily-quote anthology. Each day at 6am UTC, a GitHub Action publishes a hand-curated quote — drawn from philosophy, literature, stoicism, and original voice — to this living README. It is a quiet, steady practice: one insight, one day at a time.
+> **Wisdom-Drop** is an automated daily-quote anthology. Each day at 6am UTC, a GitHub Action publishes a hand-curated quote — drawn from philosophy, literature, stoicism, and original voice — to the archive. It is a quiet, steady practice: one insight, one day at a time.
 
 ---
 
-### ✨ Today's Quote — July 28, 2026
-
-<table>
-<tr><td>
-
-> "Fear is a natural reaction to moving closer to the truth."
-> — Pema Chödrön
-
-</td></tr>
-</table>
-
-<p align="right"><sub>Tags: Courage / Transformation / Truth</sub></p>
+<!-- today-quote -->
 
 ---
 
 <details>
-<summary>📑 <strong>Table of Contents</strong> (click to expand)</summary>
+<summary>[+] <strong>Table of Contents</strong> (click to expand)</summary>
 
-- [Today's Quote](#-todays-quote--july-28-2026)
-- [Project Overview](#-project-overview)
-- [How It Works](#️-how-it-works)
-- [Quote Categories](#-quote-categories)
-- [2026 Archive — Q1 (Jan–Mar)](#q1-2026-january--march)
-- [2026 Archive — Q2 (Apr–Jun)](#q2-2026-april--june)
-- [2026 Archive — Q3 (Jul–Sep)](#q3-2026-july--september)
-- [2025 Archive](#-2025-archive)
-- [Upcoming Quotes](#-upcoming-quotes)
-- [Contributing](#-contributing)
+- [Today's Quote](#-todays-quote)
+- [Project Overview](#-project-overview-)
+- [How It Works](#-how-it-works-)
+- [Quote Categories](#-quote-categories-)
+- [The Archives](#-the-archives-)
+- [Upcoming Quotes](#-upcoming-quotes-)
+- [Contributing](#-contributing-)
 
 </details>
 
 ---
 
-## 📖 Project Overview
+## [i] Project Overview
 
 **Wisdom-Drop** is a daily practice of curation and reflection. Each day, a single quote is published from a growing queue — spanning Stoic philosophy, existential thought, samurai wisdom, mindfulness, faith, and the original voice of **Amariah Abishai**.
 
-The project is both a personal discipline and a public offering: a slow-growing garden of ideas meant to ground, challenge, and inspire. It runs entirely on GitHub Actions with zero infrastructure — a cron job, a JSON queue, and this README.
+The project is both a personal discipline and a public offering: a slow-growing garden of ideas meant to ground, challenge, and inspire. It runs entirely on GitHub Actions with zero infrastructure — a cron job, a JSON queue, and markdown files.
 
 ---
 
-## ⚙️ How It Works
+## [*] How It Works
 
 1. **Quotes are queued** in [`upcoming-quotes.json`](upcoming-quotes.json) with a date, tags, author, and quote body.
 2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
-3. **The quote is appended** to this README, the entry is removed from the queue, and the changes are committed automatically.
+3. **The quote is appended** to the yearly archive ([`2026/2026.md`](2026/2026.md)), today's quote on this page is updated, and the entry is removed from the queue — all committed automatically.
 
-> 📅 209 quotes published so far. 33 more queued and counting.
+> 210 quotes published so far. 42 more queued and counting.
 
 ---
 
-## 🗺️ Quote Categories
+## [>] Quote Categories
 
 Themes that emerge from the collection across **both years** (2025 & 2026):
 
 ```
-📜 Wisdom-Drop Categories
-│
-├── 🧠 Mindfulness & Inner Peace
-│   ├── Presence / Stillness
-│   ├── Patience / Acceptance
-│   └── Gratitude / Contentment
-│
-├── ⚔️ Courage & Resilience
-│   ├── Perseverance / Grit
-│   ├── Vulnerability / Authenticity
-│   └── Growth Through Adversity
-│
-├── 🏛️ Stoicism & Ancient Wisdom
-│   ├── Discipline / Self-Mastery
-│   ├── Perspective / Mortality
-│   └── Samurai / Bushidō / Strategy
-│
-├── 🌱 Personal Growth
-│   ├── Habits / Identity
-│   ├── Self-Discovery / Purpose
-│   └── New Beginnings / Change
-│
-├── 🕊️ Faith & Trust
-│   ├── Spiritual Encouragement
-│   ├── Trust-the-Process
-│   └── Surrender / Guidance
-│
-├── 🎯 Execution & Discipline
-│   ├── Consistency / Routine
-│   ├── Focus / Productivity
-│   └── Kaizen / Continuous Improvement
-│
-├── 💡 Wisdom & Philosophy
-│   ├── Legacy / Perspective
-│   ├── Intellectual Humility
-│   └── Human Nature / Character
-│
-├── 🌿 Nature & Balance
-│   └── Adaptability / Flow
-│
-└── 🎭 Voice of Origin
-    └── Amariah Abishai (original wisdom)
+Wisdom-Drop Categories
+|
++-- Mindfulness & Inner Peace
+:   +-- Presence / Stillness
+:   +-- Patience / Acceptance
+:   +-- Gratitude / Contentment
+|
++-- Courage & Resilience
+:   +-- Perseverance / Grit
+:   +-- Vulnerability / Authenticity
+:   +-- Growth Through Adversity
+|
++-- Stoicism & Ancient Wisdom
+:   +-- Discipline / Self-Mastery
+:   +-- Perspective / Mortality
+:   +-- Samurai / Bushido / Strategy
+|
++-- Personal Growth
+:   +-- Habits / Identity
+:   +-- Self-Discovery / Purpose
+:   +-- New Beginnings / Change
+|
++-- Faith & Trust
+:   +-- Spiritual Encouragement
+:   +-- Trust-the-Process
+:   +-- Surrender / Guidance
+|
++-- Execution & Discipline
+:   +-- Consistency / Routine
+:   +-- Focus / Productivity
+:   +-- Kaizen / Continuous Improvement
+|
++-- Wisdom & Philosophy
+:   +-- Legacy / Perspective
+:   +-- Intellectual Humility
+:   +-- Human Nature / Character
+|
++-- Nature & Balance
+:   +-- Adaptability / Flow
+|
++-- Voice of Origin
+    +-- Amariah Abishai (original wisdom)
 ```
 
 ---
 
-# 📚 The Archive
+## [=] The Archives
 
-Below are all published quotes, organized by quarter. New quotes are added daily — the most recent appears first in Q3.
+Published quotes are organized by year and quarter.
 
-### Q1 2026 (January – March)
+| Year | File | Quotes | Era |
+|------|------|--------|-----|
+| **2026** (current) | [`2026/2026.md`](2026/2026.md) | 210+ and counting | Structured, philosophical voice — Stoicism, existentialism, Eastern wisdom |
+| **2025** (inaugural) | [`2025/2025.md`](2025/2025.md) | 156 | Informal experimentation — developer wisdom, pop culture, faith, early format |
 
-91 quotes spanning January 1 through March 31, 2026
+The 2026 archive grows daily — each new quote appears at the bottom of Q3 and also updates the today's-quote section at the top of this page.
 
 ---
 
-# Motivation / New Beginnings Wisdom of the Day (January 1 2026)
-> "Cheers to a new year and another chance for us to get it right."
-> — Oprah Winfrey
+## [~] Upcoming Quotes
 
-# Motivation / New Beginnings / Goal-Setting Wisdom of the Day (January 2 2026)
-> "The new year stands before us, like a chapter in a book, waiting to be written. We can help write that story by setting goals."
-> — Melody Beattie
-
-# Motivation / New Beginnings / Mindfulness Wisdom of the Day (January 3 2026)
-> "Every moment is a fresh beginning."
-> — T.S. Eliot
-
-# Motivation / New Beginnings / Personal Growth Wisdom of the Day (January 4 2026)
-> "The secret of change is to focus all of your energy not on fighting the old, but on building the new."
-> — Socrates
-
-# Motivation / Personal Growth / Resilience Wisdom of the Day (January 5 2026)
-> "I am not a product of my circumstances. I am a product of my decisions."
-> — Stephen Covey
-
-# Motivation / Personal Growth / New Beginnings Wisdom of the Day (January 6 2026)
-> "Your life does not get better by chance, it gets better by change."
-> — Jim Rohn
-
-# Personal Growth / Discipline Wisdom of the Day (January 7 2026)
-> "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
-> — Will Durant (often attributed to Aristotle)
-
-# Motivation / Personal Growth / Discipline Wisdom of the Day (January 8 2026)
-> "Discipline is the bridge between goals and accomplishment."
-> — Jim Rohn
-
-# Motivation / Personal Growth / Discipline / Peace Wisdom of the Day (January 9 2026)
-> "A true warrior needs no sword."
-> — Thors (Vinland Saga)
-
-# Passion / Work / Success / Inspiration Wisdom of the Day (January 10 2026)
-> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
-> — Steve Jobs
-
-# Friendship / Inspiration / Perspective / New Year Reflection Wisdom of the Day (January 11 2026)
-> "Remember, no man is a failure who has friends."
-> — Clarence the angel, from It's a Wonderful Life (often quoted in inspirational contexts)
-
-# Growth / Leadership / Individuality Wisdom of the Day (January 12 2026)
-> "Do not go where the path may lead, go instead where there is no path and leave a trail."
-> — Ralph Waldo Emerson
-
-# Discipline / Consistency Wisdom of the Day (January 13 2026)
-> "Small steps every day beat one big step once."
-> — Unknown
-
-# Discipline / Consistency / Builder Mindset Wisdom of the Day (January 14 2026)
-> "The work you do while nobody is watching is what creates the success everyone applauds later."
-> — Unknown
-
-# Faith / Spiritual Encouragement Wisdom of the Day (January 15 2026)
-> "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God."
-> — Paul the Apostle
-
-# Clarity / Focus / Long-term Growth Wisdom of the Day (January 16 2026)
-> "Your direction is more important than your speed."
-> — Unknown
-
-# Discipline / Execution / Work Ethic Wisdom of the Day (January 17 2026)
-> "Well done is better than well said."
-> — Benjamin Franklin
-
-# Samurai Wisdom / Awareness / Mastery Wisdom of the Day (January 18 2026)
-> "Perceive that which cannot be seen with the eye."
-> — Miyamoto Musashi
-
-# Discipline / Inner Strength / Resilience Wisdom of the Day (January 19 2026)
-> "Do not pray for an easy life; pray for the strength to endure a difficult one."
-> — Bruce Lee
-
-# Self-discipline / Inner Strength Wisdom of the Day (January 20 2026)
-> "He who conquers himself is the mightiest warrior."
-> — Confucius
-
-# Patience / Consistency Wisdom of the Day (January 21 2026)
-> "The man who moves a mountain begins by carrying away small stones."
-> — Confucius
-
-# Inner Conflict / Courage / Self-Mastery Wisdom of the Day (January 22 2026)
-> "To live is to war with trolls in heart and soul."
-> — Henrik Ibsen
-
-# Motivation / Action / Growth Wisdom of the Day (January 23 2026)
-> "Do not wait for the perfect moment. Take the moment and make it perfect."
-> — Zoey Sayward
-
-# Faith / Progress / Trust-the-Process Wisdom of the Day (January 24 2026)
-> "You don't need to see the whole staircase, just take the first step."
-> — Martin Luther King Jr.
-
-# Action / Discipline Wisdom of the Day (January 25 2026)
-> "The future depends on what you do today."
-> — Mahatma Gandhi
-
-# Motivation / Personal Growth Wisdom of the Day (January 26 2026)
-> "Do not be afraid to start over. This time, you're not starting from scratch—you're starting from experience."
-> — Unknown
-
-# Discipline / Consistency Wisdom of the Day (January 27 2026)
-> "Small disciplines repeated with consistency every day lead to great achievements gained slowly over time."
-> — John C. Maxwell
-
-# Faith / Endurance Wisdom of the Day (January 28 2026)
-> "To choose what is difficult all one's days, as if it were easy, that is faith."
-> — W. H. Auden
-
-# Faith / Discipline Wisdom of the Day (January 29 2026)
-> "Be faithful in small things, because it is in them that your strength lies."
-> — Mother Teresa
-
-# Clarity / Direction Wisdom of the Day (January 30 2026)
-> "Most people don't lack motivation. They lack clarity."
-> — Marcus Buckingham
-
-# Discipline / Consistency / Habits Wisdom of the Day (January 31 2026)
-> "You do not need to be perfect. You just need to be consistent."
-> — James Clear
-
-# Wisdom / Life Lessons Wisdom of the Day (February 1 2026)
-> "Nothing ever goes away until it teaches us what we need to know."
-> — Pema Chödrön
-
-# Execution / Startups / Reality Check Wisdom of the Day (February 2 2026)
-> "People who ship win. Everyone else is just talking."
-> — Naval Ravikant
-
-# Courage / Progress Wisdom of the Day (February 3 2026)
-> "You don't have to see the whole staircase, just take the first step."
-> — Martin Luther King Jr.
-
-# Technology / Forward Thinking Wisdom of the Day (February 4 2026)
-> "The future is already here — it's just not evenly distributed."
-> — William Gibson
-
-# Purpose / Action Wisdom of the Day (February 5 2026)
-> "The future depends on what you do in the present."
-> — Mahatma Gandhi
-
-# Consistency / Habits Wisdom of the Day (February 6 2026)
-> "What you do every day matters more than what you do once in a while."
-> — Gretchen Rubin
-
-# Mindfulness / Inner Peace Wisdom of the Day (February 7 2026)
-> "The quieter you become, the more you are able to hear."
-> — Ram Dass
-
-# Resilience / Inner Strength Wisdom of the Day (February 8 2026)
-> "It is not the strength of the body that counts, but the strength of the spirit."
-> — J.R.R. Tolkien
-
-# Life / Wisdom Wisdom of the Day (February 9 2026)
-> "Nothing ever becomes real till it is experienced."
-> — John Keats
-
-# Productivity / Momentum Wisdom of the Day (February 10 2026)
-> "The secret of getting ahead is getting started."
-> — Mark Twain
-
-# Productivity / Craftsmanship Wisdom of the Day (February 11 2026)
-> "Simplicity is the soul of efficiency."
-> — Austin Freeman
-
-# Personal Growth / Resilience Wisdom of the Day (February 12 2026)
-> "It is not the mountain we conquer, but ourselves."
-> — Sir Edmund Hillary
-
-# Discipline / Personal Responsibility Wisdom of the Day (February 13 2026)
-> "Nothing will work unless you do."
-> — Maya Angelou
-
-# Discipline / Self-Mastery Wisdom of the Day (February 14 2026)
-> "Control your mind, and you control your sword."
-> — Samurai principle of Bushidō
-
-# Self-Discipline / Focus / Simplicity Wisdom of the Day (February 15 2026)
-> "Do nothing which is of no use."
-> — Miyamoto Musashi
-
-# Resilience / Inner Strength / Stoicism Wisdom of the Day (February 16 2026)
-> "It is difficulties that show what men are."
-> — Epictetus
-
-# Stoicism / Resilience Wisdom of the Day (February 17 2026)
-> "The impediment to action advances action. What stands in the way becomes the way."
-> — Marcus Aurelius
-
-# Honor / Courage / Duty Wisdom of the Day (February 18 2026)
-> "A knight is sworn to valor, not to victory."
-> — Medieval Chivalric Maxim
-
-# Stoicism / Strategy / Resilience Wisdom of the Day (February 19 2026)
-> "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."
-> — Sun Tzu
-
-# Discipline / Mastery / Focus Wisdom of the Day (February 20 2026)
-> "Concentrate every minute on doing what's in front of you with precise and genuine seriousness."
-> — Marcus Aurelius
-
-# Transformation / Power Wisdom of the Day (February 21 2026)
-> "All that you touch, you change. All that you change, changes you."
-> — Octavia E. Butler
-
-# Resilience / Perseverance Wisdom of the Day (February 22 2026)
-> "The best way out is always through."
-> — Robert Frost
-
-# Creativity / Initiative Wisdom of the Day (February 23 2026)
-> "If there's a book that you want to read, but it hasn't been written yet, then you must write it."
-> — Toni Morrison
-
-# Resilience / Opportunity Wisdom of the Day (February 24 2026)
-> "In the middle of difficulty lies opportunity."
-> — Albert Einstein
-
-# Courage / Growth Wisdom of the Day (February 25 2026)
-> "Not everything that is faced can be changed, but nothing can be changed until it is faced."
-> — James Baldwin
-
-# Courage / Letting Go Wisdom of the Day (February 26 2026)
-> "You wanna fly, you got to give up the thing that weighs you down."
-> — Toni Morrison
-
-# Growth / Courage / Self-Mastery Wisdom of the Day (February 27 2026)
-> "I am not afraid of storms, for I am learning how to sail my ship."
-> — Louisa May Alcott
-
-# Inner Strength / Resilience / Character Wisdom of the Day (February 28 2026)
-> "One must Say Yes to life, and embrace it wherever it is found — and it is found in terrible places."
-> — James Baldwin
-
-# Personal Growth / Courage / Resilience Wisdom of the Day (March 1 2026)
-> "Life shrinks or expands according to one's courage."
-> — Anaïs Nin
-
-# Consistency / Habits / Action Wisdom of the Day (March 2 2026)
-> "For the things we have to learn before we can do them, we learn by doing them."
-> — Aristotle
-
-# Initiative / Personal Responsibility / Impact Wisdom of the Day (March 3 2026)
-> "Do not wait for leaders; do it alone, person to person."
-> — Mother Teresa
-
-# Discipline / Action / Priorities Wisdom of the Day (March 4 2026)
-> "The key is not to prioritize what's on your schedule, but to schedule your priorities."
-> — Stephen Covey
-
-# Inspiration / Perseverance Wisdom of the Day (March 5 2026)
-> "If you surrender to the wind, you can ride it."
-> — Toni Morrison
-
-# Innovation / Progress Wisdom of the Day (March 6 2026)
-> "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man."
-> — George Bernard Shaw
-
-# Learning / Mastery Wisdom of the Day (March 7 2026)
-> "The future belongs to those who learn more skills and combine them in creative ways."
-> — Robert Greene
-
-# Courage / Growth Wisdom of the Day (March 8 2026)
-> "You cannot swim for new horizons until you have courage to lose sight of the shore."
-> — William Faulkner
-
-# Resilience / Personal Growth Wisdom of the Day (March 9 2026)
-> "When we are no longer able to change a situation, we are challenged to change ourselves."
-> — Viktor Frankl
-
-# Inspirational / Life / Philosophy Wisdom of the Day (March 10 2026)
-> "Surprise is the greatest gift which life can grant us."
-> — Boris Pasternak
-
-# Wisdom / Human Nature Wisdom of the Day (March 11 2026)
-> "One who deceives will always find those who allow themselves to be deceived."
-> — Niccolò Machiavelli
-
-# Inspirational / Motivational (with a focus on personal growth and character) Wisdom of the Day (March 12 2026)
-> "Courage is the ladder on which all the other virtues mount."
-> — Clare Boothe Luce
-
-# Wisdom / Compassion / Inspirational Wisdom of the Day (March 13 2026)
-> "My religion is very simple. My religion is kindness."
-> — Dalai Lama
-
-# Motivation / Wisdom (or Personal Growth & Curiosity) Wisdom of the Day (March 14 2026)
-> "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
-> — Albert Einstein
-
-# Love / Relationships (or Personal Growth/Inspirational) Wisdom of the Day (March 15 2026)
-> "Love takes off masks that we fear we cannot live without and know we cannot live within."
-> — James Baldwin
-
-# Inspirational / Life Wisdom of the Day (March 16 2026)
-> "Try to keep your soul young and quivering right up to old age."
-> — George Sand
-
-# Friendship Wisdom of the Day (March 17 2026)
-> "Think where man's glory most begins and ends, And say my glory was I had such friends."
-> — William Butler Yeats
-
-# Inspirational / Spiritual Resilience (or simply Motivational) Wisdom of the Day (March 18 2026)
-> "When the world pushes you to your knees, you're in the perfect position to pray."
-> — Rumi (the renowned 13th-century Persian poet and Sufi mystic)
-
-# Wisdom / Leadership (or Peace & Justice) Wisdom of the Day (March 19 2026)
-> "Peace and justice are two sides of the same coin."
-> — Dwight D. Eisenhower
-
-# Motivation / Perseverance (or Inspirational Success) Wisdom of the Day (March 20 2026)
-> "I trained four years to run nine seconds and people give up when they don't see results in two months."
-> — Usain Bolt
-
-# Motivation / Success / Preparation Wisdom of the Day (March 21 2026)
-> "Most people have the will to win, few have the will to prepare to win."
-> — Bobby Knight
-
-# Motivational / Success / Perseverance Wisdom of the Day (March 22 2026)
-> "Success is the sum of small efforts - repeated day in and day out."
-> — Robert Collier
-
-# Resilience / Courage / Character Wisdom of the Day (March 23 2026)
-> "Courage is the most important of all the virtues, because without courage you can't practice any other virtue consistently."
-> — Maya Angelou
-
-# Inspiration / Dreams Wisdom of the Day (March 24 2026)
-> "There is nothing like a dream to create the future."
-> — Victor Hugo
-
-# Motivation / Goals / Ambition Wisdom of the Day (March 25 2026)
-> "You should set goals beyond your reach so you always have something to live for."
-> — Ted Turner
-
-# Self-Confidence / Individuality / Life Wisdom Wisdom of the Day (March 26 2026)
-> "Be yourself; everyone else is already taken."
-> — Oscar Wilde
-
-# Happiness / Inner Peace Wisdom of the Day (March 27 2026)
-> "Happiness is not something ready made. It comes from your own actions."
-> — Dalai Lama
-
-# Motivation / Perseverance Wisdom of the Day (March 28 2026)
-> "It does not matter how slowly you go as long as you do not stop."
-> — Confucius
-
-# Motivation / Self-Belief Wisdom of the Day (March 29 2026)
-> "Believe you can and you're halfway there."
-> — Theodore Roosevelt
-
-# Inspiration / Personal Growth Wisdom of the Day (March 30 2026)
-> "Be the change that you wish to see in the world."
-> — Mahatma Gandhi
-
-# Motivation / Self-Belief / Resilience Wisdom of the Day (March 31 2026)
-> "You have to believe in yourself when no one else does."
-> — Serena Williams
+The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 42 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
 
 ---
 
-### Q2 2026 (April – June)
+## [~] Contributing
 
-91 quotes spanning April 1 through June 30, 2026
+This is a personal curation project, but suggestions are welcome. If you have a quote you'd love to see featured, open an issue with:
 
----
+- The quote text
+- The author
+- Suggested tags (2–3 themes)
 
-# Inspirational / Spiritual Growth Wisdom of the Day (April 1 2026)
-> "A rebirth out of spiritual adversity causes us to become new creatures."
-> — James E. Faust
-
-# Wisdom / Peace Wisdom of the Day (April 2 2026)
-> "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
-> — Martin Luther King, Jr.
-
-# Wisdom / Inspiration Wisdom of the Day (April 3 2026)
-> "Live as if you were to die tomorrow. Learn as if you were to live forever."
-> — Mahatma Gandhi
-
-# Wisdom / Philosophy Wisdom of the Day (April 4 2026)
-> "The only true wisdom is in knowing you know nothing."
-> — Socrates
-
-# Purpose / Life Reflection (or Motivational Wisdom) Wisdom of the Day (April 5 2026)
-> "The two most important days in your life are the day you are born and the day you find out why."
-> — Mark Twain
-
-# Purpose / Life Reflection / Motivational Wisdom of the Day (April 6 2026)
-> "The two most important days in your life are the day you are born and the day you find out why."
-> — Mark Twain
-
-# Wisdom / Inspiration / Lifelong Learning Wisdom of the Day (April 7 2026)
-> "Live as if you were to die tomorrow. Learn as if you were to live forever."
-> — Mahatma Gandhi
-
-# Wisdom / Philosophy Wisdom of the Day (April 8 2026)
-> "The only true wisdom is in knowing you know nothing."
-> — Socrates
-
-# Motivation / Action / Risk-taking Wisdom of the Day (April 9 2026)
-> "You miss 100% of the shots you don't take."
-> — Wayne Gretzky
-
-# Consistency / Perseverance / Opportunity Wisdom of the Day (April 10 2026)
-> "Many of life's failures are people who did not realize how close they were to success when they gave up."
-> — Thomas Edison
-
-# Courage / Self-Mastery / Inner Strength Wisdom of the Day (April 11 2026)
-> "The greatest glory in living lies not in never falling, but in rising every time we fall."
-> — Nelson Mandela
-
-# Motivation / Passion / Work / Success / Inspiration Wisdom of the Day (April 12 2026)
-> "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
-> — Steve Jobs
-
-# Samurai Wisdom / Discipline / Courage / Fearlessness Wisdom of the Day (April 13 2026)
-> "To win any battle, you must fight as if you are already dead."
-> — Miyamoto Musashi
-
-# Perseverance / Resilience Wisdom of the Day (April 14 2026)
-> "Fall seven times, stand up eight."
-> — Japanese Proverb
-
-# Existential Freedom / Rebellion / Personal Liberation Wisdom of the Day (April 15 2026)
-> "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."
-> — Albert Camus
-
-# Existential Freedom / Personal Liberation / Rebellion Wisdom of the Day (April 16 2026)
-> "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion."
-> — Albert Camus (French philosopher and author)
-
-# Personal Growth / Self-Determination / Destiny Wisdom of the Day (April 17 2026)
-> "The only person you are destined to become is the person you decide to be."
-> — Ralph Waldo Emerson
-
-# Personal Growth / Courage / Self-Acceptance Wisdom of the Day (April 18 2026)
-> "It takes courage to grow up and become who you really are."
-> — E.E. Cummings
-
-# Personal Growth / Discipline / Mindset Wisdom of the Day (April 19 2026)
-> "Growth and comfort do not coexist."
-> — Alex Hormozi
-
-# Courage / Inner Strength / Self-Mastery Wisdom of the Day (April 20 2026)
-> "Courage is resistance to fear, mastery of fear — not absence of fear."
-> — Mark Twain
-
-# Discipline / Inner Strength / Self-Mastery Wisdom of the Day (April 21 2026)
-> "The greatest battle is the one you fight within yourself. Win that, and all other victories follow."
-> — Inspired by ancient samurai and Stoic wisdom (a modern synthesis drawing from Miyamoto Musashi and Marcus Aurelius)
-
-# Resilience / Emotional Strength / Life Philosophy Wisdom of the Day (April 22 2026)
-> "Let everything happen to you: beauty and terror. Just keep going. No feeling is final."
-> — Rainer Maria Rilke
-
-# Philosophy / Life Perspective Wisdom of the Day (April 23 2026)
-> "Life can only be understood backwards; but it must be lived forwards."
-> — Søren Kierkegaard
-
-# Purpose / Contribution / Life Philosophy Wisdom of the Day (April 24 2026)
-> "The meaning of life is to find your gift. The purpose of life is to give it away."
-> — Pablo Picasso
-
-# Stoicism / Mindset / Mental Clarity Wisdom of the Day (April 25 2026)
-> "We suffer more often in imagination than in reality."
-> — Seneca
-
-# Self-Mastery / Stoicism / Discipline Wisdom of the Day (April 26 2026)
-> "No man is free who is not master of himself."
-> — Epictetus
-
-# Preparation / Opportunity / Success Wisdom of the Day (April 27 2026)
-> "Luck is what happens when preparation meets opportunity."
-> — Seneca
-
-# Action / Character / Stoicism Wisdom of the Day (April 28 2026)
-> "Waste no more time arguing what a good man should be. Be one."
-> — Marcus Aurelius
-
-# Character / Self-Control / Stoicism Wisdom of the Day (April 29 2026)
-> "The best revenge is not to be like your enemy."
-> — Marcus Aurelius
-
-# Courage / Growth / Risk-taking Wisdom of the Day (April 30 2026)
-> "Man cannot discover new oceans unless he has the courage to lose sight of the shore."
-> — André Gide
-
-# Resilience / Personal Growth Wisdom of the Day (May 1 2026)
-> "When we are no longer able to change a situation, we are challenged to change ourselves"
-> — Viktor E Frankl
-
-# Action / Mindset Wisdom of the Day (May 2 2026)
-> "Do not wait for the perfect time and place to enter, for you are already onstage."
-> — Unknown
-
-# Personal Growth / Discipline / Perseverance Wisdom of the Day (May 3 2026)
-> "In life, as in a football game, the principle to follow is: Hit the line hard."
-> — Theodore Roosevelt
-
-# Stoicism / Mindset Wisdom of the Day (May 4 2026)
-> "We suffer more often in imagination than in reality."
-> — Seneca
-
-# Discipline / Success Wisdom of the Day (May 5 2026)
-> "Luck is what happens when preparation meets opportunity."
-> — Seneca
-
-# Life / Balance Wisdom of the Day (May 6 2026)
-> "In between goals is a thing called life, that has to be lived and enjoyed."
-> — Sid Caesar
-
-# Courage / Action Wisdom of the Day (May 7 2026)
-> "You can't cross the sea merely by standing and staring at the water."
-> — Rabindranath Tagore
-
-# Courage / Self-belief Wisdom of the Day (May 8 2026)
-> "Do not wait for the perfect time and place to enter, for you are already onstage."
-> — Unknown
-
-# Growth / Risk-Taking Wisdom of the Day (May 9 2026)
-> "A ship in harbor is safe, but that is not what ships are built for."
-> — John Augustus Shedd
-
-# Resilience / Adaptability Wisdom of the Day (May 10 2026)
-> "The bamboo that bends is stronger than the oak that resists."
-> — Japanese Proverb
-
-# Perseverance / Growth Wisdom of the Day (May 11 2026)
-> "There is power in humility, There is strength in wisdom & there is growth in the death of self"
-> — Amariah Abishai
-
-# Motivation / Action / Future Growth Wisdom of the Day (May 12 2026)
-> "A year from now you may wish you had started today."
-> — Karen Lamb
-
-# Resilience / Growth / Adversity Wisdom of the Day (May 13 2026)
-> "A smooth sea never made a skilled sailor."
-> — Franklin D. Roosevelt
-
-# Resilience / Inner Strength / Empathy Wisdom of the Day (May 14 2026)
-> "The strongest people are not those who show strength in front of us, but those who win battles we know nothing about."
-> — Jonathan Harnisch
-
-# Philosophy / Adaptability Wisdom of the Day (May 15 2026)
-> "The only way to make sense out of change is to plunge into it, move with it, and join the dance"
-> —Alan Watts
-
-# Creativity / Inspiration Wisdom of the Day (May 16 2026)
-> "The chief enemy of creativity is 'good' sense"
-> — Pablo Picasso
-
-# Courage / Personal Growth / Self-Discovery Wisdom of the Day (May 17 2026)
-> "The cave you fear to enter holds the treasure you seek."
-> — Joseph Campbell
-
-# Wisdom / Self-Trust / Growth Wisdom of the Day (May 18 2026)
-> "At any given moment, you have the power to say: this is not how the story is going to end."
-> — Christine Mason Miller
-
-# Bravery / New-ness / Trial Wisdom of the Day (May 19 2026)
-> "It is often said that better the devil you know than the angel you dont, but you do not know the angel who will support you if you keep following the devil"
-> — Amariah Abishai
-
-# Patience / Strengthening / Hope Wisdom of the Day (May 20 2026)
-> "Delay is not denial, and if delayed it is the act of patience & faith that will bring it to pass"
-> — Amariah Abishai
-
-# Wisdom / Perspective / Personal Growth Wisdom of the Day (May 21 2026)
-> "The privilege of a lifetime is to become who you truly are."
-> — Carl Jung
-
-# Wisdom / Legacy / Courage Wisdom of the Day (May 22 2026)
-> "A society grows great when old men plant trees whose shade they know they shall never sit in."
-> — Greek Proverb
-
-# Change / Letting Go / Perception Wisdom of the Day (May 23 2026)
-> "One cannot hope to fly, if their feet is on the ground."
-> — Amariah Abishai
-
-# Inner Strength / Character / Creativity Wisdom of the Day (May 24 2026)
-> "One must still have chaos in oneself to be able to give birth to a dancing star."
-> — Friedrich Nietzsche
-
-# Stoicism / Mindset / Self-Mastery Wisdom of the Day (May 25 2026)
-> "The soul becomes dyed with the color of its thoughts."
-> — Marcus Aurelius
-
-# Philosophy / Intellectual Humility Wisdom of the Day (May 26 2026)
-> "If you believe that you have achieved the end of all knowledge, then you are as foolish as one who never pursued it in the first place."
-> — Amariah Abishai
-
-# Wisdom / Curiosity / Lifelong Learning Wisdom of the Day (May 27 2026)
-> "The mind that opens to a new idea never returns to its original size."
-> — Albert Einstein
-
-# Wisdom / Perspective / Growth Wisdom of the Day (May 28 2026)
-> "The bird fights its way out of the egg. The egg is the world. Whoever will be born must destroy a world."
-> — Hermann Hesse
-
-# Wisdom / Learning / Intellectual Humility Wisdom of the Day (May 29 2026)
-> "The man who asks a question is a fool for a minute, the man who does not ask is a fool for life."
-> — Confucius
-
-# Action / Growth / New Beginnings Wisdom of the Day (May 30 2026)
-> "The best time to plant a tree was twenty years ago. The second best time is now."
-> — Chinese Proverb
-
-# Determination / Action / Persistence Wisdom of the Day (May 31 2026)
-> "The person who says it cannot be done should not interrupt the person doing it."
-> — Chinese Proverb
-
-# Thankfulness / Success / Gratitude Wisdom of the Day (June 1 2026)
-> "Be grateful, for to have fallen to the deepest of depths, means to have once soared in the greatest of heights, achieving it again is a decision only you can make"
-> — Amariah Abishai
-
-# Learning / Curiosity / Intellectual Growth Wisdom of the Day (June 2 2026)
-> "The person who learns the most in any room is the person who asks the best questions, not the one who gives the most answers."
-> — Neil deGrasse Tyson
-
-# Personal Growth / Self-Discovery / Resilience / Psychology Wisdom of the Day (June 3 2026)
-> "The tree that would grow to heaven must send its roots to hell."
-> — Carl Jung
-
-# Wisdom / Perspective / Emotional Intelligence Wisdom of the Day (June 4 2026)
-> "The art of being wise is knowing what to overlook."
-> — William James
-
-# Resilience / Growth Through Adversity / Personal Development Wisdom of the Day (June 5 2026)
-> "The strongest oak of the forest is not the one that is protected from the storm and hidden from the sun. It is the one that stands in the open, where it is compelled to struggle for its existence against the winds and rains and the scorching sun."
-> — Napoleon Hill
-
-# Stoicism / Resilience / Personal Growth / Adversity Wisdom of the Day (June 6 2026)
-> "A gem cannot be polished without friction, nor a man perfected without trials."
-> — Lucius Annaeus Seneca
-
-# Acceptance / Resilience / Inner Peace Wisdom of the Day (June 7 2026)
-> "The best thing one can do when it's raining is to let it rain."
-> — Henry Wadsworth Longfellow
-
-# Resilience / Adaptability Wisdom of the Day (June 8 2026)
-> "The oak fought the wind and was broken, the willow bent when it must and survived."
-> — Robert Jordan
-
-# Action / Discipline Wisdom of the Day (June 9 2026)
-> "Knowing is not enough; we must apply. Willing is not enough; we must do."
-> —Johann Wolfgang von Goethe
-
-# Resilience / Self-Reliance Wisdom of the Day (June 10 2026)
-> "You may not control all the events that happen to you, but you can decide not to be reduced by them."
-> — Maya Angelou
-
-# Focus / Mindfulness Wisdom of the Day (June 11 2026)
-> "Wherever you are, be all there."
-> — Jim Elliot
-
-# Resilience / Self-Compassion Wisdom of the Day (June 12 2026)
-> "You did not wake up today to be less than you are. But you also do not need to be more than you are — just fully, honestly, bravely you."
-> — Mariame Kaba
-
-# Wisdom / Intellectual Humility / Lifelong Learning Wisdom of the Day (June 13 2026)
-> "The fool doth think he is wise, but the wise man knows himself to be a fool."
-> — William Shakespeare
-
-# Wisdom / Resilience / Honor Wisdom of the Day (June 14 2026)
-> "It is possible to commit no mistakes and still lose. That is not weakness; that is life."
-> — Jean-Luc Picard
-
-# Patience / Long-Term Vision / Daily Progress Wisdom of the Day (June 15 2026)
-> "Don't judge each day by the harvest you reap but by the seeds that you plant."
-> — Robert Louis Stevenson
-
-# Resilience / Perseverance / Growth Mindset Wisdom of the Day (June 16 2026)
-> "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
-> —Samuel Beckett (from his 1983 novella Worstward Ho)
-
-# Future Readiness / Action / Vision Wisdom of the Day (June 17 2026)
-> "As for the future, your duty is not to foresee it, but to enable it."
-> — Antoine de Saint-Exupéry (French writer, poet, and aviation pioneer)
-
-# Perseverance / Resilience / Determination Wisdom of the Day (June 18 2026)
-> "The brick walls are there for a reason. The brick walls are not there to keep us out. The brick walls are there to give us a chance to show how badly we want something."
-> — Randy Pausch (from his famous "The Last Lecture")
-
-# Resilience / Personal Transformation / Endurance Wisdom of the Day (June 19 2026)
-> "And once the storm is over, you won't remember how you made it through, how you managed to survive. You won't even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won't be the same person who walked in. That's what this storm's all about."
-> —Haruki Murakami (from his novel Kafka on the Shore)
-
-# Patience / Navigating Uncertainty / Trusting the Process Wisdom of the Day (June 20 2026)
-> "Be patient toward all that is unsolved in your heart and try to love the questions themselves... Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer."
-> — Rainer Maria Rilke (from his book Letters to a Young Poet)
-
-# Patience / Resilience / Perspective Wisdom of the Day (June 21 2026)
-> "The two most powerful warriors are patience and time."
-> — Leo Tolstoy
-
-# Courage / Overcoming Doubt / Action Wisdom of the Day (June 22 2026)
-> "Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt."
-> — William Shakespeare (from his play Measure for Measure)
-
-# Resilience / Healing / Inner Strength Wisdom of the Day (June 23 2026)
-> "The world breaks everyone, and afterward, some are strong at the broken places."
-> — Ernest Hemingway (from his novel A Farewell to Arms)
-
-# Personal Growth / Self-Determination / Destiny Wisdom of the Day (June 24 2026)
-> "The only person you are destined to become is the person you decide to be."
-> — Ralph Waldo Emerson
-
-# Adaptability / Growth Mindset Wisdom of the Day (June 25 2026)
-> "The measure of intelligence is the ability to change."
-> — Albert Einstein
-
-# Courage / Resilience / Action Wisdom of the Day (June 26 2026)
-> "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat."
-> — Theodore Roosevelt (from his speech "Citizenship in a Republic," delivered at the Sorbonne, Paris, April 23, 1910)
-
-# Perspective / Human Connection / Inner Strength Wisdom of the Day (June 27 2026)
-> "The most beautiful things in the world cannot be seen or even touched — they must be felt with the heart."
-> — Helen Keller
-
-# Curiosity / Lifelong Learning / Perspective Wisdom of the Day (June 28 2026)
-> "The cure for boredom is curiosity. There is no cure for curiosity."
-> — Dorothy Parker (American poet, writer, critic, and satirist, known for her razor-sharp wit)
-
-# Inner Growth / Self-Discovery / Introspection Wisdom of the Day (June 29 2026)
-> "The only journey is the one within."
-> — Rainer Maria Rilke
-
-# Personal Growth / Surrender / Trusting the Journey Wisdom of the Day (June 30 2026)
-> "We must be willing to let go of the life we've planned, so as to have the life that is waiting for us."
-> — Joseph Campbell
-
----
-
-### Q3 2026 (July – September)
-
-28 quotes so far and growing daily — spanning July 1 through September 30, 2026
-
----
-
-# Personal Freedom / Self-Expression / Overcoming Fear Wisdom of the Day (July 1 2026)
-> "The greatest prison people live in is the fear of what other people think."
-> — David Icke
-
-# Authenticity / Self-Trust / Courage Wisdom of the Day (July 2 2026)
-> "Care about what other people think and you will always be their prisoner."
-> — Lao Tzu
-
-# Mindset / Self-Limiting Beliefs / Personal Growth Wisdom of the Day (July 3 2026)
-> "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."
-> — Jordan Belfort
-
-# Freedom / Independence / Personal Liberation Wisdom of the Day (July 4 2026)
-> "For to be free is not merely to cast off one's chains, but to live in a way that respects and enhances the freedom of others."
-> — Nelson Mandela
-
-# Rebellion / Individuality / Courage Wisdom of the Day (July 5 2026)
-> "Whoso would be a man must be a nonconformist."
-> — Ralph Waldo Emerson
-
-# Mastery / Discipline / Kaizen Wisdom of the Day (July 6 2026)
-> "Throughout your life advance daily, becoming more skillful than yesterday, more skillful than today. This is never-ending."
-> — Yamamoto Tsunetomo
-
-# Mindfulness / Personal Growth / Choice Wisdom of the Day (July 7 2026)
-> "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
-> — Viktor Frankl
-
-# Resilience / Inner Strength / Choice Wisdom of the Day (July 8 2026)
-> "Everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances, to choose one's own way."
-> — Viktor Frankl
-
-# Creativity / Execution / Action Wisdom of the Day (July 9 2026)
-> "Real artists ship."
-> — Steve Jobs
-
-# Consistency / Mastery / Craftsmanship Wisdom of the Day (July 10 2026)
-> "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times."
-> — Bruce Lee
-
-# Growth / Transformation / Wisdom Wisdom of the Day (July 11 2026)
-> "The greatest and most important problems of life are all in a certain sense insoluble. They can never be solved, but only outgrown."
-> — Carl Jung
-
-# Inner Peace / Mindfulness / Self-Discovery Wisdom of the Day (July 12 2026)
-> "Nowhere can man find a quieter or more untroubled retreat than in his own soul."
-> — Marcus Aurelius
-
-# Perseverance / Resilience / Hope Wisdom of the Day (July 13 2026)
-> "Difficulties break some men but make others. No axe is sharp enough to cut the soul of a sinner who keeps on trying, one armed with the hope that he will rise even in the end."
-> — Nelson Mandela
-
-# Freedom / Responsibility / Existentialism Wisdom of the Day (July 14 2026)
-> "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does."
-> — Jean-Paul Sartre
-
-# Persistence / Grit / Work Ethic Wisdom of the Day (July 15 2026)
-> "Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not: the world is full of educated derelicts. Persistence and determination alone are omnipotent."
-> — Calvin Coolidge
-
-# Self-Discovery / Purpose / Personal Growth Wisdom of the Day (July 16 2026)
-> "To dare is to lose one's footing momentarily. Not to dare is to lose oneself."
-> — Søren Kierkegaard
-
-# Change / Becoming / Growth Wisdom of the Day (July 17 2026)
-> "Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death."
-> — Anaïs Nin
-
-# Strategy / Wisdom / True Victory Wisdom of the Day (July 18 2026)
-> "To subdue the enemy without fighting is the acme of skill."
-> — Sun Tzu
-
-# Creativity / Momentum / Discipline Wisdom of the Day (July 19 2026)
-> "Inertia is the death of creativity. You have to stay in the groove."
-> — Austin Kleon
-
-# Growth Through Struggle / Character / Resilience Wisdom of the Day (July 20 2026)
-> "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved."
-> — Helen Keller
-
-# Lifelong Learning / Wisdom / The Examined Life Wisdom of the Day (July 21 2026)
-> "As long as you live, keep learning how to live."
-> — Seneca
-
-# Personal Liberation / Inner Freedom / Identity Wisdom of the Day (July 22 2026)
-> "Freeing yourself was one thing, claiming ownership of that freed self was another."
-> — Toni Morrison
-
-# Execution / Results / Focus Wisdom of the Day (July 23 2026)
-> "Never mistake activity for achievement."
-> — John Wooden
-
-# Change / Impermanence / Philosophy Wisdom of the Day (July 24 2026)
-> "Everything changes and nothing stands still."
-> — Heraclitus
-
-# Perseverance / Courage / Resilience Wisdom of the Day (July 25 2026)
-> "If you're going through hell, keep going."
-> — Winston Churchill
-
-# Personal Growth / Self-Discovery / Letting Go Wisdom of the Day (July 26 2026)
-> "When I let go of what I am, I become what I might be."
-> — Lao Tzu
-
-# Habits / Identity / Small Actions Wisdom of the Day (July 27 2026)
-> "Every action you take is a vote for the type of person you wish to become."
-> — James Clear
-
-# Courage / Transformation / Truth Wisdom of the Day (July 28 2026)
-> "Fear is a natural reaction to moving closer to the truth."
-> — Pema Chödrön
-
-# Inner Battle / Self-Mastery / Humility Wisdom of the Day (July 29 2026)
-> "I do not know the way to defeat others, but the way to defeat myself."
-> — Yagyū Munenori
+All quotes are reviewed for fit and originality before joining the queue.

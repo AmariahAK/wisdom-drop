@@ -57,7 +57,7 @@ jobs:
 
           echo "Quote found: $AUTHOR — $QUOTE"
 
-      - name: Append to README.md
+      - name: Append to 2026/2026.md
         if: steps.quote.outputs.found == 'true'
         run: |
           TAGS="${{ steps.quote.outputs.tags }}"
@@ -76,9 +76,50 @@ jobs:
             echo "$HEADLINE"
             echo "> \"${QUOTE}\""
             echo "> — ${AUTHOR}"
-          } >> README.md
+          } >> 2026/2026.md
 
-          echo "Appended to README.md: $HEADLINE"
+          echo "Appended to 2026/2026.md: $HEADLINE"
+
+      - name: Update README today's quote
+        if: steps.quote.outputs.found == 'true'
+        run: |
+          TAGS="${{ steps.quote.outputs.tags }}"
+          QUOTE="${{ steps.quote.outputs.quote }}"
+          AUTHOR="${{ steps.quote.outputs.author }}"
+          DATE="${{ steps.date.outputs.date }}"
+
+          MONTH=$(date -d "$DATE" +'%B')
+          DAY=$(date -d "$DATE" +'%-d')
+          YEAR=$(date -d "$DATE" +'%Y')
+
+          # Write the today's-quote block to a temp file
+          {
+            echo "### * Today's Quote — ${MONTH} ${DAY}, ${YEAR}"
+            echo ""
+            echo "<table>"
+            echo "<tr><td>"
+            echo ""
+            echo "> \"${QUOTE}\""
+            echo "> — ${AUTHOR}"
+            echo ""
+            echo "</td></tr>"
+            echo "</table>"
+            echo ""
+            echo "<p align=\"right\"><sub>Tags: ${TAGS}</sub></p>"
+            echo ""
+            echo "<!-- today-quote -->"
+          } > /tmp/today-block.md
+
+          # Replace the <!-- today-quote --> marker line with the block from the temp file
+          awk '
+            /<!-- today-quote -->/ {
+              while ((getline line < "/tmp/today-block.md") > 0) print line
+              next
+            }
+            { print }
+          ' README.md > README.tmp && mv README.tmp README.md
+
+          echo "Updated README.md today's quote section"
 
       - name: Remove published entry from JSON
         if: steps.quote.outputs.found == 'true'
@@ -94,7 +135,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md upcoming-quotes.json
+          git add 2026/2026.md README.md upcoming-quotes.json
           git commit -m "Daily quote: ${{ steps.date.outputs.date }} — ${{ steps.quote.outputs.author }}
 
           Co-authored-by: DeepSeek V4 Pro <agent@atlarix.dev>"
