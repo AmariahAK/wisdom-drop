@@ -30,6 +30,19 @@
 
 <p align="right"><sub>Tags: Courage / Vulnerability / Inner Strength</sub></p>
 
+### * Today's Quote — July 31, 2026
+
+<table>
+<tr><td>
+
+> "Freedom is not something that anybody can be given; freedom is something people take, and people are as free as they want to be."
+> — James Baldwin
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Self-Determination / Liberation / Courage</sub></p>
+
 <!-- today-quote -->
 
 ---
