@@ -43,6 +43,19 @@
 
 <p align="right"><sub>Tags: Self-Determination / Liberation / Courage</sub></p>
 
+### * Today's Quote — August 1, 2026
+
+<table>
+<tr><td>
+
+> "Opportunity is missed by most people because it is dressed in overalls and looks like work."
+> — Thomas Edison
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Work Ethic / Execution / Perseverance</sub></p>
+
 <!-- today-quote -->
 
 ---
