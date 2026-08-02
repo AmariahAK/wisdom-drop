@@ -56,6 +56,19 @@
 
 <p align="right"><sub>Tags: Work Ethic / Execution / Perseverance</sub></p>
 
+### * Today's Quote — August 2, 2026
+
+<table>
+<tr><td>
+
+> "Sell your cleverness and buy bewilderment. Cleverness is mere opinion, bewilderment intuition."
+> — Rumi
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Intellectual Humility / Wisdom / Bewilderment</sub></p>
+
 <!-- today-quote -->
 
 ---
