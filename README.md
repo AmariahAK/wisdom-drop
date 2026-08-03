@@ -69,6 +69,19 @@
 
 <p align="right"><sub>Tags: Intellectual Humility / Wisdom / Bewilderment</sub></p>
 
+### * Today's Quote — August 3, 2026
+
+<table>
+<tr><td>
+
+> "The secret of life is to fall seven times and to get up eight times."
+> — Paulo Coelho
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Resilience / Growth / Persistence</sub></p>
+
 <!-- today-quote -->
 
 ---
