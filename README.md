@@ -82,6 +82,19 @@
 
 <p align="right"><sub>Tags: Resilience / Growth / Persistence</sub></p>
 
+### * Today's Quote — August 4, 2026
+
+<table>
+<tr><td>
+
+> "It is not what happens to you, but how you react to it that matters."
+> — Epictetus
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Stoicism / Perspective / Resilience</sub></p>
+
 <!-- today-quote -->
 
 ---
