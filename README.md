@@ -95,6 +95,19 @@
 
 <p align="right"><sub>Tags: Stoicism / Perspective / Resilience</sub></p>
 
+### * Today's Quote — August 5, 2026
+
+<table>
+<tr><td>
+
+> "Whatever you can do or dream you can, begin it. Boldness has genius, power and magic in it."
+> — Johann Wolfgang von Goethe
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Action / Boldness / Initiative</sub></p>
+
 <!-- today-quote -->
 
 ---
