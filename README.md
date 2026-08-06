@@ -108,6 +108,19 @@
 
 <p align="right"><sub>Tags: Action / Boldness / Initiative</sub></p>
 
+### * Today's Quote — August 6, 2026
+
+<table>
+<tr><td>
+
+> "That which does not kill us makes us stronger."
+> — Friedrich Nietzsche
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Resilience / Adversity / Strength</sub></p>
+
 <!-- today-quote -->
 
 ---
