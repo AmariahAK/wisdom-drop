@@ -121,6 +121,19 @@
 
 <p align="right"><sub>Tags: Resilience / Adversity / Strength</sub></p>
 
+### * Today's Quote — August 7, 2026
+
+<table>
+<tr><td>
+
+> "It is never too late to be what you might have been."
+> — George Eliot
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Potential / Reinvention / Hope</sub></p>
+
 <!-- today-quote -->
 
 ---
