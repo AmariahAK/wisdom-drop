@@ -134,6 +134,19 @@
 
 <p align="right"><sub>Tags: Potential / Reinvention / Hope</sub></p>
 
+### * Today's Quote — August 8, 2026
+
+<table>
+<tr><td>
+
+> "The unexamined life is not worth living."
+> — Socrates
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Reflection / Wisdom / Self-Knowledge</sub></p>
+
 <!-- today-quote -->
 
 ---
