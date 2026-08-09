@@ -147,6 +147,19 @@
 
 <p align="right"><sub>Tags: Reflection / Wisdom / Self-Knowledge</sub></p>
 
+### * Today's Quote — August 9, 2026
+
+<table>
+<tr><td>
+
+> "Waking up this morning, I smile. Twenty-four brand new hours are before me. I vow to live fully in each moment."
+> — Thich Nhat Hanh
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Mindfulness / Gratitude / Presence</sub></p>
+
 <!-- today-quote -->
 
 ---
