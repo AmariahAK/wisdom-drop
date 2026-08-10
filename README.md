@@ -160,6 +160,19 @@
 
 <p align="right"><sub>Tags: Mindfulness / Gratitude / Presence</sub></p>
 
+### * Today's Quote — August 10, 2026
+
+<table>
+<tr><td>
+
+> "The greatest weapon against stress is our ability to choose one thought over another."
+> — William James
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Mindset / Choice / Inner Peace</sub></p>
+
 <!-- today-quote -->
 
 ---
