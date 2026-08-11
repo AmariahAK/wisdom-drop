@@ -173,6 +173,19 @@
 
 <p align="right"><sub>Tags: Mindset / Choice / Inner Peace</sub></p>
 
+### * Today's Quote — August 11, 2026
+
+<table>
+<tr><td>
+
+> "A gem cannot be polished without friction, nor a man perfected without trials."
+> — Seneca
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Growth / Adversity / Resilience</sub></p>
+
 <!-- today-quote -->
 
 ---
