@@ -186,6 +186,19 @@
 
 <p align="right"><sub>Tags: Growth / Adversity / Resilience</sub></p>
 
+### * Today's Quote — August 12, 2026
+
+<table>
+<tr><td>
+
+> "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear."
+> — Nelson Mandela
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Courage / Action / Fearlessness</sub></p>
+
 <!-- today-quote -->
 
 ---
