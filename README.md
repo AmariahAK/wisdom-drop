@@ -199,6 +199,19 @@
 
 <p align="right"><sub>Tags: Courage / Action / Fearlessness</sub></p>
 
+### * Today's Quote — August 13, 2026
+
+<table>
+<tr><td>
+
+> "Simplicity is the ultimate sophistication."
+> — Leonardo da Vinci
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Wisdom / Simplicity / Truth</sub></p>
+
 <!-- today-quote -->
 
 ---
