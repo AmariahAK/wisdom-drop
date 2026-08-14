@@ -212,6 +212,19 @@
 
 <p align="right"><sub>Tags: Wisdom / Simplicity / Truth</sub></p>
 
+### * Today's Quote — August 14, 2026
+
+<table>
+<tr><td>
+
+> "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world."
+> — Albert Einstein
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Creativity / Innovation / Imagination</sub></p>
+
 <!-- today-quote -->
 
 ---
