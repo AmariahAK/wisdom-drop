@@ -225,6 +225,19 @@
 
 <p align="right"><sub>Tags: Creativity / Innovation / Imagination</sub></p>
 
+### * Today's Quote — August 15, 2026
+
+<table>
+<tr><td>
+
+> "The best way to find yourself is to lose yourself in the service of others."
+> — Mahatma Gandhi
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Leadership / Service / Purpose</sub></p>
+
 <!-- today-quote -->
 
 ---
