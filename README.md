@@ -238,6 +238,19 @@
 
 <p align="right"><sub>Tags: Leadership / Service / Purpose</sub></p>
 
+### * Today's Quote — August 16, 2026
+
+<table>
+<tr><td>
+
+> "It does not matter how slowly you go as long as you do not stop."
+> — Confucius
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Perseverance / Grit / Determination</sub></p>
+
 <!-- today-quote -->
 
 ---
