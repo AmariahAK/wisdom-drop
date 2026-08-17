@@ -251,6 +251,19 @@
 
 <p align="right"><sub>Tags: Perseverance / Grit / Determination</sub></p>
 
+### * Today's Quote — August 17, 2026
+
+<table>
+<tr><td>
+
+> "Peace comes from within. Do not seek it without."
+> — Buddha
+
+</td></tr>
+</table>
+
+<p align="right"><sub>Tags: Mindfulness / Presence / Peace</sub></p>
+
 <!-- today-quote -->
 
 ---
