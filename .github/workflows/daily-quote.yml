@@ -92,8 +92,10 @@ jobs:
           DAY=$(date -d "$DATE" +'%-d')
           YEAR=$(date -d "$DATE" +'%Y')
 
-          # Write the today's-quote block to a temp file
+          # Write the today's-quote block (between the stable markers) to a temp file
           {
+            echo "<!-- today-quote-start -->"
+            echo ""
             echo "### * Today's Quote — ${MONTH} ${DAY}, ${YEAR}"
             echo ""
             echo "<table>"
@@ -107,16 +109,18 @@ jobs:
             echo ""
             echo "<p align=\"right\"><sub>Tags: ${TAGS}</sub></p>"
             echo ""
-            echo "<!-- today-quote -->"
+            echo "<!-- today-quote-end -->"
           } > /tmp/today-block.md
 
-          # Replace the <!-- today-quote --> marker line with the block from the temp file
+          # Replace the region between the start/end markers with the block from the temp file
           awk '
-            /<!-- today-quote -->/ {
+            /<!-- today-quote-start -->/ { skip = 1; next }
+            /<!-- today-quote-end -->/ {
               while ((getline line < "/tmp/today-block.md") > 0) print line
+              skip = 0
               next
             }
-            { print }
+            !skip { print }
           ' README.md > README.tmp && mv README.tmp README.md
 
           echo "Updated README.md today's quote section"
