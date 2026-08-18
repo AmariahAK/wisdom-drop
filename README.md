@@ -19,18 +19,18 @@
 
 <!-- today-quote-start -->
 
-### * Today's Quote — August 17, 2026
+### * Today's Quote — August 18, 2026
 
 <table>
 <tr><td>
 
-> "Peace comes from within. Do not seek it without."
-> — Buddha
+> "Integrity is doing the right thing, even when no one is watching."
+> — C.S. Lewis
 
 </td></tr>
 </table>
 
-<p align="right"><sub>Tags: Mindfulness / Presence / Peace</sub></p>
+<p align="right"><sub>Tags: Character / Integrity / Honor</sub></p>
 
 <!-- today-quote-end -->
 
