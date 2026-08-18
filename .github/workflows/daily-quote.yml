@@ -57,7 +57,7 @@ jobs:
 
           echo "Quote found: $AUTHOR — $QUOTE"
 
-      - name: Append to 2026/2026.md
+      - name: Append to year archive
         if: steps.quote.outputs.found == 'true'
         run: |
           TAGS="${{ steps.quote.outputs.tags }}"
@@ -71,14 +71,45 @@ jobs:
           YEAR=$(date -d "$DATE" +'%Y')
           HEADLINE="# ${TAGS} Wisdom of the Day (${MONTH} ${DAY} ${YEAR})"
 
+          ARCHIVE="${YEAR}/${YEAR}.md"
+
+          # Create the year archive with a header if it doesn't exist yet
+          if [ ! -f "$ARCHIVE" ]; then
+            mkdir -p "$YEAR"
+            cat > "$ARCHIVE" <<EOF
+          <div align="center">
+
+          # 📜 Wisdom-Drop · ${YEAR} Archive
+
+          **The ${YEAR} edition — daily quotes from January through December ${YEAR}**
+
+          </div>
+
+          <p align="center">
+            <a href="#"><img src="https://img.shields.io/badge/year-${YEAR}-8b9dc3?style=flat" alt="Year ${YEAR}"></a>
+            <a href="#"><img src="https://img.shields.io/badge/quotes%20published-1-2d4b3e?style=flat" alt="Quotes Published"></a>
+            <a href="../README.md"><img src="https://img.shields.io/badge/main%20README-→-5a7d6e?style=flat" alt="Main README"></a>
+          </p>
+
+          > **This is the ${YEAR} archive of [Wisdom-Drop](../README.md)** — the daily-quote anthology continuing the practice begun in July 2025. Quotes are published daily and live here.
+
+          ---
+
+          # 📚 ${YEAR} Quote Archive
+
+          ### Q1 ${YEAR} (January – March)
+          EOF
+            echo "Created new archive: $ARCHIVE"
+          fi
+
           {
             echo ""
             echo "$HEADLINE"
             echo "> \"${QUOTE}\""
             echo "> — ${AUTHOR}"
-          } >> 2026/2026.md
+          } >> "$ARCHIVE"
 
-          echo "Appended to 2026/2026.md: $HEADLINE"
+          echo "Appended to $ARCHIVE: $HEADLINE"
 
       - name: Update README today's quote
         if: steps.quote.outputs.found == 'true'
@@ -133,13 +164,34 @@ jobs:
           mv tmp.json upcoming-quotes.json
           echo "Removed $DATE from upcoming-quotes.json ($(jq length upcoming-quotes.json) remaining)"
 
+      - name: Refresh counts
+        if: steps.quote.outputs.found == 'true'
+        run: |
+          PUBLISHED=$(grep -rhc 'Wisdom of the Day' 20*/*.md 2>/dev/null | awk '{s+=$1} END {print s+0}')
+          QUEUED=$(jq 'length' upcoming-quotes.json)
+
+          echo "Published: $PUBLISHED, Queued: $QUEUED"
+
+          sed -i -E "s/quotes%20published-[0-9]+/quotes%20published-$PUBLISHED/g" README.md
+          sed -i -E "s/quotes%20queued-[0-9]+/quotes%20queued-$QUEUED/g" README.md
+          sed -i -E "s/[0-9]+ quotes published so far/$PUBLISHED quotes published so far/g" README.md
+          sed -i -E "s/[0-9]+ more queued and counting/$QUEUED more queued and counting/g" README.md
+          sed -i -E "s/[0-9]+ quotes scheduled ahead/$QUEUED quotes scheduled ahead/g" README.md
+
+          # Keep each year archive's "quotes published" badge in sync with its own file
+          for f in 20*/*.md; do
+            n=$(grep -c 'Wisdom of the Day' "$f" || true)
+            sed -i -E "s/quotes%20published-[0-9]+/quotes%20published-$n/" "$f"
+            echo "Year badge: $f -> $n published"
+          done
+
       - name: Commit and push
         if: steps.quote.outputs.found == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add 2026/2026.md README.md upcoming-quotes.json
+          git add 20*/*.md README.md upcoming-quotes.json
           git commit -m "Daily quote: ${{ steps.date.outputs.date }} — ${{ steps.quote.outputs.author }}
 
           Co-authored-by: DeepSeek V4 Pro <agent@atlarix.dev>"
