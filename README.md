@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-371-2d4b3e?style=flat" alt="Quotes Published"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-175-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-372-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-174-5a7d6e?style=flat" alt="Quotes Queued"></a>
   <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
 </p>
 
@@ -19,18 +19,18 @@
 
 <!-- today-quote-start -->
 
-### * Today's Quote — September 18, 2026
+### * Today's Quote — September 19, 2026
 
 <table>
 <tr><td>
 
-> "The soul would have no rainbow had the eyes no tears."
-> — John Vance Cheney
+> "The measure of who we are is what we do with what we have."
+> — Vince Lombardi
 
 </td></tr>
 </table>
 
-<p align="right"><sub>Tags: Resilience / Healing / Perspective</sub></p>
+<p align="right"><sub>Tags: Character / Action / Integrity</sub></p>
 
 <!-- today-quote-end -->
 
@@ -65,7 +65,7 @@ The project is both a personal discipline and a public offering: a slow-growing 
 2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
 3. **The quote is appended** to the yearly archive ([`2026/2026.md`](2026/2026.md)), today's quote on this page is updated, and the entry is removed from the queue — all committed automatically.
 
-> 371 quotes published so far. 175 more queued and counting.
+> 372 quotes published so far. 174 more queued and counting.
 
 ---
 
@@ -135,7 +135,7 @@ The 2026 archive grows daily — each new quote appears at the bottom of Q3 and 
 
 ## [~] Upcoming Quotes
 
-The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 175 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
+The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 174 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
 
 ---
 
