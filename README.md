@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-395-2d4b3e?style=flat" alt="Quotes Published"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-151-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-396-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-150-5a7d6e?style=flat" alt="Quotes Queued"></a>
   <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
 </p>
 
@@ -19,18 +19,18 @@
 
 <!-- today-quote-start -->
 
-### * Today's Quote — October 12, 2026
+### * Today's Quote — October 13, 2026
 
 <table>
 <tr><td>
 
-> "Blessed are those who give without remembering and take without forgetting."
-> — Elizabeth Bibesco
+> "It is not who is right, but what is right, that is of importance."
+> — Thomas Huxley
 
 </td></tr>
 </table>
 
-<p align="right"><sub>Tags: Gratitude / Generosity / Grace</sub></p>
+<p align="right"><sub>Tags: Truth / Integrity / Wisdom</sub></p>
 
 <!-- today-quote-end -->
 
@@ -65,7 +65,7 @@ The project is both a personal discipline and a public offering: a slow-growing 
 2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
 3. **The quote is appended** to the yearly archive ([`2026/2026.md`](2026/2026.md)), today's quote on this page is updated, and the entry is removed from the queue — all committed automatically.
 
-> 395 quotes published so far. 151 more queued and counting.
+> 396 quotes published so far. 150 more queued and counting.
 
 ---
 
@@ -135,7 +135,7 @@ The 2026 archive grows daily — each new quote appears at the bottom of Q3 and 
 
 ## [~] Upcoming Quotes
 
-The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 151 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
+The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 150 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
 
 ---
 
