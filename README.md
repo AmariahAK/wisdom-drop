@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-399-2d4b3e?style=flat" alt="Quotes Published"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-147-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-400-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-146-5a7d6e?style=flat" alt="Quotes Queued"></a>
   <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
 </p>
 
@@ -19,18 +19,18 @@
 
 <!-- today-quote-start -->
 
-### * Today's Quote — October 16, 2026
+### * Today's Quote — October 17, 2026
 
 <table>
 <tr><td>
 
-> "Growth is painful. Change is painful. But nothing is as painful as staying stuck where you do not belong."
-> — N. R. Narayana Murthy
+> "All growth is a leap in the dark, a spontaneous unpremeditated act without benefit of experience."
+> — Henry Miller
 
 </td></tr>
 </table>
 
-<p align="right"><sub>Tags: Growth / Courage / Change</sub></p>
+<p align="right"><sub>Tags: Courage / Growth / Uncertainty</sub></p>
 
 <!-- today-quote-end -->
 
@@ -65,7 +65,7 @@ The project is both a personal discipline and a public offering: a slow-growing 
 2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
 3. **The quote is appended** to the yearly archive ([`2026/2026.md`](2026/2026.md)), today's quote on this page is updated, and the entry is removed from the queue — all committed automatically.
 
-> 399 quotes published so far. 147 more queued and counting.
+> 400 quotes published so far. 146 more queued and counting.
 
 ---
 
@@ -135,7 +135,7 @@ The 2026 archive grows daily — each new quote appears at the bottom of Q3 and 
 
 ## [~] Upcoming Quotes
 
-The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 147 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
+The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 146 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
 
 ---
 
