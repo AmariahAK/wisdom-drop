@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-404-2d4b3e?style=flat" alt="Quotes Published"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-142-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-405-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-141-5a7d6e?style=flat" alt="Quotes Queued"></a>
   <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
 </p>
 
@@ -19,18 +19,18 @@
 
 <!-- today-quote-start -->
 
-### * Today's Quote — October 21, 2026
+### * Today's Quote — October 22, 2026
 
 <table>
 <tr><td>
 
-> "The soul which has no fixed purpose in life is lost; to be everywhere, is to be nowhere."
-> — Michel de Montaigne
+> "When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way."
+> — Wayne Dyer
 
 </td></tr>
 </table>
 
-<p align="right"><sub>Tags: Purpose / Focus / Direction</sub></p>
+<p align="right"><sub>Tags: Presence / Journey / Mindfulness</sub></p>
 
 <!-- today-quote-end -->
 
@@ -65,7 +65,7 @@ The project is both a personal discipline and a public offering: a slow-growing 
 2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
 3. **The quote is appended** to the yearly archive ([`2026/2026.md`](2026/2026.md)), today's quote on this page is updated, and the entry is removed from the queue — all committed automatically.
 
-> 404 quotes published so far. 142 more queued and counting.
+> 405 quotes published so far. 141 more queued and counting.
 
 ---
 
@@ -135,7 +135,7 @@ The 2026 archive grows daily — each new quote appears at the bottom of Q3 and 
 
 ## [~] Upcoming Quotes
 
-The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 142 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
+The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 141 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
 
 ---
 
