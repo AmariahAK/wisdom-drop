@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml"><img src="https://github.com/AmariahAK/wisdom-drop/actions/workflows/daily-quote.yml/badge.svg" alt="Daily Quote"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-418-2d4b3e?style=flat" alt="Quotes Published"></a>
-  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-128-5a7d6e?style=flat" alt="Quotes Queued"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20published-419-2d4b3e?style=flat" alt="Quotes Published"></a>
+  <a href="#"><img src="https://img.shields.io/badge/quotes%20queued-127-5a7d6e?style=flat" alt="Quotes Queued"></a>
   <a href="#"><img src="https://img.shields.io/badge/year-2026-8b9dc3?style=flat" alt="Year 2026"></a>
 </p>
 
@@ -19,18 +19,18 @@
 
 <!-- today-quote-start -->
 
-### * Today's Quote — November 4, 2026
+### * Today's Quote — November 5, 2026
 
 <table>
 <tr><td>
 
-> "The mind converts and changes every hindrance to its activity into an aid."
-> — Marcus Aurelius
+> "The pressure of adversity does not affect the mind of a brave man."
+> — Seneca
 
 </td></tr>
 </table>
 
-<p align="right"><sub>Tags: Stoicism / Resilience / Perspective</sub></p>
+<p align="right"><sub>Tags: Resilience / Courage / Inner Strength</sub></p>
 
 <!-- today-quote-end -->
 
@@ -65,7 +65,7 @@ The project is both a personal discipline and a public offering: a slow-growing 
 2. **Every day at 6am UTC**, the [GitHub Action](.github/workflows/daily-quote.yml) picks the quote scheduled for that date.
 3. **The quote is appended** to the yearly archive ([`2026/2026.md`](2026/2026.md)), today's quote on this page is updated, and the entry is removed from the queue — all committed automatically.
 
-> 418 quotes published so far. 128 more queued and counting.
+> 419 quotes published so far. 127 more queued and counting.
 
 ---
 
@@ -135,7 +135,7 @@ The 2026 archive grows daily — each new quote appears at the bottom of Q3 and 
 
 ## [~] Upcoming Quotes
 
-The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 128 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
+The full queue lives in [`upcoming-quotes.json`](upcoming-quotes.json) — 127 quotes scheduled ahead. Each entry has a date, author, quote body, and tags. New quotes are added to the end of the queue as inspiration strikes.
 
 ---
 
